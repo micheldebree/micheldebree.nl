@@ -5,18 +5,18 @@ Ik overleg regelmatig met zowel business analisten als de it-afdeling en leveran
 
 Als lead developer ben ik verantwoordelijk voor kwaliteit- en architectuur bewaking. Ik doe dit voor top 500 klanten in de logistieke, telecommunicatie, bank en medische sector.
 
-|            |
--------------|--------
-geboortejaar | 1972
-woonplaats   | Den Haag
-e-mail       | [michel@micheldebree.nl](mailto:michel@micheldebree.nl)
-telefoon     | [+31 681 473 884](tel:+31681473884)
+|            |         |
+|-------------|--------|
+| Geboortejaar | 1972 |
+| Woonplaats  | Den Haag |
+| E-mail       | [michel@micheldebree.nl](mailto:michel@micheldebree.nl) |
+| Telefoon     | [+31 681 473 884](tel:+31681473884) |
 
 ## Vaardigheden
 
-| |
--|-
-Backend ontwikkeling | Java Enterprise Edition (JEE), Ruby
+| | |
+|---|---|
+| Backend ontwikkeling | Java Enterprise Edition (JEE), Ruby |
 
 ## Projecten
 
