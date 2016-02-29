@@ -1,0 +1,433 @@
+% On OSX, with Homebrew:
+% brew install basictex
+% sudo tlmgr update --self
+% sudo tlmgr install a4wide
+% sudo tlmgr install titlesec
+% 
+% pdflatex cv.tex
+\documentclass[a4paper]{article}
+\usepackage[dutch, english]{babel}
+\usepackage{a4wide}
+
+% set as an option: nl or en
+\usepackage[nl]{optional}
+%\usepackage[dvipdfm]{hyperref} % for hyperlinks in PDF
+\usepackage{url}
+%\usepackage{sectsty} % for setting section header styles
+%\usepackage[normalem]{ulem}
+
+\usepackage[small]{titlesec}
+
+% turn off paragraph indenting
+\setlength{\parindent}{0pt}
+
+\newcommand{\ms}{MS}
+\newcommand{\postgresql}{Pos\-greSQL}
+\newcommand{\mysql}{My\-SQL}
+\newcommand{\omschrijving}{Omschrijving:}
+\newcommand{\activiteiten}{Activiteiten:}
+\newcommand{\tools}{Tools, methoden en technieken:}
+
+\newcommand{\tabelh}[1]{\textbf{#1}}
+
+%\renewcommand{\rmdefault}{bch} % bitstream charter for rm
+%\renewcommand{\ttdefault}{pcr} % courier for tt 
+%\renewcommand{\sfdefault}{phv} % avantgarde for sf
+
+\opt{en}{\title{\Huge R\'esum\'e}}
+\opt{nl}{\title{\Huge\sffamily Curriculum Vit\ae}}
+\author{\sffamily Michel de Bree}
+\date{}
+
+% available fonts:
+% ppl (rm) palatino
+% pag (sf) avantgarde
+% phv (sf) helvetica
+% ptm (rm) times
+% pcr (tt) courier
+% pbk (rm) bookman
+% pnc (rm) new century schoolbook
+% pzc (rm)
+% bch (rm) bitstream charter
+% universal (sf) raster
+
+%\renewcommand{\rmdefault}{ppl} % palatino for rm
+%\renewcommand{\rmdefault}{ppl} % palatino for rm
+
+%\allsectionsfont{\sf}
+%\sectionfont{\sf}
+%\allsectionsfont{\usefont{T1}{pzc}{m}{n}}
+
+%\titleformat*{\section}{\sffamily\Large\titlerule}
+
+\titleformat{\section}{\sffamily\large}{\thesection}{.5em}{}[\titlerule]
+
+\begin{document}
+    \opt{en}{\selectlanguage{english}}
+    \opt{nl}{\selectlanguage{dutch}}
+{\maketitle}
+%{\sf \maketitle}
+
+
+% persoonsgegevens {{{
+\section*{Persoonsgegevens}	
+		
+    \begin{tabular}{l l}
+        Adres: & Thorbeckelaan 173 \\
+        & 2564 BJ  Den Haag \\
+        Telefoon: & 070~388~2552 \\
+        Mobiel: & 0644~252~350\\
+        E-mail: & \texttt{m.debree@gmail.com} \\
+        Geboren : & 18 september 1972 \\
+        Geslacht: & Mannelijk \\
+        Nationaliteit: & Nederlandse \\
+        Burgelijke staat: & Samenwonend \\
+        Rijbewijs: & B \\
+        Talenkennis: & Nederlands (moedertaal) \\
+        & Engels (vloeiend) \\
+        & Frans (redelijk) \\
+    \end{tabular}
+% }}}
+            
+% profiel {{{
+\section*{Profiel}
+Ervaren software ontwikkelaar met academische opleiding en denkniveau,
+gespecialiseerd in web\-applicaties en --services, gebruik makend van Java/J2EE.
+Ik heb een autodidactische instelling en houd mezelf voortdurend op de hoogte
+van de nieuwe ontwikkelingen op het gebied van software development en
+architectuur. Op basis van mijn ervaring weet ik deze snel op waarde te
+schatten. Mijn interesse gaat o.a. uit naar het voortdurend verbeteren van
+softwareontwikkeling als proces, zonder daarbij de pragmatische aspecten uit
+het oog te verliezen.
+% }}}
+
+% algemene kennis en ervaring {{{
+		\section*{\opt{en}{Acquired Skills \&\ Knowledge}\opt{nl}{Algemene
+		kennis \&\ ervaring}}
+
+		\begin{tabular}{l p{10cm}}
+			\opt{en}{Methodologies \&\ Techniques}\opt{nl}{Methoden \&\
+			Technieken:} & Prince 2, UML, object oriented design \&
+            development, design
+			patterns, refactoring, unit testing, configuration management,
+            code review.\\
+			\opt{en}{Programming Languages}\opt{nl}{Programmeertalen:} & Java,
+			C, Visual Basic, Pascal, Delphi, Assembler \\
+			Web development & Java, J2EE, JSP, XML, HTML, XHTML, CSS, PHP. \\
+			Libraries \&\ Frameworks & Tapestry, Struts, MMBase, JUnit, Velocity,
+			Hibernate \\
+			Ontwikkelomgeving: & Eclipse, Ant, CVS, Subversion \\	
+			Databases: & \mysql, \postgresql, SQLServer, HSQLDB \\
+			\opt{en}{Personal Interests}\opt{nl}{Persoonlijke interesses:} &
+			Java/J2EE/J2ME, open source \&\ open standards, 
+			web development, component-based development,
+			configuration management, softwareontwikkeling in het algemeen. \\
+		\end{tabular}
+% }}}
+
+% education {{{
+	\section*{\opt{en}{Education}\opt{nl}{Opleiding}}
+
+		\begin{tabular}{l p{10cm}}
+			1991 -- 2001 & 
+			\opt{en}{\textbf{Information Technology, Delft University of
+			Technology, Delft, NL}}
+			\opt{nl}{\textbf{Technische Informatica, Technische Universiteit
+            Delft}}:
+			\opt{en}{Specialized in Software
+			Engineering.}\opt{nl}{Afstudeerrichting Software Engineering.} \medskip \\
+			
+			1984 -- 1991 & \textbf{VWO, Vlietland College, Leiden}:
+			\opt{en}{Final exams in maths, physics, chemistry, biology, dutch, english
+			and business economics.}
+			\opt{nl}{Eindexamen in wiskunde, natuurkunde, scheikunde,
+			biologie, nederlands, engels en bedrijfseconomie.} \medskip \\
+		\end{tabular}
+% }}}		
+
+% courses {{{
+	\section*{\opt{en}{Courses}\opt{nl}{Cursussen}}
+	
+		\begin{tabular}{l l}
+			2003 & \textbf{Prince 2 Foundation}, Imtech ICT \\
+			2003 & \textbf{MMBase in a Nutshell}, MMatch \\
+			2002 & \textbf{Developing J2EE Compliant Applications},
+			Sun Educational Services \\
+			2001 & \textbf{Object Oriented Analysis \&\ Design}, 
+			Sun Educational Services \\
+		\end{tabular}
+% }}}		
+
+% working experience {{{
+
+	\section*{\opt{en}{Working Experience}\opt{nl}{Werkervaring}}
+	
+		\begin{tabular}{l p{10cm}}
+
+			\opt{en}{2001 -- today}\opt{nl}{2001 -- heden} & \textbf{Imtech
+			ICT Industry Solutions, Den Haag, NL}:
+			Software Engineer. 
+            \opt{en}{Design and implementation of software projects.}
+            \opt{nl}{Ontwerpen en implementeren van software projecten.}
+			
+			\medskip \\
+		
+			1996 -- 2001 & 
+			\opt{en}{\textbf{Laboratory of Physiology, Leiden University Medical Centre,
+			Leiden, NL}:}
+			\opt{nl}{\textbf{Laboratorium voor Fysiologie, Leids Universitair
+			Medisch Centrum, Leiden}:}
+			\opt{en}{I.T. related support of physiological research.  Includes development of
+			online measuring/data collection software, data processing and analysis
+			software, technical support, website development and maintenance.}
+			\opt{nl}{I.T. gerelateerde support van fysiologisch onderzoek.
+			Ontwikkeling van online meetsoftware, software voor het verwerken
+			en analyseren van meetgegevens, technisch support, website
+            ontwikkeling en onderhoud.}
+			
+			\medskip \\
+	
+			1994 -- 1996 &
+			\opt{en}{\textbf{``Computer Ondersteund Onderwijs'', Medical
+			IT, Leiden University Medical Centre, Leiden, NL}:			
+			Responsible for the implementation of Egel 3.0, together with one collegue.
+			Involved upgrading a large database of questions to be used in exams at the
+			medical faculty and developing the software used to maintain the database,
+			automatically generate exams and administer them online.  For this purpose
+			\ms\ Access was used as the database, and \ms\ Visual Basic for
+			the software. Egel has since developed into a commercial
+			product (see \url{http://www.tokobv.nl}).}
+			\opt{nl}{\textbf{Computer Ondersteund Onderwijs (COO), Medische
+			Informatica, Leids Universitair Medisch Centrum, Leiden}:
+            Software Engineer. Produktontwikkeling.}
+			
+			\medskip \\ 
+
+			1994 & 
+			\opt{en}{\textbf{Norwegian University of Science and Technology,
+			Trondheim, NO}: Lived in Trondheim for a few months to do
+			practical assignment for my studies, together with two fellow
+			students. We built a demo application for a contraint-solving
+			environment called CHIP.}
+			\opt{nl}{\textbf{Norwegian University of Science and Technology,
+			Trondheim, Noorwegen}:
+			Samen met twee medestudenten een ``derdejaars praktikum''
+			uitgevoerd in het kader van mijn studie, bestaande uit een
+			demo applicatie voor een constraint-solving omgeving genaamd CHIP.}
+			\medskip \\
+			
+		\end{tabular} \
+% }}}
+
+        \pagebreak
+
+        \section*{Projecten}
+        
+        % Kennisnet
+        \begin{tabular}{l p{10cm}}
+            \tabelh{april 2005 -- juli 2005} & \tabelh{Zoekmachine voor het
+            onderwijs} \\
+
+            \omschrijving &
+            Implementatie van een nieuwe versie van een zoekmachine voor het
+            onderwijs. De zoekmachine bestaat uit een database van ruim 65000
+            bronnen. Deze bronnen worden handmatig aangemeld, gecategoriseerd
+            en gewaardeerd door een groot aantal redacteuren verspreid door
+            het land.  In een team van 5 software engineers is de applicatie
+            voorzien van een nieuwe webservice interface, een technisch beheer
+            module en een vernieuwde redacteuren omgeving, compleet met
+            autorisatie en workflow. \\
+            \activiteiten & implementatie, refactoring, code review, testen.\\
+            \tools & UML, MVC, Java 5, J2EE, Struts,
+            Lucene, Servlets, JSP, HTML, CSS, \postgresql, Tapestry,
+            Hibernate, Tomcat, Eclipse, Ant, JUnit, CVS \\
+        \end{tabular}
+
+        \medskip
+       
+        % TUMS
+        \begin{tabular}{l p{10cm}}
+            \tabelh{maart 2005 --  mei 2005} & \tabelh{Resource planning
+            applicatie} \\
+            \omschrijving & Ontwerp en realisatie van een resource
+            planning applicatie. Het gaat om een legacy desktop applicatie die
+            van een web interface moest worden voorzien. Na analyse van het
+            bestaande systeem is besloten tot een volledige herontwerp van de
+            applicatie, waarbij de nadruk wordt gelegd op onderhoudbaarheid en
+            uitbreidbaarheid. Er is een 3-tier architectuur ontworpen,
+            waarbij de functionaliteit zich concentreert in de business tier. \\
+            \activiteiten & Analyse, technisch ontwerp, ontwikkeling. \\
+            \tools & Java/J2EE, Hibernate, Tapestry,
+            Servlets, HTML, CSS, Eclipse, Ant, \mysql, Subversion \\
+        \end{tabular}
+
+        \medskip
+        
+        % Nedal
+        \begin{tabular}{l p{10cm}}
+            \tabelh{december 2004 --  maart 2005} & \tabelh{Applicatie
+            integratie m.b.v. een webservice} \\
+            \omschrijving &
+            Ontwerp en realisatie van een interface die de gegevensstroom
+            realiseert tussen systemen in een produktieomgeving en het
+            kantoor.  Omdat deze twee systemen door verschillende leveranciers
+            op verschillende platformen zijn ontwikkeld, isgekozen voor een
+            oplossing m.b.v. een webservice interface. \\
+            \activiteiten: &
+            Consultancy, Research, Technisch Ontwerp, Ontwikkeling, Integratie \\
+            \tools & Java/J2EE, Webservices (JAX-RPC),
+            Axis, Eclipse, Subversion \\
+        \end{tabular}
+
+        \medskip
+        
+        %Hydron
+        \begin{tabular}{l p{10cm}}
+            \tabelh{oktober 2004 -- januari 2005} & \tabelh{Webvisualisatie
+            van actuele meetgegevens} \\
+            \omschrijving &
+            Ontwerp en realisatie van real-time visualisatie van actuele
+            meetgegevens. De gebruiker kan lokaties op een geografische kaart
+            aanklikken, waarbij aktuele meetgegevens getoond worden over
+            produktie en transport op die lokatie. De actuele gegevens zijn
+            afkomstig uit een reeds bestaand meetsysteem. De applicatie houdt
+            tevens een historie bij van de ontvangen meetgegevens, welke
+            d.m.v.  trendgrafieken bekeken kunnen worden. \\
+            \activiteiten &
+            Functioneel en technisch ontwerp, research, ontwikkeling,
+            vormgeving, documentatie \\
+            \tools &
+            Java/J2EE,  JSP, Servlets, Hibernate, J-Integra, \mysql,
+            JFree\-Chart, Tomcat, Eclipse, HTML, CSS. \\
+        \end{tabular}
+
+        \medskip
+
+        %DZL
+        \begin{tabular}{l p{10cm}}
+            \tabelh{januari 2004 -- oktober 2004} & \tabelh{Prototype grafisch
+            CMS} \\
+            \omschrijving &
+            Ontwerp en bouw van een prototype ter ondersteuning van een concept dat
+            bedacht is door een klant vanuit de grafische industrie. Het gaat om een
+            content management systeem waarin teksten en afbeeldingen kunnen worden
+            opgeslagen. Afbeeldingen moeten op basis van bepaalde criteria kunnen worden
+            gevonden en direct in verschillende formaten (grootte, resolutie,
+            bestandsformaat etc.) kunnen worden opgeslagen afhankelijk van de toepassing
+            (drukwerk, website etc.). Ook kan de gebruiker drukwerk genereren op basis van
+            sjablonen (PDF), met variabele inhoud, dat direct naar de drukker
+            kan. \\
+            \activiteiten &
+            Consultancy, ontwerp en ontwikkeling, vormgeving. \\
+            \tools &
+            Java,  MMBase, JSP, HTML, Eclipse, PDF \\
+        \end{tabular}
+       
+        \medskip
+        
+        %Mercator
+        \begin{tabular}{l p{10cm}}
+            \tabelh{oktober 2003 -- april 2005} & \tabelh{CMS voor corporate
+            websites} \\
+            \omschrijving &
+            Realisatie van nieuwe functionaliteiten in een open source content-management
+            systeem. Betreft voornamelijk de ondersteuning van meerdere sites binnen één
+            systeem, met daaraan gekoppeld autorisatie, workflow, gebruikersbeheer en
+            navigatie. Bedoeling is een systeem te ontwikkelen ter ondersteuning van
+            meerdere internet- en intranet sites, ieder met eigen look-and-feel, content
+            en navigatiestructuur, waarbij beheer via een centraal CMS gebeurt. Het CMS
+            kent een workflow met autorisatie voor verschillende gebruikers op
+            verschillende content. \\
+            \activiteiten &
+            Analyse, functioneel en technisch ontwerp, research, ontwikkeling,
+            documentatie \\
+            \tools &
+            Java/J2EE, Web-in-a-Box, MMBase, \mysql, Junit, Tomcat, Eclipse,
+            Ant, JSP, XML, HTML, CSS. \\
+        \end{tabular}
+
+        \medskip
+        
+        % Emerson
+        \begin{tabular}{l p{10cm}}
+            \tabelh{augustus 2003 -- oktober 2003} & \tabelh{Aanpassingen legacy
+            software} \\
+            \omschrijving &
+            Het inventariseren, analyseren en implementeren van de benodigde veranderingen
+            in legacy software, geschreven voor een systeem dat van een oude naar een
+            nieuwe omgeving wordt overgezet. Het voorbereiden en uitvoeren van
+            systeemtests on-site. \\
+            \activiteiten &
+            Analyse, research, ontwikkeling \\
+            \tools &
+            FORTRAN-77 \\
+        \end{tabular}
+        
+        \medskip
+        
+        %Vriendje Niels
+        \begin{tabular}{l p{10cm}}
+            \tabelh{januari 2003 -- februari 2003} & \tabelh{Proof-of-concept
+            intranet site} \\
+            \omschrijving &
+            Het maken van een proof-of-concept demo implementatie van een intranet voor
+            een dienstverlenende instantie in de sociale sector. Basis functionaliteiten
+            zijn autorisatie, navigatie, smoelenboek, nieuws (incl. archief), kalender,
+            WYSIWYG editors. \\
+            \activiteiten & Consultancy, analyse, ontwerp, ontwikkeling,
+            vormgeving. \\
+            \tools & 
+            MMBase, Tomcat, \mysql, Java, Eclipse, Ant \\
+        \end{tabular}
+
+        \medskip
+        
+        %FlexiForce
+        \begin{tabular}{l p{10cm}}
+            \tabelh{maart 2001 -- september 2002} &
+            \tabelh{Produktconfiguratie-- en orderapplicatie} \\
+            \omschrijving &
+            Het ontwikkelen van een ordersysteem voor een
+            leverancier/fabrikant van onderdelen voor overhead deuren. M.b.v.
+            het systeem kan een complete deur geconfigureerd en besteld
+            worden. Belangrijkste speerpunt is het feit dat het systeem zowel
+            door de leverancier zelf als door de klant gebruikt kan worden.
+            Het systeem is meertalig, ondersteunt meerdere databases, en heeft
+            een interface waarbij orders automatisch kunnen worden besteld en
+            verwerkt via internet e-mail.  \\ 
+            \activiteiten & 
+            Ontwerp en implementatie van modules, ontwikkeling van
+            kernfunctionaliteit. \\
+            \tools &
+            Visual Basic, MS-Access, SQLServer, Ant \\
+        \end{tabular}
+      
+        \medskip
+        
+        %Egel
+        \begin{tabular}{l p{10cm}}
+            \tabelh{mei 1994 -- september 1995} & \tabelh{Tentamensysteem} \\
+            \omschrijving &
+            Het ontwikkelen van een applicatie voor het administreren,
+            samenstellen, genereren en afnemen van examens.  Functionaliteit
+            omvat o.a. het beheren van een vragenbank met tentamenvragen,
+            het samenstellen en automatisch genereren van tentamens op basis
+            van uitgebreide criteria en het afnemen van de tentamens op de
+            computer. Tentamens maken gebruik van multimedia zoals filmpjes
+            en geluiden. Veiligheid en betrouwbaarheid was ook een sterk punt
+            van aandacht bij het afnemen van de tentamens. \\
+            \activiteiten &
+            Functioneel en technisch ontwerp, software ontwikkeling. \\
+            \tools &
+            Visual Basic, MS-Access \\
+        \end{tabular}
+           
+        \medskip
+        
+	\section*{Hobby's}
+    \opt{en}{electronic music, retro computing}\opt{nl}{Elektronische muziek, retro computing.} \\
+	\opt{en}{reading, movies.}\opt{nl}{Boeken, film.} \\
+	\opt{en}{cooking \&\ eating.}\opt{nl}{Koken \&\ Eten.} \\
+	\opt{en}{camping.}\opt{nl}{Kamperen.}
+
+\end{document}

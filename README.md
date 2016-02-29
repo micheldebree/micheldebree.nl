@@ -56,14 +56,65 @@ Scrum, DevOps, Agile, Object Oriented Analysis and Design (OOAD), Unified Modeli
 
 1994-2001: Ontwikkelaar, _Leids Universitair Medisch Centrum_
 
-<!-- ## Projecten
+## Projecten
 
-### micheldebree.nl
-
-#### Generiek enterprise applicatie platform
+### Generiek enterprise applicatie platform
 
 _Ministerie van Infrastructuur en Milieu_, 2015-2016
 
 Als senior software development engineer in een Scrum DevOps team werkzaam aan de nieuwbouw van een generiek enterprise applicatie platform. Het platform kan in verschillende varianten volautomatisch en reproduceerbaar worden ingericht in een cloud omgeving. Het platform bevat alle componenten om enterprise applicaties op een schaalbare, veilige en betrouwbare manier te kunnen faciliteren. Daarnaast is het voorzien van governance functionaliteit voor centrale configuratie, identity management en automatisch uitrollen van applicaties.
 
--->
+**Werkzaamheden**: Full-stack ontwikkeling van alle aspecten van het platform, met name governance componenten (Java) en automatisch provisionen van nieuwe infra en -platform componenten (Ruby), code review, technisch ontwerp, schrijven van functionele en technische documentatie,  begeleiding junior teamleden, kwaliteitsbewaking van de codebase, versiebeheer en OTAP ontwikkelstraat.
+
+**Methoden & Technieken**: Scrum, DevOps, JIRA, Confluence, Java EE, CDI, Hibernate, JAX-WS, SOAP, Webservices, JSF, Angular JS, JAX-RS, REST, Ruby, JSON, shellscript, RHEL/CentOS 7, Amazon EC2, JBoss EAP, WSO2, HAProxy, Apache, PostgreSQL, ElasticSearch, MongoDB, Graylog, Git, Maven, Nexus, Jenkins, Python, Liquibase, Sonar
+
+### Authenticatie ING Internet Bankieren
+
+_ING_, 2014-2015
+
+Als senior software development engineer werkzaam in een DevOps Scrum team. Als team verantwoordelijk voor een aantal applicaties en services m.b.t. authenticatie voor internet bankieren persoonlijk en zakelijk.
+
+**Werkzaamheden**: Functioneel ontwerp, technisch ontwerp en implementatie van nieuwe functionaliteit en interfaces. Restacken van applicaties. Automatiseren van tests. Releasen en uitrollen van applicaties door OTAP straat. Versiebeheer. Code reviews, security reviews, documentatie, incidentanalyse, inrichten monitoring en logging.
+
+**Methoden & Technieken**: Scrum, DevOps, Java EE, Spring, Maven, Angular.js, REST, JSON, Linux, Websphere, Tomcat, Oracle, Jenkins, Nolio, GIT, Stash, JIRA, Confluence, Sonar, Nexus, Mockito, Protractor, Selenium, Docker, Virtualize, JUnit, Eclipse, IntelliJ, Fortify, SOAPUi
+
+[`mijn.ing.nl`](https://mijn.ing.nl)
+
+### Nieuw online platform DELA
+
+_DELA_, 2014
+
+Complete redesign van het online platform van DELA naar een toekomstvaste, mobile-first oplossing. Het platform stelt hoge eisen aan betrouwbaarheid, schaalbaarheid, traceability en veiligheid. Incl. nieuwbouw van de website.   
+
+**Werkzaamheden**: Het neerzetten van een software architectuur voor het nieuwe platform, het adviseren m.b.t. de technische infrastructuur, en het afstemmen van de services voor integratie met de backoffice. Daarnaast bouw ik als lead developer aan zowel front-end als mid-office componenten in een multi-tier architectuur.
+
+**Methoden & Technieken**: Scrum, Stash, JIRA, Confluence, Sitecore CMS, C#, ASP.NET MVC 5, HTML5, CSS3, jQuery, REST, JSON, SOAP-WS, Unity, SQLServer, Quartz.NET, Entity Framework, Fluent Validations, Razor, TeamCity, NUnit, Moq, Artifactory
+
+[`dela.nl`](http://dela.nl) is in 2015 verkozen tot [Website van het Jaar](http://websitevanhetjaar.nl/past-winners) in de categorie verzekeraars.
+
+### Glasvezel order tracking
+
+_KPN_, 2014
+
+Het online bekijken van de orderstatus van bestelde glasvezel produkten voor particuliere klanten van KPN, geïntegreerd in de website for particuliere klanten.
+
+**Werkzaamheden**: ontwikkeling, afstemming business requirements.
+
+**Methoden & Technieken**: Java, Spring MVC, SOAP-WS, CXF, JUnit, Hibernate Validator, JPA, SLF4J, Tomcat, Maven, PostgreSQL
+
+### Online sales platform
+
+_DPD_, 2013-2014
+
+Een nieuw internet kanaal voor particuliere klanten van DPD, d.m.v. een verkoopportaal, en integratie in webshops van derden d.m.v. widgets.
+
+**Werkzaamheden**: Pre-sales architectuur voorstel, daarna het project technisch ingericht volgens deze architectuur als basis voor het development team.
+
+**Methoden & Technieken**:, C#, ASP.NET MVC, REST, RabbitMQ, Angular.js.
+
+
+
+
+
+---
+Source code: [github.com/micheldebree/cv](https://github.com/micheldebree/cv)
