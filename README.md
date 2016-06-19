@@ -1,30 +1,37 @@
 # Michel de Bree
 
-Senior ontwikkelaar en software architect met veel ervaring in het ontwerpen en bouwen van software systemen in complexe en dynamische IT landschappen. Voornamelijk klantgerichte internet kanalen die op een betrouwbare en veilige manier integreren met backoffice systemen.
-Ik overleg regelmatig met zowel business analisten als de it-afdeling en leveranciers van mijn klanten, en heb een adviserende rol op het gebied van systeem- en software architectuur.
+Full stack software developer with 20+ years of experience in complex and  dynamic IT landscapes, who thrives on working on challenging agile projects as part of a multi-disciplinary team.
 
-Als lead developer ben ik verantwoordelijk voor kwaliteit- en architectuur bewaking. Ik doe dit voor top 500 klanten in de logistieke, telecommunicatie, bank en medische sector.
+My technical experience ranges a full development stack. From, for example,  provisioning a Linux based server architecture, to developing service-oriented JEE, to implementing a REST API driven AngularJS front end. 
+ 
+My experience mainly involves customer facing internet channels that integrate reliably and securely with back office systems, in the field of logistics, telecommunication, banking and the medical sector. In my daily work I frequently communicate with business analysts as well as the IT department and IT suppliers of my customers. I often have an advisory role concerning system- and software architecture.
 
-## Personalia
+I prefer to work in a motivated, multi-disciplinary, self-directing team with a clear focus on the business case and in close collaboration with the stakeholders. 
 
-Geboortejaar: 1972
+## Personal Information
 
-Woonplaats: Den Haag
+![Photo](photo.jpg)
+
+Year of birth: 1972
+
+Residence: The Hague / The Netherlands
+
+Languages: Dutch (native), English (fluent), French (intermediate), German (beginner)
 
 E-mail: [michel@micheldebree.nl](mailto:michel@micheldebree.nl)
 
 LinkedIn: [nl.linkedin.com/in/micheldebree](https://nl.linkedin.com/in/micheldebree)
 
-## Opleiding
+## Education
 
-1991-1998 Technische Informatica, Software Engineering, _TU Delft_
+1991-1998 Technical Computer Science, Software Engineering, [_Delft University of Technology_](http://www.tudelft.nl), Netherlands
 
-1984-1991 VWO beta pakket, _Het Vlietland College, Leiden_
+1984-1991 VWO beta, [_Het Vlietland College_](http://www.vlietlandcollege.nl), _Leiden_, Netherlands
 
-## Vaardigheden
+## Technical Skills
 
 ##### Backend
-Java Enterprise Edition (JEE), JBoss, Apache Tomcat, IBM Websphere, WSO2, Graylog, HAProxy, Redhat Enterprise Linux, Amazon EC2, Windows, SOAP, REST, JSON, SAML2, HL7v3, XML, SMTP, LDAP, SSL, HTTP(S)
+Java Enterprise Edition (JEE), JBoss, Apache Tomcat, IBM Websphere, WSO2, Graylog, HAProxy, Redhat Enterprise Linux, Amazon EC2, Windows, SOAP Webservices, REST, JSON, SAML2, HL7v3, XML, SMTP, LDAP, SSL, HTTP(S)
 
 ##### Frontend
 HTML5, CSS, Javascript, jQuery, AngularJS, REST, JSON, XSLT, JSP, Spring MVC, JSF, Bootstrap, NodeJS
@@ -33,325 +40,230 @@ HTML5, CSS, Javascript, jQuery, AngularJS, REST, JSON, XSLT, JSP, Spring MVC, JS
 PostgreSQL, MySQL, SQLServer, Oracle
 
 ##### Frameworks & Tooling
-
 Hibernate, Spring, Node.js, Log4J, JPA, Quartz, Mockito, CXF, SLF4J, JUnit, EhCache, Dozer, Hibernate Validator, Velocity, Hystrix, IntelliJ, Eclipse, SoapUI
 
-##### Ontwikkelstraat
+##### Continuous Delivery & Integration
+Maven, Git, Hudson/Jenkins, Sonar, Unit Testing, Subversion,  TeamCity, Artifactory, Nexus, Stash, JIRA (incl. Agile), Confluence, Selenium
 
-Sonar, PMD, Checkstyle, Findbugs, Unit Testing,  Maven, Git, Subversion, Hudson/Jenkins, TeamCity, Artifactory, Nexus, Stash, JIRA (incl. Agile), Confluence
+##### Project & Design
+Scrum, DevOps, Agile, Object Oriented Analysis and Design (OOAD), Unified Modeling Language (UML), Service Oriented Architecture (SOA), Domain-Driven Design (DDD), Test driven development (TDD), API design, security, OWASP, scalability, performance and design.
 
-##### Methoden
+## Working Experience
 
-Scrum, DevOps, Agile, Object Oriented Analysis and Design (OOAD), Unified Modeling Language (UML), Service Oriented Architecture (SOA), Domain-Driven Design (DDD), Test driven development (TDD), API design, beveiliging, OWASP, schaalbaarheid, performance en betrouwbaarheid.
+2014-present: Freelance Senior Java EE Developer, [_micheldebree.nl_](http://www.micheldebree.nl)
 
-## Werkervaring
+2005-2014: Senior Software Engineer, _E-ID Internet Strategies_ (now  [DearNova](http://dearnova.nl))
 
-2014-heden: Freelance Senior Java Developer, _micheldebree.nl_
+2003-2005: Software Engineer, _Imtech ICT_ (now [Axians](http://www.axians.com))
 
-2005-2014: Senior software engineer, _E-ID Internet Strategies_
+2001-2003: Software Engineer, _PaC_ (now [Axians](http://www.axians.com))
 
-2003-2005: Software Engineer, _Imtech ICT_
+1994-2001: Developer, [_Leids Universitair Medisch Centrum_](http://www.lumc.nl)
 
-2001-2003: Software Engineer, _PaC_
+## 2014 to present: Freelance Projects
 
-1994-2001: Ontwikkelaar, _Leids Universitair Medisch Centrum_
+### Generic enterprise application platform
 
-## Projecten
+__2015-present__ @ __Dutch Ministry of Infrastructure and Environment__ _(government)_
 
-### micheldebree.nl
+Development, in a Scrum team, of an automatically provisioned enterprise application platform. This generic platform is based on the Java platform and open source components. It is scalable, reliable and secure according to industry standards.
+A new instance of the platform, consisting of several virtual Linux servers in a cloud environment, is provisioned fully automatic from scratch and works out-of-the box. A central governance solution is included for automatic deployment through the DTAP cycle and central configuration and management of the business applications that are hosted on the platform.
 
-#### Generiek enterprise applicatie platform
+#### Activities
 
-_2015-2016_ _Ministerie van Infrastructuur en Milieu_
+> Full stack development of all aspects of the platform, especially governance components (Java) and automatic provisioning of new infrastructure- and platform components (Ruby). Code review, technical design, writing technical and functional documentation, quality control of code, versioning and DTAP street.
 
-Als senior software development engineer in een Scrum DevOps team werkzaam aan de nieuwbouw van een generiek enterprise applicatie platform. Het platform kan in verschillende varianten volautomatisch en reproduceerbaar worden ingericht in een cloud omgeving. Het platform bevat alle componenten om enterprise applicaties op een schaalbare, veilige en betrouwbare manier te kunnen faciliteren. Daarnaast is het voorzien van governance functionaliteit voor centrale configuratie, identity management en automatisch uitrollen van applicaties.
+#### Techniques
+> Scrum, DevOps, JIRA, Confluence, Git,
+Maven, Nexus, Jenkins, Python, Liquibase, Sonar, WSO2 Governance Registry, Selenium, JMeter, JUnit, SOAPUI, Mockito
+JSF, Angular.JS, JAX-RS, REST, JSON, WSO2 API Manager,
+JEE, JBoss, CDI, Hibernate, JAX-WS, SOAP, Webservices, WSO2 ESB, SSL, SAML2, WSO2 Identity Server, OpenLDAP, PostgreSQL, ElasticSearch, MongoDB, Graylog, HAProxy, Squid, Apache, RHEL/CentOS 7, Amazon EC2, OpenStack, Ruby, Vagrant
 
-**Werkzaamheden**: Full-stack ontwikkeling van alle aspecten van het platform, met name governance componenten (Java) en automatisch provisionen van nieuwe infra en -platform componenten (Ruby), code review, technisch ontwerp, schrijven van functionele en technische documentatie,  begeleiding junior teamleden, kwaliteitsbewaking van de codebase, versiebeheer en OTAP ontwikkelstraat.
+### Customer Authentication ING Internet Banking
 
-**Methoden & Technieken**: Scrum, DevOps, JIRA, Confluence, Java EE, CDI, Hibernate, JAX-WS, SOAP, Webservices, JSF, Angular JS, JAX-RS, REST, Ruby, JSON, shellscript, RHEL/CentOS 7, Amazon EC2, JBoss EAP, WSO2, HAProxy, Apache, PostgreSQL, ElasticSearch, MongoDB, Graylog, Git, Maven, Nexus, Jenkins, Python, Liquibase, Sonar
+__2014-2015__ @ __ING__ _(banking)_
 
-#### Authenticatie ING Internet Bankieren
+Working in a DevOps Scrum team on internet banking applications and services involving customer authentication. 
 
-_2014-2015_ _ING_
+#### Activities
+>Functional and technical design, client-side (AngularJS) and server-side (Java REST API's and SOAP services) implementation, automated testing, backend integration, code reviews, security audits, automated deployment, incident analysis, automated monitoring, restacking of applications, automated testing, documentation, release and deployment of components through the DTAP street.
 
-Als senior software development engineer werkzaam in een DevOps Scrum team. Als team verantwoordelijk voor een aantal applicaties en services m.b.t. authenticatie voor internet bankieren persoonlijk en zakelijk.
+#### Techniques
+> Scrum, DevOps, Java EE, Spring, Maven, AngularJS, REST, JSON, Linux, Websphere, Tomcat, Oracle, Jenkins, Nolio, GIT, Stash, JIRA, Confluence, Sonar, Nexus, Mockito, Protractor, Selenium, Docker, Virtualize, JUnit, Eclipse, IntelliJ, Fortify, SOAPUi
 
-**Werkzaamheden**: Functioneel ontwerp, technisch ontwerp en implementatie van nieuwe functionaliteit en interfaces. Restacken van applicaties. Automatiseren van tests. Releasen en uitrollen van applicaties door OTAP straat. Versiebeheer. Code reviews, security reviews, documentatie, incidentanalyse, inrichten monitoring en logging.
+## 2005-2014: Projects for E-ID internet strategies
 
-**Methoden & Technieken**: Scrum, DevOps, Java EE, Spring, Maven, Angular.js, REST, JSON, Linux, Websphere, Tomcat, Oracle, Jenkins, Nolio, GIT, Stash, JIRA, Confluence, Sonar, Nexus, Mockito, Protractor, Selenium, Docker, Virtualize, JUnit, Eclipse, IntelliJ, Fortify, SOAPUi
+### New online platform DELA
 
-[`mijn.ing.nl`](https://mijn.ing.nl)
+__2014__ @ __DELA__ _(insurance)_
 
----
+Software architecture & design, lead development as part of a big redesign project for a future-ready, mobile first online customer platform. The website won "Best Website 2015" in the insurance category.
 
-### E-ID internet strategies
+> Keywords: Scrum, REST, Javascript, HTML5, CSS3, Sitecore, Responsive design, ASP.NET MVC5, DDD, OOAD, C#, Twitter Bootstrap, Security, Scalability, Git, TeamCity, JIRA, Confluence, Entity Framework, Fluent Validations, Razor, NUnit, Moq, Artifactory.
 
-#### Nieuw online platform DELA
 
-_2014_ _DELA_
+### KPN Glassfibre order tracking
 
-Complete redesign van het online platform van DELA naar een toekomstvaste, mobile-first oplossing. Het platform stelt hoge eisen aan betrouwbaarheid, schaalbaarheid, traceability en veiligheid. Incl. nieuwbouw van de website.   
+__2014__ @ __KPN__ _(telecommunications)_ 
 
-**Werkzaamheden**: Het neerzetten van een software architectuur voor het nieuwe platform, het adviseren m.b.t. de technische infrastructuur, en het afstemmen van de services voor integratie met de backoffice. Daarnaast bouw ik als lead developer aan zowel front-end als mid-office componenten in een multi-tier architectuur.
+Lead developer & software architect. Rapid and agile development of a web application for keeping customers up-to-date of the status of their ordered products.
 
-**Methoden & Technieken**: Scrum, Stash, JIRA, Confluence, Sitecore CMS, C#, ASP.NET MVC 5, HTML5, CSS3, jQuery, REST, JSON, SOAP-WS, Unity, SQLServer, Quartz.NET, Entity Framework, Fluent Validations, Razor, TeamCity, NUnit, Moq, Artifactory
+> Keywords: Java, Spring MVC, SOAP-WS, CXF, JUnit, Hibernate Validator, JPA, SLF4J, Tomcat, Maven, PostgreSQL
 
-[`dela.nl`](http://dela.nl) is in 2015 verkozen tot [Website van het Jaar](http://websitevanhetjaar.nl/past-winners) in de categorie verzekeraars.
+### DPD Online sales platform
 
-#### KPN Glasvezel order tracking
+__2013-2014__ @ __DPD__ _(logistics)_
 
-_2014_ _KPN_
+Analysis, pre-sales, system- and software architecture and some development on the new online sales platform for DPD. 
 
-Het online bekijken van de orderstatus van bestelde glasvezel produkten voor particuliere klanten van KPN, geïntegreerd in de website for particuliere klanten.
+> Keywords: Angular.js, REST, Web API, ASP.NET, C#, OOAD, DDD
 
-**Werkzaamheden**: ontwikkeling, afstemming business requirements.
+### LSP Customer Portal
 
-**Methoden & Technieken**: Java, Spring MVC, SOAP-WS, CXF, JUnit, Hibernate Validator, JPA, SLF4J, Tomcat, Maven, PostgreSQL
+__2012-2014__ @ __VZVZ__ _(medical sector)_
 
-#### DPD Online sales platform
+Lead development and design of a suite of web based applications for the public facing channel to the new Landelijk Electronic Patient Dossier, now called LSP. Involved in both a redesign of the system architecture as well as building new frontend applications and integrating with the LSP itself and supporting systems. High availability, security, privacy and traceability are paramount in this suite of applications.
 
-_2013-2014_ _DPD_
+> Keywords: DigiD, SAML2, ASP.NET, C#, SQLServer, OOAD, DDD, Spring.NET, NHibernate, SOAP-WS, XmlSig, HL7v3
 
-Een nieuw internet kanaal voor particuliere klanten van DPD, d.m.v. een verkoopportaal, en integratie in webshops van derden d.m.v. widgets.
+### De Lage Landen Lease portal
 
-**Werkzaamheden**: Pre-sales architectuur voorstel, daarna het project technisch ingericht volgens deze architectuur als basis voor het development team.
+__2013__ @ __De Lage Landen__ _(financial services)_
 
-**Methoden & Technieken**:, C#, ASP.NET MVC, REST, RabbitMQ, Angular.js.
+Lead- and integration developer for a new, interactive searchengine for leasing vehicles on the site of DLL.
 
-#### E-ID HRM applicatie
+> Keywords: Angular.js, REST, C#, ASP.NET WebAPI, JSON, Unity.
 
-_2013-2014_ _E-ID internet strategies_
+### Saltro laboratory results portal
 
-Interne applicatie voor medewerkers, teamleiders en HRM voor het registreren van afspraken, persoonlijke ontwikkeling en doelstellingen en persoonsgebonden budgetten.
+__2013__ @ __Saltro__ _(medical sector)_
 
-**Werkzaamheden**: vanwege het verloop in het team heb ik als verantwoordelijk software architect toezicht gehouden op de technische kwaliteit en gekozen oplossingen. Dit d.m.v. code reviews, aanwezigheid bij daily standups en advies bij oplossingsrichtingen.
+Technical analysis, software architecture and lead development on the public facing, web-based channel of medical laboratory data. 
+> Keywords: ASP.NET, C#, HL7, OOAD, DDD, MySQL, NHibernate, Spring.NET, ASP.NET WebAPI, jQuery
 
-**Methoden & Technieken**: Java, Spring, JPA, Hibernate, PostgreSQL, Log4J, SLF4J, HSQLDB, Junit, Mockito, Hibernate Validator
+### Ziggo Cloudservices directory
 
-#### LSP Klantenloket & Portaal
+__2012__ @ __Ziggo__ _(telecommunications)_
 
-_2012-2014_ _VZVZ_,
+Lead development and software architecture of a new online directory for cloud services for small to medium sized companies. Includes a personalized dashboard which integrates with the user's personal internet services.
 
-Een ingrijpend re-design van het klantenloket van het Landelijk Schakelpunt, voorheen het Landelijk Electronisch Patienten Dossier. Nieuw is het online inzage portaal waar burgers, na inloggen met DigiD, inzake hebben in de gegevens die er over hen uitgewisseld worden.
+> Keywords: Java, Spring, JPA, Hibernate, IMAP, MsExchange, CalDav, iCal, Facebook API, Twitter API, LinkenIn API, AJAX, jQuery, PostgreSQL. Facebook, Twitter, LinkedIn integration.
 
-**Werkzaamheden**: Software architectuur, infrastructuur advies & lead developer, voornamelijk business laag en integratie met het LSP.
+### Infinitas international webshop platform
 
-**Methoden & Technieken**: C#, DigiD, SAML2, ASP.NET MVC, NHibernate, Spring.NET, SOAP-WS, XmlSig, HL7v3.
+__2011-2012__ @ __Infinitas__ _(publishing)_
 
-#### De Lage Landen Leaseloket
+Development, maintenance and mainly backoffice integration for the e-commerce platform that drives book publisher webshops in various european countries.
 
-_2013_ _De Lage Landen_
+> Keywords: Java, JEE, RAD, IBM Websphere Commerce, Oracle, MySQL, SOAP Webservices.
 
-Aanvraagstraat voor leaseauto’s m.b.v. een interactieve zoekmachine op de site van De Lage Landen.
+### Customer portal for the National Electronic Patient Dossier
 
-**Werkzaamheden**: Software architect, lead developer en bouw van integratielogica.
+__2010-2011__ @ __Didoc__ _(information technology)_ 
 
-**Methoden & Technieken**: Angular.js, REST, C#, ASP.NET WebAPI, JSON, Unity.
+Integration, development and architecture consultancy for the customer portal of the National Electronic Patient Dossier (EPD). Because of the sensitivity of medical information, the demands for availability, reliability and security are very high. This concerns the 'paper' channel where civilians can login, fill in forms and get the information sent to them on paper by regular mail.
 
-#### Saltro Uitslagenportaal
+> Keywords: .NET, SAML2, DigiD, C#, ASP.NET MVC, SOAP-WS, HL7v3.
 
-_2013_ _Saltro_
+### Customer portal for the National Electronic Patient Dossier
 
-Webportaal voor onderzoeksuitslagen voor het medische laboratorium van Saltro.
+__2009-2010__ @ __CIBG__ _(government)_
 
-**Werkzaamheden**: Opzet software architectuur, lead development.
+Integration, development, architecture consultancy and business requirements consultancy for the customer portal of the National Electronic Patient Dossier (EPD). Because of the sensitivity of medical information, the demands for availability, reliability and security are very high. This concerns the 'paper' channel where civilians can login, fill in forms and get the information sent to them  paper by regular mail. This concerns the online channel where civilians authenticate with their national electronic id (DigiD) and have immediate access to the information stored about them in de National Electronic Patient Dossier.
 
-**Methoden & Technieken**: ASP.NET MVC, Razor, MySQL, NHibernate, Spring.NET, ASP.NET WebAPI, JQuery.
+> Keywords: .NET, SAML2, DigiD, C#, ASP.NET MVC, SOAP-WS, HL7v3.
 
-#### Ziggo MKB Cloudgids
+### Customer portal for the National Electronic Patient Dossier (Prototype)
 
-_2012_ _Ziggo Zakelijk_
+__2009__ @ __Nictiz__ _(semi-government)_
 
-Online gids voor cloud services voor het MKB, inclusief een persoonlijk dashboard dat integreert met persoonlijke services van de gebruiker.
+Software architecture, development, business requirement consultancy for a proof-of-concept for the customer portal of the National Electronic Patient Dossier (EPD). Built as a working prototype.
 
-**Werkzaamheden**: opzetten van de software architectuur, bouw van de integratie met Facebook, Twitter, LinkedIn, email en kalender services. Frontend development.
+> Keywords: Java, Spring, SOAP-WS, XML, CXF, JAXB, SAML2, HL7, Velocity, FOP.
 
-**Methoden & Technieken**: Java, Spring, JPA, Hibernate, IMAP, MsExchange, CalDav, iCal, Facebook API, Twitter API, LinkenIn API, AJAX, jQuery, PostgreSQL.
+### Internal scheduling application
 
+__2008-2009__ @ __TNT Express__ _(logistics)_
 
-#### KPN Glasvezel order tracking
+Lead development on an internal application for scheduling of logistic processes.
 
-_2012_ _KPN_
+> Keywords: SOA, JEE, EJB, Hibernate, Struts, Oracle
 
-Online statusoverzicht van bestelde telecom produkten voor particuliere klanten van KPN. Om een snelle time-to-market te bereiken wordt de statuspagina beschikbaar gesteld als remote portlet voor integratie in de bestaande portal omgeving van KPN.
+### Banking Integration Layer
 
-**Werkzaamheden**: Ontwikkeling en software architectuur.
+__2005-2007__ @ __AEGON Bank__ _(banking)_
 
-**Methoden & Technieken**: Java, Spring, Portlet, Liferay, SOAP-WS, Hibernate, Spring MVC.
+Development and maintenance of the integration layer between backoffice and the internet channels, aswell as internal tools.
 
-#### Infinitas Internationaal webshop platform
+> Keywords: J2EE, EJB, Struts, IBM Websphere.
 
-_2011-2012_ _Infinitas_
 
-E-commerce platform voor webshops in verschillende europese landen.
+## 2001-2005: Projects for Imtech ICT / PaC
 
-**Werkzaamheden**: ontwikkeling, onderhoud, vooral integratie met backoffice systemen.
+### Search engine for educational material
 
-**Methoden & Technieken**: Java, JEE, RAD, IBM Websphere Commerce, Oracle, MySQL, SOAP-WS.
+__2005__ @ __Kennisnet__ _(education)_
 
-#### Klantenloket Landelijk EPD
+Development of a new version of the DaVindi educational search engine for primary education students.
 
-_2010-2011_ _Didoc_
+> Keywords: J2EE, Lucene
 
-Integratie en ontwikkeling van systemen voor het klantenloket van het Landelijk Electronisch Patienten Dossier (EPD). Vanwege de gevoeligheid van medische informatie zijn er hoge eisen gesteld aan beschikbaarheid, betrouwbaarheid en beveiliging.
 
-**Werkzaamheden**: Systeem- en software architectuur, ontwikkeling.
+### Internal resource planning application
 
-**Methoden & Technieken**: .NET, SAML2, DigiD, C#, ASP.NET MVC, SOAP-WS, HL7v3.
+__2005__ @ __Imtech ICT__ _(information technology)_
 
-#### Klantenportaal Landelijk Electronisch Patienten Dossier
+Functional and technical design, development of an internal resource planning application.
 
-_2009-2010_ _CIBG_
+> Keywords: Java, J2EE, Hibernate, MySQL, Tapestry
 
-Portaal voor online inzage voor burgers van de uitwisseling van zijn/haar gegevens via het Landelijk Elektronisch Patiënten Dossier. Vanwege de gevoeligheid van medische informatie zijn er hoge eisen gesteld aan beschikbaarheid, betrouwbaarheid en beveiliging.
+### System integration
 
-**Werkzaamheden**:  Software architectuur, ontwikkeling, afstemming business requirements en informatiebehoefte.
+__2004-2005__ @ __Nedal__ (_industrial_)
 
-**Methoden & Technieken**: ASP.NET, C#, SOAP-WS, DigiD, SAML2, HL7v3.
+Development and deployment of integration between back office and production facility.
 
-#### Prototype Klantenportaal Landelijk Electronisch Patienten Dossier
+> Keywords: Java, SOAP Webservices
 
-_2009_ _Nictiz_
+### Data visualisation application
 
-Portaal voor online inzage voor burgers van de uitwisseling van zijn/haar gegevens via het Landelijk Elektronisch Patiënten Dossier. Vanwege de gevoeligheid van medische informatie zijn er hoge eisen gesteld aan beschikbaarheid, betrouwbaarheid en beveiliging.
+__2004__ @ __Oasen__ _(facilities)_
 
-**Werkzaamheden**: Software architectuur, ontwikkeling, afstemming business requirements en informatiebehoefte.
+Design and development of an application for visualising actual measurements of water flow and retainment on a map of The Netherlands.
 
-**Methoden & Technieken**: Java, Spring, SOAP-WS, XML, CXF, JAXB, SAML2, HL7, Velocity, FOP.
+> Keywords: Java, JSP, MySQL, Tomcat
 
-#### Internal scheduling application
+### Corporate CMS
 
-_2008-2009_ _TNT Express_
+__2003-2005__ @ __Imtech ICT__ _(information technology)_
 
-Interne applicatie voor planning van logistieke processen.
+Extending the open source CMS MMBase with functionality for hosting multiple sites and authoring workflow.
 
-**Werkzaamheden**: team lead, ontwikkeling.
+> Keywords: MMBase, Java.
 
-**Methoden & Technieken**: SOA, JEE, EJB, Hibernate, Struts, Oracle
+### Corporate Identity Management System (Prototype)
 
-#### Banking Integration Layer
+__2004__ @ __De Zaak Launspach__ _(graphical industry)_
 
-_2005-2007_ AEGON Bank
+Design and development of a web-based corporate identity management system. Customers of DZL can access their corporate identity designs and imagery. Images are automatically rescaled to the desired purpose, and PDF templates can be used to generate documents in the corporate identity style. Built as a functional prototype.
 
-Integratielaag voor de aansluiting van internet kanalen van AEGON naar de backoffice, en bijbehorende interne web-gebaseerde tools.
+> Keywords: Java, MMBase.
 
-**Werkzaamheden**:  ontwikkeling, onderhoud
+### Product & order configuration application
 
-**Methoden & Technieken**: J2EE, EJB, Struts, IBM Websphere.
+__2001-2002__ @ __FlexiForce__ _(industry)_
 
-<!--
+Development of a Windows desktop application for configuration of overhead doors and order tracking. To be used internally as well as by FlexiForce's customers for configuring and placing orders.
 
+> Keywords: Visual Basic, SQLServer, MS Access
 
-2005
-Zoekmachine
-Kennisnet
-Davindi, de zoekmachine voor het basisonderwijs.
+### Automatic University Exam System
 
-Werkzaamheden: ontwikkeling.
+__1994-1995__ @ __Leiden University Medical Center__ _(medical sector)_
 
-Techniek: J2EE, Lucene.
+Part time development, during my studies, of the successor to EGEL 2.0, a desktop software package for creating, generating and taking exams for university medical students, including the use of multimedia like photos, movie clips and soundbites.
 
-2005
-Resource planning applicatie
-Imtech ICT
-Interne resource planning applicatie.
+> Keywords: Visual Basic, MS Access.
 
-Werkzaamheden: design, ontwikkeling
 
-Techniek: J2EE, Hibernate, MySQL, Tapestry
-
-
-
-
-
-
-2005
-2004
-Systeem integratie
-Nedal
-Systeem integratie tussen backoffice en productievloer.
-
-Werkzaamheden: ontwikkeling, afstemmen services en uitrollen
-
-Techniek: Java, SOAP-WS.
-
-
-
-
-
-
-2004
-Visualisatie meetgegevens
-Oasen
-Webapplicatie voor het visualiseren van metingen van wateropslag en -stromingen op de kaart van Nederland.
-
-Werkzaamheden: ontwerp en ontwikkeling.
-
-Techniek: Java, JSP, MySQL, Tomcat
-
-
-
-
-
-
-2005
-2004
-2003
-Corporate CMS
-Imtech
-CMS voor de internet en intranet sites van Imtech.
-
-Werkzaamheden: uitbreiden van het open source CMS MMBase met multi-site ondersteuning en workflow.
-
-Techniek: MMBase, Java.
-
-
-
-
-
-
-2004
-Corporate Identity Management
-De Zaak Launspach
-Prototype voor een web-gebaseerd corporate identity management systeem. Klanten van DZL hebben via het systeem toegang tot ontwerpen en beeldmateriaal m.b.t. hun corporate identity. Beeldmateriaal wordt automatisch geschaald naar de gewenste afmetingen en resoluties, en PDF bestanden kunnen in de huisstijl worden gegenereerd op basis van templates.
-
-Werkzaamheden: ontwikkeling, ontwerp.
-
-Techniek: Java, MMBase.
-
-
-
-
-
-
-2002
-2001
-Product & order configuration
-Flexiforce
-Desktop applicatie voor het configureren van overhead deuren en order tracking voor FlexiForce. De applicatie wordt intern gebruikt en ook ter beschikking gesteld aan afnemers van overhead deuren bij FlexiForce.
-
-Werkzaamheden: ontwikkeling.
-
-Techniek: Visual Basic, SQLServer, Access.
-
-
-
-
-
-
-1995
-1994
-EGEL 3.0
-Leiden University Medical Center
-Nieuwbouw van de opvolger van EGEL 2, een softwarepakket voor het automatisch afnemen van examens voor studenten van het LUMC. Examens worden automatisch afgenomen en beoordeeld. De examens bevatten als onderdeel van de vragen ook foto’s, filmpjes en geluidsfragmenten.
-
-Werkzaamheden: software ontwikkeling.
-
-Techniek: Visual Basic, MS Access.
-
-
-
- -->
-
----
-Broncode: [github.com/micheldebree/cv](https://github.com/micheldebree/cv)
+_the most recent version and sourcecode of this cv can be found at_ [github.com/micheldebree/cv](https://github.com/micheldebree/cv)
