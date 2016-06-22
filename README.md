@@ -89,7 +89,7 @@ Working in a DevOps Scrum team on internet banking applications and services inv
 >Functional and technical design, client-side (AngularJS) and server-side (Java REST API's and SOAP services) implementation, automated testing, backend integration, code reviews, security audits, automated deployment, incident analysis, automated monitoring, restacking of applications, automated testing, documentation, release and deployment of components through the DTAP street.
 
 #### Techniques
-> Scrum, DevOps, Java EE, Spring, Maven, AngularJS, REST, JSON, Linux, Websphere, Tomcat, Oracle, Jenkins, Nolio, GIT, Stash, JIRA, Confluence, Sonar, Nexus, Mockito, Protractor, Selenium, Docker, Virtualize, JUnit, Eclipse, IntelliJ, Fortify, SOAPUi
+> Scrum, DevOps, Java EE, Spring, Maven, AngularJS, REST, JSON, Linux, Websphere, Tomcat, Oracle, Jenkins, Nolio, GIT, Stash, JIRA, Confluence, Sonar, Nexus, Mockito, Protractor, Selenium, Docker, Virtualize, JUnit, Eclipse, IntelliJ, Fortify, SoapUI
 
 ## 2005-2014: Projects for E-ID internet strategies
 
@@ -100,7 +100,6 @@ __2014__ @ __DELA__ _(insurance)_
 Software architecture & design, lead development as part of a big redesign project for a future-ready, mobile first online customer platform. The website won "Best Website 2015" in the insurance category.
 
 > Keywords: Scrum, REST, Javascript, HTML5, CSS3, Sitecore, Responsive design, ASP.NET MVC5, DDD, OOAD, C#, Twitter Bootstrap, Security, Scalability, Git, TeamCity, JIRA, Confluence, Entity Framework, Fluent Validations, Razor, NUnit, Moq, Artifactory.
-
 
 ### KPN Glassfibre order tracking
 
@@ -116,13 +115,13 @@ __2013-2014__ @ __DPD__ _(logistics)_
 
 Analysis, pre-sales, system- and software architecture and some development on the new online sales platform for DPD. 
 
-> Keywords: Angular.js, REST, Web API, ASP.NET, C#, OOAD, DDD
+> Keywords: AngularJS, REST, Web API, ASP.NET, C#, OOAD, DDD
 
 ### LSP Customer Portal
 
 __2012-2014__ @ __VZVZ__ _(medical sector)_
 
-Lead development and design of a suite of web based applications for the public facing channel to the new Landelijk Electronic Patient Dossier, now called LSP. Involved in both a redesign of the system architecture as well as building new frontend applications and integrating with the LSP itself and supporting systems. High availability, security, privacy and traceability are paramount in this suite of applications.
+Lead development and design of a suite of web based applications for the public facing channel to the new National Electronic Patient Dossier, now called LSP. Involved in both a redesign of the system architecture as well as building new frontend applications and integrating with the LSP itself and supporting systems. High availability, security, privacy and traceability are paramount in this suite of applications.
 
 > Keywords: DigiD, SAML2, ASP.NET, C#, SQLServer, OOAD, DDD, Spring.NET, NHibernate, SOAP-WS, XmlSig, HL7v3
 
@@ -132,13 +131,14 @@ __2013__ @ __De Lage Landen__ _(financial services)_
 
 Lead- and integration developer for a new, interactive searchengine for leasing vehicles on the site of DLL.
 
-> Keywords: Angular.js, REST, C#, ASP.NET WebAPI, JSON, Unity.
+> Keywords: AngularJS, REST, C#, ASP.NET WebAPI, JSON, Unity.
 
 ### Saltro laboratory results portal
 
 __2013__ @ __Saltro__ _(medical sector)_
 
 Technical analysis, software architecture and lead development on the public facing, web-based channel of medical laboratory data. 
+
 > Keywords: ASP.NET, C#, HL7, OOAD, DDD, MySQL, NHibernate, Spring.NET, ASP.NET WebAPI, jQuery
 
 ### Ziggo Cloudservices directory
@@ -169,7 +169,7 @@ Integration, development and architecture consultancy for the customer portal of
 
 __2009-2010__ @ __CIBG__ _(government)_
 
-Integration, development, architecture consultancy and business requirements consultancy for the customer portal of the National Electronic Patient Dossier (EPD). Because of the sensitivity of medical information, the demands for availability, reliability and security are very high. This concerns the 'paper' channel where civilians can login, fill in forms and get the information sent to them  paper by regular mail. This concerns the online channel where civilians authenticate with their national electronic id (DigiD) and have immediate access to the information stored about them in de National Electronic Patient Dossier.
+Integration, development, architecture consultancy and business requirements consultancy for the customer portal of the National Electronic Patient Dossier (EPD). Because of the sensitivity of medical information, the demands for availability, reliability and security are very high. This concerns the online channel where civilians authenticate with their national electronic id (DigiD) and have immediate access to the information stored about them in de National Electronic Patient Dossier.
 
 > Keywords: .NET, SAML2, DigiD, C#, ASP.NET MVC, SOAP-WS, HL7v3.
 

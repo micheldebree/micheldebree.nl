@@ -155,7 +155,7 @@ Techniques
   Scrum, DevOps, Java EE, Spring, Maven, AngularJS, REST, JSON, Linux,
   Websphere, Tomcat, Oracle, Jenkins, Nolio, GIT, Stash, JIRA,
   Confluence, Sonar, Nexus, Mockito, Protractor, Selenium, Docker,
-  Virtualize, JUnit, Eclipse, IntelliJ, Fortify, SOAPUi
+  Virtualize, JUnit, Eclipse, IntelliJ, Fortify, SoapUI
 
 
 2005-2014: Projects for E-ID internet strategies
@@ -191,14 +191,14 @@ DPD Online sales platform
 Analysis, pre-sales, system- and software architecture and some
 development on the new online sales platform for DPD.
 
-  Keywords: Angular.js, REST, Web API, ASP.NET, C#, OOAD, DDD
+  Keywords: AngularJS, REST, Web API, ASP.NET, C#, OOAD, DDD
 
 LSP Customer Portal
 
 2012-2014 @ VZVZ _(medical sector)_
 
 Lead development and design of a suite of web based applications for the
-public facing channel to the new Landelijk Electronic Patient Dossier,
+public facing channel to the new National Electronic Patient Dossier,
 now called LSP. Involved in both a redesign of the system architecture
 as well as building new frontend applications and integrating with the
 LSP itself and supporting systems. High availability, security, privacy
@@ -214,16 +214,17 @@ De Lage Landen Lease portal
 Lead- and integration developer for a new, interactive searchengine for
 leasing vehicles on the site of DLL.
 
-  Keywords: Angular.js, REST, C#, ASP.NET WebAPI, JSON, Unity.
+  Keywords: AngularJS, REST, C#, ASP.NET WebAPI, JSON, Unity.
 
 Saltro laboratory results portal
 
 2013 @ SALTRO _(medical sector)_
 
 Technical analysis, software architecture and lead development on the
-public facing, web-based channel of medical laboratory data. > Keywords:
-ASP.NET, C#, HL7, OOAD, DDD, MySQL, NHibernate, Spring.NET, ASP.NET
-WebAPI, jQuery
+public facing, web-based channel of medical laboratory data.
+
+  Keywords: ASP.NET, C#, HL7, OOAD, DDD, MySQL, NHibernate, Spring.NET,
+  ASP.NET WebAPI, jQuery
 
 Ziggo Cloudservices directory
 
@@ -270,11 +271,10 @@ Integration, development, architecture consultancy and business
 requirements consultancy for the customer portal of the National
 Electronic Patient Dossier (EPD). Because of the sensitivity of medical
 information, the demands for availability, reliability and security are
-very high. This concerns the 'paper' channel where civilians can login,
-fill in forms and get the information sent to them paper by regular
-mail. This concerns the online channel where civilians authenticate with
-their national electronic id (DigiD) and have immediate access to the
-information stored about them in de National Electronic Patient Dossier.
+very high. This concerns the online channel where civilians authenticate
+with their national electronic id (DigiD) and have immediate access to
+the information stored about them in de National Electronic Patient
+Dossier.
 
   Keywords: .NET, SAML2, DigiD, C#, ASP.NET MVC, SOAP-WS, HL7v3.
 
