@@ -1,19 +1,23 @@
 # Michel de Bree
 
-Senior ontwikkelaar en software architect met veel ervaring in het ontwerpen en bouwen van software systemen in complexe en dynamische IT landschappen. Voornamelijk klantgerichte internet kanalen die op een betrouwbare en veilige manier integreren met backoffice systemen.
-Ik overleg regelmatig met zowel business analisten als de it-afdeling en leveranciers van mijn klanten, en heb een adviserende rol op het gebied van systeem- en software architectuur.
+Senior ontwikkelaar en software architect met veel ervaring in
+het ontwerpen en bouwen van software systemen in complexe en
+dynamische IT landschappen. Voornamelijk klantgerichte internet
+kanalen die op een betrouwbare en veilige manier integreren met backoffice systemen.
+Ik overleg regelmatig met zowel business analisten als de it-afdeling
+en leveranciers van mijn klanten, en heb een adviserende rol op het
+gebied van systeem- en software architectuur.
 
-Als lead developer ben ik verantwoordelijk voor kwaliteit- en architectuur bewaking. Ik doe dit voor top 500 klanten in de logistieke, telecommunicatie, bank en medische sector.
+Als lead developer ben ik verantwoordelijk voor kwaliteit- en architectuur
+bewaking. Ik doe dit voor top 500 klanten in de logistieke, telecommunicatie,
+bank en medische sector.
 
 ## Personalia
 
-Geboortejaar: 1972
-
-Woonplaats: Den Haag
-
-E-mail: [michel@micheldebree.nl](mailto:michel@micheldebree.nl)
-
-LinkedIn: [nl.linkedin.com/in/micheldebree](https://nl.linkedin.com/in/micheldebree)
+- Geboortejaar: 1972
+- Woonplaats: Den Haag
+- E-mail: [michel@micheldebree.nl](mailto:michel@micheldebree.nl)
+- LinkedIn: [nl.linkedin.com/in/micheldebree](https://nl.linkedin.com/in/micheldebree)
 
 ## Opleiding
 
@@ -23,13 +27,19 @@ LinkedIn: [nl.linkedin.com/in/micheldebree](https://nl.linkedin.com/in/micheldeb
 
 ## Vaardigheden
 
-##### Backend
-Java Enterprise Edition (JEE), JBoss, Apache Tomcat, IBM Websphere, WSO2, Graylog, HAProxy, Redhat Enterprise Linux, Amazon EC2, Windows, SOAP, REST, JSON, SAML2, HL7v3, XML, SMTP, LDAP, SSL, HTTP(S)
+### Backend
 
-##### Frontend
-HTML5, CSS, Javascript, jQuery, AngularJS, REST, JSON, XSLT, JSP, Spring MVC, JSF, Bootstrap, NodeJS
+Java Enterprise Edition (JEE), JBoss, Apache Tomcat,
+IBM Websphere, WSO2, Graylog, HAProxy, Redhat Enterprise Linux,
+Amazon EC2, Windows, SOAP, REST, JSON, SAML2, HL7v3, XML, SMTP, LDAP, SSL, HTTP(S)
 
-##### Database
+### Frontend
+
+HTML5, CSS, Javascript, jQuery, AngularJS, REST, JSON, XSLT, JSP,
+Spring MVC, JSF, Bootstrap, NodeJS
+
+### Database
+
 PostgreSQL, MySQL, SQLServer, Oracle
 
 ##### Frameworks & Tooling
@@ -90,7 +100,7 @@ _2014-2015_ _ING_
 
 _2014_ _DELA_
 
-> Complete redesign van het online platform van DELA naar een toekomstvaste, mobile-first oplossing. Het platform stelt hoge eisen aan betrouwbaarheid, schaalbaarheid, traceability en veiligheid. Incl. nieuwbouw van de website.   
+> Complete redesign van het online platform van DELA naar een toekomstvaste, mobile-first oplossing. Het platform stelt hoge eisen aan betrouwbaarheid, schaalbaarheid, traceability en veiligheid. Incl. nieuwbouw van de website.
 
 #### Werkzaamheden
 Het neerzetten van een software architectuur voor het nieuwe platform, het adviseren m.b.t. de technische infrastructuur, en het afstemmen van de services voor integratie met de backoffice. Daarnaast bouw ik als lead developer aan zowel front-end als mid-office componenten in een multi-tier architectuur.

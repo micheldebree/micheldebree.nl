@@ -1,26 +1,39 @@
 # Michel de Bree
 
-Full stack software developer with 20+ years of experience in complex and  dynamic IT landscapes, who thrives on working on challenging agile projects as part of a multi-disciplinary team.
+## Freelance Full Stack Developer
 
-My technical experience ranges a full development stack. From, for example,  provisioning a Linux based server architecture, to developing service-oriented JEE, to implementing a REST API driven AngularJS front end. 
- 
-My experience mainly involves customer facing internet channels that integrate reliably and securely with back office systems, in the field of logistics, telecommunication, banking and the medical sector. In my daily work I frequently communicate with business analysts as well as the IT department and IT suppliers of my customers. I often have an advisory role concerning system- and software architecture.
+**Keywords** Senior, Lead developer, Agile, Java, Javascript, Linux
 
-I prefer to work in a motivated, multi-disciplinary, self-directing team with a clear focus on the business case and in close collaboration with the stakeholders. 
+Full stack software developer with 20+ years of experience in complex and
+dynamic IT landscapes, who thrives on working on challenging agile projects
+as part of a multi-disciplinary team.
+
+My technical experience ranges a full development stack. From, for example,
+provisioning a *Linux* based server architecture, to developing service-oriented
+*JEE*, to implementing a *REST API* driven *Javascript* front end.
+
+My experience mainly involves customer facing internet channels that integrate
+reliably and securely with back office systems, in the field of logistics,
+telecommunication, banking, medical and public sector. In my daily work I
+frequently communicate with business analysts as well as the IT department and
+suppliers of my clients. I often have an advisory role concerning system- and
+software architecture.
+
+I prefer to work in a motivated, multi-disciplinary, self-directing team with a
+clear focus on business value, in close collaboration with the various stakeholders.
+I often find myself in the role of lead developer. I am also constantly looking to
+improve the quality of solutions and the development process while at the same time
+delivering real business value.
 
 ## Personal Information
 
 ![Photo](photo.jpg)
 
-Year of birth: 1972
-
-Residence: The Hague / The Netherlands
-
-Languages: Dutch (native), English (fluent), French (intermediate), German (beginner)
-
-E-mail: [michel@micheldebree.nl](mailto:michel@micheldebree.nl)
-
-LinkedIn: [nl.linkedin.com/in/micheldebree](https://nl.linkedin.com/in/micheldebree)
+- Year of birth: 1972
+- Residence: The Hague / The Netherlands
+- Languages: Dutch (native), English (fluent), French (intermediate), German (beginner)
+- E-mail: [michel@micheldebree.nl](mailto:michel@micheldebree.nl)
+- LinkedIn: [nl.linkedin.com/in/micheldebree](https://nl.linkedin.com/in/micheldebree)
 
 ## Education
 
@@ -30,23 +43,29 @@ LinkedIn: [nl.linkedin.com/in/micheldebree](https://nl.linkedin.com/in/micheldeb
 
 ## Technical Skills
 
-##### Backend
-Java Enterprise Edition (JEE), JBoss, Apache Tomcat, IBM Websphere, WSO2, Graylog, HAProxy, Redhat Enterprise Linux, Amazon EC2, Windows, SOAP Webservices, REST, JSON, SAML2, HL7v3, XML, SMTP, LDAP, SSL, HTTP(S)
+### Backend
 
-##### Frontend
+Java Enterprise Edition (JEE), NodeJS, JBoss, Apache Tomcat, IBM Websphere, WSO2, Graylog, HAProxy, Redhat Enterprise Linux, Amazon EC2, Windows, SOAP Webservices, REST, JSON, SAML2, HL7v3, XML, SMTP, LDAP, SSL, HTTP(S)
+
+### Frontend
+
 HTML5, CSS, Javascript, jQuery, AngularJS, REST, JSON, XSLT, JSP, Spring MVC, JSF, Bootstrap, NodeJS
 
-##### Database
+### Database
+
 PostgreSQL, MySQL, SQLServer, Oracle
 
-##### Frameworks & Tooling
-Hibernate, Spring, Node.js, Log4J, JPA, Quartz, Mockito, CXF, SLF4J, JUnit, EhCache, Dozer, Hibernate Validator, Velocity, Hystrix, IntelliJ, Eclipse, SoapUI
+### Frameworks & Tooling
 
-##### Continuous Delivery & Integration
-Maven, Git, Hudson/Jenkins, Sonar, Unit Testing, Subversion,  TeamCity, Artifactory, Nexus, Stash, JIRA (incl. Agile), Confluence, Selenium
+WSO2 IS/AM/ESB, Hibernate, Spring, NodeJS, Log4J, JPA, Quartz, Mockito, CXF, SLF4J, JUnit, EhCache, Dozer, Hibernate Validator, Velocity, Hystrix, IntelliJ, Eclipse, SoapUI
 
-##### Project & Design
-Scrum, DevOps, Agile, Object Oriented Analysis and Design (OOAD), Unified Modeling Language (UML), Service Oriented Architecture (SOA), Domain-Driven Design (DDD), Test driven development (TDD), API design, security, OWASP, scalability, performance and design.
+### Continuous Delivery & Integration
+
+Maven, Git, Jenkins, Sonar, Unit Testing, Nexus, Stash/Bitbucket, JIRA Agile, Confluence, Selenium
+
+### Project & Design
+
+Scrum, DevOps, Agile, SAFE, Object Oriented Analysis and Design (OOAD), Unified Modeling Language (UML), Service Oriented Architecture (SOA), Domain-Driven Design (DDD), Test driven development (TDD), API design, security, OWASP, scalability, performance and design.
 
 ## Working Experience
 
@@ -62,9 +81,30 @@ Scrum, DevOps, Agile, Object Oriented Analysis and Design (OOAD), Unified Modeli
 
 ## 2014 to present: Freelance Projects
 
-### Generic enterprise application platform
+### Central Integration Hub
 
-__2015-present__ @ __Dutch Ministry of Infrastructure and Environment__ _(government)_
+__2016-present__ @ __Rijkswaterstaat__ _(government)_
+
+While working for the Standaard Platform Alliance, I am now mostly
+busy as Lead Developer and Scrum Master in a development team for
+designing and building the central integration hub for applications
+in the "Digitaal Stelsel Omgevingswet", which supports the new "Omgevingswet"
+for 2019. This will land on the "Standaard Platform". The main focus of the
+hub is routing, access-control, auditing and self-service for service providers
+and service consumers. As such it has high demands on availability, performance,
+scalability, security and privacy. Also I work closely with the Standaard Platform
+teams for designing new features in the platform that support the use cases
+for the Digitaal Stelsel Omgevingswet.
+
+#### Keywords
+
+Scrum Master, Lead Developer, Agile, Scrum, DevOps, SAFE, Java,
+Infrastructure as code, Ansible, Docker, Vagrant,
+Continuous Integration, JIRA, Confluence, Bitbucket
+
+### Platform-As-A-Service (PAAS)
+
+__2015-2016__ @ __Dutch Ministry of Infrastructure and Environment__ _(government)_
 
 Development, in a Scrum team, of an automatically provisioned enterprise application platform. This generic platform is based on the Java platform and open source components. It is scalable, reliable and secure according to industry standards.
 A new instance of the platform, consisting of several virtual Linux servers in a cloud environment, is provisioned fully automatic from scratch and works out-of-the box. A central governance solution is included for automatic deployment through the DTAP cycle and central configuration and management of the business applications that are hosted on the platform.
@@ -74,21 +114,21 @@ A new instance of the platform, consisting of several virtual Linux servers in a
 > Full stack development of all aspects of the platform, especially governance components (Java) and automatic provisioning of new infrastructure- and platform components (Ruby). Code review, technical design, writing technical and functional documentation, quality control of code, versioning and DTAP street.
 
 #### Techniques
-> Scrum, DevOps, JIRA, Confluence, Git,
-Maven, Nexus, Jenkins, Python, Liquibase, Sonar, WSO2 Governance Registry, Selenium, JMeter, JUnit, SOAPUI, Mockito
-JSF, Angular.JS, JAX-RS, REST, JSON, WSO2 API Manager,
-JEE, JBoss, CDI, Hibernate, JAX-WS, SOAP, Webservices, WSO2 ESB, SSL, SAML2, WSO2 Identity Server, OpenLDAP, PostgreSQL, ElasticSearch, MongoDB, Graylog, HAProxy, Squid, Apache, RHEL/CentOS 7, Amazon EC2, OpenStack, Ruby, Vagrant
+
+> Scrum, DevOps, JIRA, Confluence, Git, Maven, Nexus, Jenkins, Python, Liquibase, Sonar, WSO2 Governance Registry, Selenium, JMeter, JUnit, SOAPUI, Mockito JSF, Angular.JS, JAX-RS, REST, JSON, WSO2 API Manager, JEE, JBoss, CDI, Hibernate, JAX-WS, SOAP, Webservices, WSO2 ESB, SSL, SAML2, WSO2 Identity Server, OpenLDAP, PostgreSQL, ElasticSearch, MongoDB, Graylog, HAProxy, Squid, Apache, RHEL/CentOS 7, Amazon EC2, OpenStack, Ruby, Vagrant
 
 ### Customer Authentication ING Internet Banking
 
 __2014-2015__ @ __ING__ _(banking)_
 
-Working in a DevOps Scrum team on internet banking applications and services involving customer authentication. 
+Working in a DevOps Scrum team on internet banking applications and services involving customer authentication.
 
 #### Activities
->Functional and technical design, client-side (AngularJS) and server-side (Java REST API's and SOAP services) implementation, automated testing, backend integration, code reviews, security audits, automated deployment, incident analysis, automated monitoring, restacking of applications, automated testing, documentation, release and deployment of components through the DTAP street.
+
+> Functional and technical design, client-side (AngularJS) and server-side (Java REST API's and SOAP services) implementation, automated testing, backend integration, code reviews, security audits, automated deployment, incident analysis, automated monitoring, restacking of applications, automated testing, documentation, release and deployment of components through the DTAP street.
 
 #### Techniques
+
 > Scrum, DevOps, Java EE, Spring, Maven, AngularJS, REST, JSON, Linux, Websphere, Tomcat, Oracle, Jenkins, Nolio, GIT, Stash, JIRA, Confluence, Sonar, Nexus, Mockito, Protractor, Selenium, Docker, Virtualize, JUnit, Eclipse, IntelliJ, Fortify, SoapUI
 
 ## 2005-2014: Projects for E-ID internet strategies
@@ -103,7 +143,7 @@ Software architecture & design, lead development as part of a big redesign proje
 
 ### KPN Glassfibre order tracking
 
-__2014__ @ __KPN__ _(telecommunications)_ 
+__2014__ @ __KPN__ _(telecommunications)_
 
 Lead developer & software architect. Rapid and agile development of a web application for keeping customers up-to-date of the status of their ordered products.
 
@@ -113,7 +153,7 @@ Lead developer & software architect. Rapid and agile development of a web applic
 
 __2013-2014__ @ __DPD__ _(logistics)_
 
-Analysis, pre-sales, system- and software architecture and some development on the new online sales platform for DPD. 
+Analysis, pre-sales, system- and software architecture and some development on the new online sales platform for DPD.
 
 > Keywords: AngularJS, REST, Web API, ASP.NET, C#, OOAD, DDD
 
@@ -137,7 +177,7 @@ Lead- and integration developer for a new, interactive searchengine for leasing 
 
 __2013__ @ __Saltro__ _(medical sector)_
 
-Technical analysis, software architecture and lead development on the public facing, web-based channel of medical laboratory data. 
+Technical analysis, software architecture and lead development on the public facing, web-based channel of medical laboratory data.
 
 > Keywords: ASP.NET, C#, HL7, OOAD, DDD, MySQL, NHibernate, Spring.NET, ASP.NET WebAPI, jQuery
 
@@ -159,7 +199,7 @@ Development, maintenance and mainly backoffice integration for the e-commerce pl
 
 ### Customer portal for the National Electronic Patient Dossier
 
-__2010-2011__ @ __Didoc__ _(information technology)_ 
+__2010-2011__ @ __Didoc__ _(information technology)_
 
 Integration, development and architecture consultancy for the customer portal of the National Electronic Patient Dossier (EPD). Because of the sensitivity of medical information, the demands for availability, reliability and security are very high. This concerns the 'paper' channel where civilians can login, fill in forms and get the information sent to them on paper by regular mail.
 
@@ -197,7 +237,6 @@ Development and maintenance of the integration layer between backoffice and the 
 
 > Keywords: J2EE, EJB, Struts, IBM Websphere.
 
-
 ## 2001-2005: Projects for Imtech ICT / PaC
 
 ### Search engine for educational material
@@ -207,7 +246,6 @@ __2005__ @ __Kennisnet__ _(education)_
 Development of a new version of the DaVindi educational search engine for primary education students.
 
 > Keywords: J2EE, Lucene
-
 
 ### Internal resource planning application
 
@@ -265,5 +303,4 @@ Part time development, during my studies, of the successor to EGEL 2.0, a deskto
 
 > Keywords: Visual Basic, MS Access.
 
-
-_the most recent version and sourcecode of this cv can be found at_ [github.com/micheldebree/cv](https://github.com/micheldebree/cv)
+_the most recent version of this cv can be found at_ [github.com/micheldebree/cv](https://github.com/micheldebree/cv)
