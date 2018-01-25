@@ -1,5 +1,9 @@
 # Michel de Bree
 
+[English version also available](https://github.com/micheldebree/cv/blob/master/CV-Michel_de_Bree.EN.md)
+
+## Freelance Full Stack Developer
+
 Senior ontwikkelaar en software architect met veel ervaring in
 het ontwerpen en bouwen van software systemen in complexe en
 dynamische IT landschappen. Voornamelijk klantgerichte internet
