@@ -42,11 +42,11 @@ Spring MVC, JSF, Bootstrap, NodeJS
 
 PostgreSQL, MySQL, SQLServer, Oracle
 
-##### Frameworks & Tooling
+### Frameworks & Tooling
 
 Hibernate, Spring, Node.js, Log4J, JPA, Quartz, Mockito, CXF, SLF4J, JUnit, EhCache, Dozer, Hibernate Validator, Velocity, Hystrix, IntelliJ, Eclipse, SoapUI
 
-##### Ontwikkelstraat
+### Ontwikkelstraat
 
 Sonar, PMD, Checkstyle, Findbugs, Unit Testing,  Maven, Git, Subversion, Hudson/Jenkins, TeamCity, Artifactory, Nexus, Stash, JIRA (incl. Agile), Confluence
 
