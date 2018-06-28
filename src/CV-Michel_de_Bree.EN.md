@@ -6,13 +6,20 @@ Full stack software developer with 20+ years of experience in complex and
 dynamic IT landscapes, who thrives on working on challenging agile projects as
 part of a multi-disciplinary team.
 
+* Currently working as Lead Developer &amp; Scrum Master (Java, WSO2, Docker, REST,
+  OAuth, Ansible, Linux), open to new challenges in the area of The Hague
+* Experienced in Java Enterprise, Spring, REST, Javascript, Open Source, Linux,
+  TDD, CI, Agile (Scrum, DevOps)
+* Continously improving the delivery pipeline
+* Freelancer
+
 My technical experience ranges a full development stack. From, for example,
 provisioning a Linux based server architecture, to developing service-oriented
 JEE, to implementing a REST API driven Javascript front end. As a developer I
 am at my best developing backend services and integrating them with other
 components, while also being involved in the whole development stack.
 
-My experience mainly involves customer facing internet channels that integrate
+Solutions I worked on are mainly customer facing internet channels that integrate
 reliably and securely with back office systems, in the field of logistics,
 telecommunication, banking, medical and public sector. In my daily work I
 frequently communicate with business analysts as well as the IT department and
@@ -39,14 +46,6 @@ for the specific situation and the expected return on investment.
 * E-mail: [michel@micheldebree.nl](mailto:michel@micheldebree.nl)
 * LinkedIn: [nl.linkedin.com/in/micheldebree](https://nl.linkedin.com/in/micheldebree)
 
-## Education
-
-1991-1998 Technical Computer Science, Software Engineering,
-[_Delft University of Technology_](http://www.tudelft.nl), Netherlands
-
-1984-1991 VWO beta, [_Het Vlietland College_](http://www.vlietlandcollege.nl),
-_Leiden_, Netherlands
-
 ## Skills
 
 **Activities:** Lead development, solution architecture, system architecture
@@ -70,29 +69,32 @@ HAProxy, Amazon EC2
 Git, Atlassian (Bitbucket, JIRA Agile, Confluence, HipChat), Jenkins, Sonar,
 JUnit, Mockito, Docker, Vagrant, Selenium, SOAPUI, Postman
 
-## Working Experience
+## Timeline
 
-2014-present: Freelance Senior Java EE Developer, [_micheldebree.nl_](http://www.micheldebree.nl)
+| Year | Where | Role
+|------|---------|-----
+2014-present | micheldebree.nl | Freelance Full Stack Java Developer
+2005-2014 | DearNova (formerly E-ID) | Senior Software Engineer
+2001-2005 | Axians (formerly Imtech ICT) | Software Engineer
+1994-2001 | LUMC | Developer
+1991-1998 | Delft University of Technology | Student Software Engineering
+1984-1991 | Het Vlietland College Leiden | Student VWO beta
+1991 | - | Sold my first homemade game to a publisher
+1984 | - | Started programming
 
-2005-2014: Senior Software Engineer, _E-ID Internet Strategies_ (now [DearNova](http://dearnova.nl))
+## Freelance Projects
 
-2003-2005: Software Engineer, _Imtech ICT_ (now [Axians](http://www.axians.com))
-
-2001-2003: Software Engineer, _PaC_ (now [Axians](http://www.axians.com))
-
-1994-2001: Developer, [_Leids Universitair Medisch Centrum_](http://www.lumc.nl)
-
-## 2014 to present: Freelance Projects
+### 2014-present
 
 | Year      | Customer         | Project                 | Activities                   | Techniques                                      |
 | --------- | ---------------- | ----------------------- | ---------------------------- | ----------------------------------------------- |
-| 2016-now  | Rijkswaterstaat  | Central integration hub | Lead Developer, Scrum Master | WSO2, Docker, REST, OAuth, Ansible, Java, Linux |
-| 2015-2018 | Ministry of IenM | Platform-As-A-Service   | Senior Developer             | WSO2, Java, Ruby, Amazon EC2, Linux             |
+| 2016-now  | Rijkswaterstaat  | Central integration hub | Lead Developer, Scrum Master | Java, WSO2, Docker, REST, OAuth, Ansible, Linux |
+| 2015-2018 | Ministry of IenM | Platform-As-A-Service   | Senior Developer             | Java, WSO2, Ruby, Amazon EC2, Linux             |
 | 2014-2015 | ING Bank         | Customer authentication | Senior Developer             | Java, Spring, AngularJS, REST, Linux            |
 
 ### "Knooppunt", a central integration hub
 
-**2016-now** @ **Rijkswaterstaat** _(government)_
+#### 2016-present @ Rijkswaterstaat
 
 **Keywords:** Scrum Master, Lead Developer, Agile, Scrum, DevOps, SAFE, Java,
 Infrastructure as Code, WSO2 ESB, WSO2 API Manager, WSO2 Identity Server, REST,
@@ -102,7 +104,7 @@ Confluence, Bitbucket
 While working for the Standaard Platform Alliance, I am now mostly busy as Lead
 Developer and Scrum Master in a development team for designing and building the
 central integration hub for applications in the "Digitaal Stelsel Omgevingswet",
-which supports the new "Omgevingswet" for 2019. This will land on the "Standaard
+which supports the new dutch law "Omgevingswet" for 2019. This will land on the "Standaard
 Platform". The main focus of the hub is routing, access-control, auditing and
 self-service for service providers and service consumers. As such it has high
 demands on availability, performance, scalability, security and privacy. Also I
@@ -111,7 +113,7 @@ platform that support the use cases for the Digitaal Stelsel Omgevingswet.
 
 ### "Standaard Platform" a modern Platform-As-A-Service (PAAS)
 
-**2015-2018** @ **Dutch Ministry of Infrastructure and Environment** _(government)_
+#### 2015-2018 @ Dutch Ministry of Infrastructure and Environment
 
 **Keywords:** Scrum, DevOps, JIRA, Confluence, Git, Maven, Nexus, Jenkins,
 Python, Liquibase, Sonar, WSO2 Governance Registry, Selenium, JMeter, JUnit,
@@ -135,9 +137,9 @@ box. A central governance solution is included for automatic deployment through
 the DTAP cycle and central configuration and management of the business
 applications that are hosted on the platform.
 
-### Customer Authentication at ING Internet Banking
+### Online Banking Customer Authentication
 
-**2014-2015** @ **ING Bank** _(banking)_
+#### 2014-2015 @ ING Bank
 
 Working in a DevOps Scrum team on internet banking applications and services
 involving customer authentication for online (web) banking transactions.
@@ -154,7 +156,9 @@ deployment, incident analysis, automated monitoring, restacking of applications,
 automated testing, documentation, release and deployment of components through
 the DTAP street.
 
-## 2005-2014: Projects for E-ID internet strategies
+## Projects for E-ID internet strategies
+
+### 2005-2014
 
 For E-ID (now [DearNova](https://www.dearnova.nl)) I have been involved in some
 on-site projects aswell as starting up the software architecture and development
@@ -180,7 +184,9 @@ about these projects can be found on
 | 2008-2009 | TNT Express (logistics)             | Internal scheduling tool                  | Development                             | JEE (EJB), Oracle                        |
 | 2005-2007 | Aegon Bank (banking)                | Integration layer and internal tools      | Development and maintenance             | JEE (EJB), IBM Websphere                 |
 
-## 2001-2005: Projects for Imtech ICT / PaC
+## Projects for Imtech ICT / PaC
+
+### 2001-2005
 
 PaC (now Imtech ICT) was my first full-time employer. I worked as a developer on various projects for customers. More details about these projects van be found on [https://www.linkedin.com/in/micheldebree](https://www.linkedin.com/in/micheldebree).
 
@@ -194,10 +200,9 @@ PaC (now Imtech ICT) was my first full-time employer. I worked as a developer on
 | 2003-2005 | Imtech ICT                             | Corporate CMS                                | Design and development  | Java, MMBase            |
 | 2001-2001 | FlexiForce (industrial)                | Desktop application for order configuration  | Development             | Visual Basic, SQLServer |
 
-## 1994-1995: My first project
-
 ### Automatic University Exam System @ Leiden University Medical Center
-_(medical sector)_
+
+#### 1994-1995
 
 Part time development, during my studies, of the successor to EGEL 2.0, a
 desktop software package for creating, generating and taking exams for

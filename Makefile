@@ -2,6 +2,7 @@
 # Docker Image #
 ################
 IMAGE=micheldebree/cv
+MEDIA=Photo.jpg
 
 build: image
 	docker run --rm -v "$$PWD":/home $(IMAGE)
@@ -18,20 +19,26 @@ debug: image
 # Build targets #
 #################
 .PHONY: all
-.PRECIOUS: Photo.jpg
+.PRECIOUS: $(MEDIA)
 
 FILENAME_BASE=CV-Michel_de_Bree
 
-%.docx: src/%.md src/Template.docx Photo.jpg
+%.docx: src/%.md src/Template.docx $(MEDIA)
 	pandoc -s --smart --reference-docx=src/Template.docx -o $@ $< 
 
-%.pdf: src/%.md src/Template.tex Photo.jpg
+%.pdf: src/%.md src/Template.tex $(MEDIA)
 	pandoc $< -s --smart --template=src/Template.tex --variable fontsize=11pt -o $@
+
+%.html: src/%.md src/github-pandoc.css $(MEDIA)
+	pandoc $< -c src/github-pandoc.css -o $@
 
 %.jpg: src/%.jpg
 	cp $< $@
 
-all: README.md $(FILENAME_BASE).EN.docx $(FILENAME_BASE).EN.pdf
+%.png: src/%.png
+	cp $< $@
+
+all: README.md $(FILENAME_BASE).EN.docx $(FILENAME_BASE).EN.pdf $(FILENAME_BASE).EN.html
 
 README.md: src/$(FILENAME_BASE).EN.md
 	cp $< $@
