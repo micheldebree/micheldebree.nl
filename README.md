@@ -7,11 +7,13 @@ dynamic IT landscapes, who thrives on working on challenging agile projects as
 part of a multi-disciplinary team.
 
 * Currently working as Lead Developer &amp; Scrum Master (Java, WSO2, Docker, REST,
-  OAuth, Ansible, Linux), open to new challenges in the area of The Hague
+  OAuth, Ansible, Linux)
+  React, Agile, Full-stack, Continuous Integration &amp; Delivery
 * Experienced in Java Enterprise, Spring, REST, Javascript, Open Source, Linux,
   TDD, CI, Agile (Scrum, DevOps)
 * Continously improving the delivery pipeline
-* Freelancer
+* Open to new development challenges involving Java, Spring Boot, Docker, API's,
+  Microservices, CI/CD
 
 My technical experience ranges a full development stack. From, for example,
 provisioning a Linux based server architecture, to developing service-oriented
@@ -53,12 +55,14 @@ consulting, code review, refactoring, quality metrics, build and deployment
 automation, provisioning automation, configuration management, Scrum master.
 
 **Backend:** Java Enterprise Edition (JEE), JBoss, Spring, Apache Tomcat, IBM
-Websphere,
+Websphere, Hibernate, NodeJS
 
 **Frontend:** HTML5, CSS, Javascript, AngularJS, REST, JSON
 
 **Integration:** SOAP Webservices, REST, WSO2 ESB/APIM/IS, JSON, SAML2, XML,
 HTTP, TLS, OAuth, SAML2, Swagger, Hl7v3
+
+**Security:** OWASP, OAuth, TLS, PKI, SAML2
 
 **Infrastructure:** RedHat Enterprise Linux, Docker, Ansible, Apache Httpd,
 HAProxy, Amazon EC2
@@ -67,7 +71,7 @@ HAProxy, Amazon EC2
 
 **Continuous Integration &amp; Delivery**: Scrum, DevOps, Agile SAFE, Maven,
 Git, Atlassian (Bitbucket, JIRA Agile, Confluence, HipChat), Jenkins, Sonar,
-JUnit, Mockito, Docker, Vagrant, Selenium, SOAPUI, Postman
+JUnit, Mockito, Docker, Vagrant, Selenium, Wiremock, SOAPUI, Postman
 
 ## Timeline
 
@@ -79,8 +83,8 @@ JUnit, Mockito, Docker, Vagrant, Selenium, SOAPUI, Postman
 1994-2001 | LUMC | Developer
 1991-1998 | Delft University of Technology | Student Software Engineering
 1984-1991 | Het Vlietland College Leiden | Student VWO beta
-1991 | - | Sold my first homemade game to a publisher
-1984 | - | Started programming
+1990 | At home | Sold my first homemade game to a publisher
+1984 | At home | Started programming
 
 ## Freelance Projects
 
@@ -188,7 +192,7 @@ about these projects can be found on
 
 ### 2001-2005
 
-PaC (now Imtech ICT) was my first full-time employer. I worked as a developer on various projects for customers. More details about these projects van be found on [https://www.linkedin.com/in/micheldebree](https://www.linkedin.com/in/micheldebree).
+PaC (now Imtech ICT) was my first full-time employer. I worked as a developer on various projects for customers. More details about these projects can be found on [https://www.linkedin.com/in/micheldebree](https://www.linkedin.com/in/micheldebree).
 
 | Year      | Customer                               | Project                                      | Activities              | Techniques              |
 | --------- | -------------------------------------- | -------------------------------------------- | ----------------------- | ----------------------- |
