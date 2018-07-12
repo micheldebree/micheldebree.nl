@@ -9,8 +9,8 @@ part of a multi-disciplinary team.
 * Currently working as Lead Developer &amp; Scrum Master (Java, WSO2, Docker, REST,
   OAuth, Ansible, Linux)
   React, Agile, Full-stack, Continuous Integration &amp; Delivery
-* Experienced in Java Enterprise, Spring, REST, Javascript, Open Source, Linux,
-  TDD, CI, Agile (Scrum, DevOps)
+* Experienced in Java, JEE, Spring, REST, Javascript, Open Source, Linux,
+  TDD, CI/CD, Agile (Scrum, DevOps)
 * Continously improving the delivery pipeline
 * Open to new development challenges involving Java, Spring Boot, Docker, API's,
   Microservices, CI/CD
@@ -35,8 +35,8 @@ constantly looking to improve the quality of solutions and the development
 process while at the same time delivering real business value.
 
 My broad experience and creative nature allows me to quickly assess different
-options and make balanced decisions based on best practices, innovation, fit/gap
-for the specific situation and the expected return on investment.
+options and make balanced decisions based on best practices, future-proofness,
+fit/gap for the specific situation and the expected return on investment.
 
 ## Personal Information
 
@@ -44,7 +44,7 @@ for the specific situation and the expected return on investment.
 
 * Year of birth: 1972
 * Residence: The Hague / The Netherlands
-* Languages: Dutch (native), English (fluent), French (intermediate), German (beginner)
+* Languages: Dutch (native), English (fluent)
 * E-mail: [michel@micheldebree.nl](mailto:michel@micheldebree.nl)
 * LinkedIn: [nl.linkedin.com/in/micheldebree](https://nl.linkedin.com/in/micheldebree)
 
@@ -92,7 +92,7 @@ JUnit, Mockito, Docker, Vagrant, Selenium, Wiremock, SOAPUI, Postman
 
 | Year      | Customer         | Project                 | Activities                   | Techniques                                      |
 | --------- | ---------------- | ----------------------- | ---------------------------- | ----------------------------------------------- |
-| 2016-now  | Rijkswaterstaat  | Central integration hub | Lead Developer, Scrum Master | Java, WSO2, Docker, REST, OAuth, Ansible, Linux |
+| 2016-now  | Rijks&shy;waterstaat  | Central integration hub | Lead Developer, Scrum Master | Java, WSO2, Docker, REST, OAuth, Ansible, Linux |
 | 2015-2018 | Ministry of IenM | Platform-As-A-Service   | Senior Developer             | Java, WSO2, Ruby, Amazon EC2, Linux             |
 | 2014-2015 | ING Bank         | Customer authentication | Senior Developer             | Java, Spring, AngularJS, REST, Linux            |
 
@@ -214,6 +214,22 @@ university medical students, including the use of multimedia like photos, movie
 clips and soundbites.
 
 **Keywords:** Visual Basic, MS Access.
+
+> &ldquo;Everything should be as simple as it can be, but not simpler.&rdquo;
+
+-- Albert Einstein
+
+> &ldquo;Perfection is reached, not when there is no longer anything to add, but
+> when there is no longer anything to take away.&rdquo;
+
+-- Antoine de Saint-Exupery
+
+> &ldquo;There are two ways of constructing a software design: One way is to
+> make it so simple that there are obviously no deficiencies and the other way
+> is to make it so complicated that there are no obvious deficiencies. The first
+> method is far more difficult.&rdquo;
+
+-- C.A.R. Hoare
 
 _The most recent version of this cv can be found at_
 [github.com/micheldebree/cv](https://github.com/micheldebree/cv)
