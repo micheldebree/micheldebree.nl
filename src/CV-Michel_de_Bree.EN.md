@@ -7,13 +7,11 @@ dynamic IT landscapes, who thrives on working on challenging agile projects as
 part of a multi-disciplinary team.
 
 * Currently working as Lead Developer &amp; Scrum Master (Java, WSO2, Docker, REST,
-  OAuth, Ansible, Linux)
-  React, Agile, Full-stack, Continuous Integration &amp; Delivery
+  OAuth, Ansible, Linux, JIRA, Git, Jenkins)
 * Experienced in Java, JEE, Spring, REST, Javascript, Open Source, Linux,
   TDD, CI/CD, Agile (Scrum, DevOps)
-* Continously improving the delivery pipeline
 * Open to new development challenges involving Java, Spring Boot, Docker, API's,
-  Microservices, CI/CD
+  Microservices, React, Agile, Full-stack, Continuous Integration &amp; Delivery
 
 My technical experience ranges a full development stack. From, for example,
 provisioning a Linux based server architecture, to developing service-oriented
