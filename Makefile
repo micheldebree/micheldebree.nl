@@ -23,7 +23,7 @@ debug: image
 
 FILENAME_BASE=CV-Michel_de_Bree
 
-%.docx: src/%.md src/Template.docx $(MEDIA)
+%.docx: src/%.md $(MEDIA)
 	pandoc -s --smart -o $@ $< 
 
 %.pdf: src/%.md src/Template.tex $(MEDIA)

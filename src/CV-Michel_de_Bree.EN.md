@@ -5,8 +5,8 @@
 With over 20+ years of experience in complex and dynamic IT landscapes, I am
 equiped to help you automate solutions in an agile and sustainable way.
 
-* Currently working as Lead Developer &amp; Scrum Master (Java, WSO2, Docker, REST,
-  OAuth, Ansible, Linux, Open Source, JIRA, Git, Jenkins, Infrastructure as code)
+* Currently working as Lead Developer &amp; Scrum Master (Java 8, Spring boot, Docker, REST API's,
+  OAuth, Docker, Ansible, Linux, Open Source, JIRA, Git, Jenkins, Infrastructure as code)
 * **Open to new development challenges** involving Java, Spring Boot, Docker, API's,
   Microservices, Angular, React, Agile, Full stack, Continuous Integration &amp; Delivery
 
@@ -20,36 +20,11 @@ equiped to help you automate solutions in an agile and sustainable way.
 * E-mail: [michel@micheldebree.nl](mailto:michel@micheldebree.nl)
 * LinkedIn: [nl.linkedin.com/in/micheldebree](https://nl.linkedin.com/in/micheldebree)
 
-<!--## Skills-->
-
-<!--**Activities:** Lead development, solution architecture, system architecture-->
-<!--consulting, code review, refactoring, quality metrics, build and deployment-->
-<!--automation, provisioning automation, configuration management, Scrum master.-->
-
-<!--**Backend:** Java Enterprise Edition (JEE), JBoss, Spring, Apache Tomcat, IBM-->
-<!--Websphere, Hibernate, NodeJS-->
-
-<!--**Frontend:** HTML5, CSS, Javascript, AngularJS, REST, JSON-->
-
-<!--**Integration:** SOAP Webservices, REST, WSO2 ESB/APIM/IS, JSON, SAML2, XML,-->
-<!--HTTP, TLS, OAuth, SAML2, Swagger, Hl7v3-->
-
-<!--**Security:** OWASP, OAuth, TLS, PKI, SAML2-->
-
-<!--**Infrastructure:** RedHat Enterprise Linux, Docker, Ansible, Apache Httpd,-->
-<!--HAProxy, Amazon EC2-->
-
-<!--**Database:**: PostgreSQL, MySQL, Oracle-->
-
-<!--**Continuous Integration &amp; Delivery**: Scrum, DevOps, Agile SAFE, Maven,-->
-<!--Git, Atlassian (Bitbucket, JIRA Agile, Confluence, HipChat), Jenkins, Sonar,-->
-<!--JUnit, Mockito, Docker, Vagrant, Selenium, Wiremock, SOAPUI, Postman-->
-
 ## Timeline
 
  Year        | Where                          | Role
 -------------|--------------------------------|------------------------------------
-2014-present | micheldebree.nl                | Freelance Full Stack Java Developer
+2014-present | micheldebree.nl                | Freelance Java Developer
 2005-2014    | DearNova (formerly E-ID)       | Senior Software Engineer
 2001-2005    | Axians (formerly Imtech ICT)   | Software Engineer
 1994-2001    | LUMC                           | Developer
@@ -63,7 +38,7 @@ equiped to help you automate solutions in an agile and sustainable way.
 
 | Year      | Customer         | Project                 | Activities                   | Techniques                                      |
 | --------- | ---------------- | ----------------------- | ---------------------------- | ----------------------------------------------- |
-| 2016-now  | Rijks&shy;waterstaat  | Central integration hub | Lead Developer, Scrum Master | Java, WSO2, Docker, REST, OAuth, Ansible, Linux |
+| 2016-now  | Rijks&shy;waterstaat  | Central integration hub | Lead Developer, Scrum Master | Java 8, Spring Boot, WSO2, Docker, REST, OAuth, Ansible, Linux |
 | 2015-2018 | Ministry of IenM | Platform-As-A-Service   | Senior Developer             | Java, WSO2, Ruby, Amazon EC2, Linux             |
 | 2014-2015 | ING Bank         | Customer authentication | Senior Developer             | Java, Spring, AngularJS, REST, Linux            |
 
