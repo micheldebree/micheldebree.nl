@@ -1,40 +1,14 @@
 # Michel de Bree
 
-## Freelance Full Stack Java Developer
+## Freelance Java Developer
 
-Full stack software developer with 20+ years of experience in complex and
-dynamic IT landscapes, who thrives on working on challenging agile projects as
-part of a multi-disciplinary team.
+With over 20+ years of experience in complex and dynamic IT landscapes, I am
+equiped to help you automate solutions in an agile and sustainable way.
 
 * Currently working as Lead Developer &amp; Scrum Master (Java, WSO2, Docker, REST,
-  OAuth, Ansible, Linux, JIRA, Git, Jenkins)
-* Experienced in Java, JEE, Spring, REST, Javascript, Open Source, Linux,
-  TDD, CI/CD, Agile (Scrum, DevOps)
-* Open to new development challenges involving Java, Spring Boot, Docker, API's,
-  Microservices, React, Agile, Full-stack, Continuous Integration &amp; Delivery
-
-My technical experience ranges a full development stack. From, for example,
-provisioning a Linux based server architecture, to developing service-oriented
-JEE, to implementing a REST API driven Javascript front end. As a developer I
-am at my best developing backend services and integrating them with other
-components, while also being involved in the whole development stack.
-
-Solutions I worked on are mainly customer facing internet channels that integrate
-reliably and securely with back office systems, in the field of logistics,
-telecommunication, banking, medical and public sector. In my daily work I
-frequently communicate with business analysts as well as the IT department and
-suppliers of my clients. I often have an advisory role concerning system- and
-software architecture.
-
-I prefer to work in a motivated, multi-disciplinary, self-directing team with a
-clear focus on business value, in close collaboration with the various
-stakeholders. I often find myself in the role of lead developer. I am also
-constantly looking to improve the quality of solutions and the development
-process while at the same time delivering real business value.
-
-My broad experience and creative nature allows me to quickly assess different
-options and make balanced decisions based on best practices, future-proofness,
-fit/gap for the specific situation and the expected return on investment.
+  OAuth, Ansible, Linux, Open Source, JIRA, Git, Jenkins, Infrastructure as code)
+* **Open to new development challenges** involving Java, Spring Boot, Docker, API's,
+  Microservices, Angular, React, Agile, Full stack, Continuous Integration &amp; Delivery
 
 ## Personal Information
 
@@ -46,43 +20,42 @@ fit/gap for the specific situation and the expected return on investment.
 * E-mail: [michel@micheldebree.nl](mailto:michel@micheldebree.nl)
 * LinkedIn: [nl.linkedin.com/in/micheldebree](https://nl.linkedin.com/in/micheldebree)
 
-## Skills
+<!--## Skills-->
 
-**Activities:** Lead development, solution architecture, system architecture
-consulting, code review, refactoring, quality metrics, build and deployment
-automation, provisioning automation, configuration management, Scrum master.
+<!--**Activities:** Lead development, solution architecture, system architecture-->
+<!--consulting, code review, refactoring, quality metrics, build and deployment-->
+<!--automation, provisioning automation, configuration management, Scrum master.-->
 
-**Backend:** Java Enterprise Edition (JEE), JBoss, Spring, Apache Tomcat, IBM
-Websphere, Hibernate, NodeJS
+<!--**Backend:** Java Enterprise Edition (JEE), JBoss, Spring, Apache Tomcat, IBM-->
+<!--Websphere, Hibernate, NodeJS-->
 
-**Frontend:** HTML5, CSS, Javascript, AngularJS, REST, JSON
+<!--**Frontend:** HTML5, CSS, Javascript, AngularJS, REST, JSON-->
 
-**Integration:** SOAP Webservices, REST, WSO2 ESB/APIM/IS, JSON, SAML2, XML,
-HTTP, TLS, OAuth, SAML2, Swagger, Hl7v3
+<!--**Integration:** SOAP Webservices, REST, WSO2 ESB/APIM/IS, JSON, SAML2, XML,-->
+<!--HTTP, TLS, OAuth, SAML2, Swagger, Hl7v3-->
 
-**Security:** OWASP, OAuth, TLS, PKI, SAML2
+<!--**Security:** OWASP, OAuth, TLS, PKI, SAML2-->
 
-**Infrastructure:** RedHat Enterprise Linux, Docker, Ansible, Apache Httpd,
-HAProxy, Amazon EC2
+<!--**Infrastructure:** RedHat Enterprise Linux, Docker, Ansible, Apache Httpd,-->
+<!--HAProxy, Amazon EC2-->
 
-**Database:**: PostgreSQL, MySQL, Oracle
+<!--**Database:**: PostgreSQL, MySQL, Oracle-->
 
-**Continuous Integration &amp; Delivery**: Scrum, DevOps, Agile SAFE, Maven,
-Git, Atlassian (Bitbucket, JIRA Agile, Confluence, HipChat), Jenkins, Sonar,
-JUnit, Mockito, Docker, Vagrant, Selenium, Wiremock, SOAPUI, Postman
+<!--**Continuous Integration &amp; Delivery**: Scrum, DevOps, Agile SAFE, Maven,-->
+<!--Git, Atlassian (Bitbucket, JIRA Agile, Confluence, HipChat), Jenkins, Sonar,-->
+<!--JUnit, Mockito, Docker, Vagrant, Selenium, Wiremock, SOAPUI, Postman-->
 
 ## Timeline
 
-| Year | Where | Role
-|------|---------|-----
-2014-present | micheldebree.nl | Freelance Full Stack Java Developer
-2005-2014 | DearNova (formerly E-ID) | Senior Software Engineer
-2001-2005 | Axians (formerly Imtech ICT) | Software Engineer
-1994-2001 | LUMC | Developer
-1991-1998 | Delft University of Technology | Student Software Engineering
-1984-1991 | Het Vlietland College Leiden | Student VWO beta
-1990 | At home | Sold my first homemade game to a publisher
-1984 | At home | Started programming
+ Year        | Where                          | Role
+-------------|--------------------------------|------------------------------------
+2014-present | micheldebree.nl                | Freelance Full Stack Java Developer
+2005-2014    | DearNova (formerly E-ID)       | Senior Software Engineer
+2001-2005    | Axians (formerly Imtech ICT)   | Software Engineer
+1994-2001    | LUMC                           | Developer
+1991-1998    | Delft University of Technology | Student Software Engineering
+1984-1991    | Het Vlietland College Leiden   | Student VWO beta
+1984         | At home                        | Started to teach myself programming
 
 ## Freelance Projects
 
@@ -94,7 +67,7 @@ JUnit, Mockito, Docker, Vagrant, Selenium, Wiremock, SOAPUI, Postman
 | 2015-2018 | Ministry of IenM | Platform-As-A-Service   | Senior Developer             | Java, WSO2, Ruby, Amazon EC2, Linux             |
 | 2014-2015 | ING Bank         | Customer authentication | Senior Developer             | Java, Spring, AngularJS, REST, Linux            |
 
-### "Knooppunt", a central integration hub
+### &ldquo;Knooppunt&rdquo;, a central integration hub
 
 #### 2016-present @ Rijkswaterstaat
 
@@ -106,14 +79,15 @@ Confluence, Bitbucket
 While working for the Standaard Platform Alliance, I am now mostly busy as Lead
 Developer and Scrum Master in a development team for designing and building the
 central integration hub for applications in the "Digitaal Stelsel Omgevingswet",
-which supports the new dutch law "Omgevingswet" for 2019. This will land on the "Standaard
-Platform". The main focus of the hub is routing, access-control, auditing and
-self-service for service providers and service consumers. As such it has high
-demands on availability, performance, scalability, security and privacy. Also I
-work closely with the Standaard Platform teams for designing new features in the
-platform that support the use cases for the Digitaal Stelsel Omgevingswet.
+which supports the new dutch law "Omgevingswet" for 2019. This will land on the
+"Standaard Platform". The main focus of the hub is routing, access-control,
+auditing and self-service for service providers and service consumers. As such
+it has high demands on availability, performance, scalability, security and
+privacy. Also I work closely with the Standaard Platform teams for designing new
+features in the platform that support the use cases for the Digitaal Stelsel
+Omgevingswet.
 
-### "Standaard Platform" a modern Platform-As-A-Service (PAAS)
+### &ldquo;Standaard Platform&rdquo;, a modern Platform-As-A-Service (PAAS)
 
 #### 2015-2018 @ Dutch Ministry of Infrastructure and Environment
 
@@ -158,11 +132,11 @@ deployment, incident analysis, automated monitoring, restacking of applications,
 automated testing, documentation, release and deployment of components through
 the DTAP street.
 
-## Projects for E-ID internet strategies
+## Projects for DearNova
 
 ### 2005-2014
 
-For E-ID (now [DearNova](https://www.dearnova.nl)) I have been involved in some
+For [DearNova](https://www.dearnova.nl) (at the time called &ldquo;E-ID&rdquo;) I have been involved in some
 on-site projects aswell as starting up the software architecture and development
 pipeline on new in-house projects. The project I have been working the longest
 on, and has been my personal pet project, are the various incarnations of the
@@ -212,22 +186,6 @@ university medical students, including the use of multimedia like photos, movie
 clips and soundbites.
 
 **Keywords:** Visual Basic, MS Access.
-
-> &ldquo;Everything should be as simple as it can be, but not simpler.&rdquo;
-
--- Albert Einstein
-
-> &ldquo;Perfection is reached, not when there is no longer anything to add, but
-> when there is no longer anything to take away.&rdquo;
-
--- Antoine de Saint-Exupery
-
-> &ldquo;There are two ways of constructing a software design: One way is to
-> make it so simple that there are obviously no deficiencies and the other way
-> is to make it so complicated that there are no obvious deficiencies. The first
-> method is far more difficult.&rdquo;
-
--- C.A.R. Hoare
 
 _The most recent version of this cv can be found at_
 [github.com/micheldebree/cv](https://github.com/micheldebree/cv)

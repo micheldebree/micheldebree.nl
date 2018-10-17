@@ -24,7 +24,7 @@ debug: image
 FILENAME_BASE=CV-Michel_de_Bree
 
 %.docx: src/%.md src/Template.docx $(MEDIA)
-	pandoc -s --smart --reference-docx=src/Template.docx -o $@ $< 
+	pandoc -s --smart -o $@ $< 
 
 %.pdf: src/%.md src/Template.tex $(MEDIA)
 	pandoc $< -s --smart --template=src/Template.tex --variable fontsize=11pt -o $@
