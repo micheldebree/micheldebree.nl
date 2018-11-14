@@ -5,10 +5,8 @@
 With over 20+ years of experience in complex and dynamic IT landscapes, I am
 equiped to help you automate solutions in an agile and sustainable way.
 
-* Currently working as Lead Developer &amp; Scrum Master (Java 8, Spring boot, Docker, REST API's,
-  OAuth, Docker, Ansible, Linux, Open Source, JIRA, Git, Jenkins, Infrastructure as code)
-* **Open to new development challenges** involving Java, Spring Boot, Docker, API's,
-  Microservices, Angular, React, Agile, Full stack, Continuous Integration &amp; Delivery
+* Currently working as Full Stack Developer (Java 8, Spring Boot, ReactJS, Docker,
+  REST, OAuth, Drools, Maven, Jenkins)
 
 ## Personal Information
 
@@ -38,9 +36,22 @@ equiped to help you automate solutions in an agile and sustainable way.
 
 | Year      | Customer         | Project                 | Activities                   | Techniques                                      |
 | --------- | ---------------- | ----------------------- | ---------------------------- | ----------------------------------------------- |
-| 2016-now  | Rijks&shy;waterstaat  | Central integration hub | Lead Developer, Scrum Master | Java 8, Spring Boot, WSO2, Docker, REST, OAuth, Ansible, Linux |
+| 2018-now  | Rijks&shy;waterstaat  | Legislative rule engine with supporting interfaces | Full Stack Developer | Java 8, Spring Boot, ReactJS, Docker, Drools |
+| 2016-2018  | Rijks&shy;waterstaat  | Central integration hub | Lead Developer, Scrum Master | Java 8, Spring Boot, WSO2, Docker, REST, OAuth, Ansible, Linux |
 | 2015-2018 | Ministry of IenM | Platform-As-A-Service   | Senior Developer             | Java, WSO2, Ruby, Amazon EC2, Linux             |
 | 2014-2015 | ING Bank         | Customer authentication | Senior Developer             | Java, Spring, AngularJS, REST, Linux            |
+
+### Legislative rule engine with supporting interfaces
+
+**Keywords:** Full Stack Developer, Agile, Scrum, DevOps, SAFE, Java, ReactJS,
+REST, JSON, OAuth, Swagger/OpenAPI, Docker, Drools, Postgres, Continuous Integration,
+JIRA, Confluence, Bitbucket, Maven, Jenkins
+
+**Activities:** Development of backend and frontend components for the rule
+engine of the "Digitaal Stelsel Omgevingswet" that is able to collect the
+various legislative rules involved in the new law, and apply them. The engine
+offers several interfaces in the form of REST API's and a ReactJS SPA
+application.
 
 ### &ldquo;Knooppunt&rdquo;, a central integration hub
 
@@ -51,16 +62,15 @@ Infrastructure as Code, WSO2 ESB, WSO2 API Manager, WSO2 Identity Server, REST,
 JSON, OAuth, Swagger, Ansible, Docker, Vagrant, Continuous Integration, JIRA,
 Confluence, Bitbucket
 
-While working for the Standaard Platform Alliance, I am now mostly busy as Lead
-Developer and Scrum Master in a development team for designing and building the
-central integration hub for applications in the "Digitaal Stelsel Omgevingswet",
-which supports the new dutch law "Omgevingswet" for 2019. This will land on the
-"Standaard Platform". The main focus of the hub is routing, access-control,
-auditing and self-service for service providers and service consumers. As such
-it has high demands on availability, performance, scalability, security and
-privacy. Also I work closely with the Standaard Platform teams for designing new
-features in the platform that support the use cases for the Digitaal Stelsel
-Omgevingswet.
+**Activities:** Lead Developer and Scrum Master in a development team for
+designing and building the central integration hub for applications in the
+"Digitaal Stelsel Omgevingswet", which supports the new dutch law "Omgevingswet"
+for 2019. This will land on the "Standaard Platform". The main focus of the hub
+is routing, access-control, auditing and self-service for service providers and
+service consumers. As such it has high demands on availability, performance,
+scalability, security and privacy. Also I work closely with the Standaard
+Platform teams for designing new features in the platform that support the use
+cases for the Digitaal Stelsel Omgevingswet.
 
 ### &ldquo;Standaard Platform&rdquo;, a modern Platform-As-A-Service (PAAS)
 
