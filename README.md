@@ -11,8 +11,8 @@ Currently working with the following techniques:
 - Java 8 / Spring Boot / Hibernate / Drools / PostgreSQL
 - ReactJS / REST / JSON / OAuth / OpenAPI
 - Linux / Docker / Ansible
-- JUnit / Mockito / Cucumber / Gherkin
-- Git / Maven / Jenkins / JIRA
+- JUnit / Mockito / Cucumber / Gherkin / Wiremock
+- Git / Maven / Jenkins / JIRA / SonarQube
 
 ## Personal Information
 
