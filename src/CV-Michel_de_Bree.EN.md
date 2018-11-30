@@ -1,47 +1,55 @@
 # Michel de Bree
 
-## Freelance Java Developer
+## Freelance Full Stack Java Developer
 
 With over 20+ years of experience in complex and dynamic IT landscapes, I am
-equiped to help you automate solutions in an agile and sustainable way.
+equiped to help you build your automated solutions in an agile and sustainable way.
 
-* Currently working as Full Stack Developer (Java 8, Spring Boot, ReactJS, Docker,
-  REST, OAuth, Drools, Maven, Jenkins)
+Currently working with the following techniques:
+
+- Scrum / Agile SAFE
+- Java 8 / Spring Boot / Hibernate / Drools / PostgreSQL
+- ReactJS / REST / JSON / OAuth / OpenAPI
+- Linux / Docker / Ansible
+- JUnit / Mockito / Cucumber / Gherkin
+- Git / Maven / Jenkins / JIRA
 
 ## Personal Information
 
 ![Photo](Photo.jpg)
 
-* Year of birth: 1972
-* Residence: The Hague / The Netherlands
-* Languages: Dutch (native), English (fluent)
-* E-mail: [michel@micheldebree.nl](mailto:michel@micheldebree.nl)
-* LinkedIn: [nl.linkedin.com/in/micheldebree](https://nl.linkedin.com/in/micheldebree)
+- Year of birth: 1972
+- Residence: The Hague / The Netherlands
+- Languages: Dutch (native), English (fluent)
+- E-mail: [michel@micheldebree.nl](mailto:michel@micheldebree.nl)
+- LinkedIn: [nl.linkedin.com/in/micheldebree](https://nl.linkedin.com/in/micheldebree)
 
 ## Timeline
 
- Year        | Where                          | Role
--------------|--------------------------------|------------------------------------
-2014-present | micheldebree.nl                | Freelance Java Developer
-2005-2014    | DearNova (formerly E-ID)       | Senior Software Engineer
-2001-2005    | Axians (formerly Imtech ICT)   | Software Engineer
-1994-2001    | LUMC                           | Developer
-1991-1998    | Delft University of Technology | Student Software Engineering
-1984-1991    | Het Vlietland College Leiden   | Student VWO beta
-1984         | At home                        | Started to teach myself programming
+| Year         | Where                                      | Role                                |
+| ------------ | ------------------------------------------ | ----------------------------------- |
+| 2014-present | [micheldebree.nl](https://micheldebree.nl) | Freelance Full Stack Java Developer |
+| 2005-2014    | DearNova (formerly E-ID)                   | Senior Software Engineer            |
+| 2001-2005    | Axians (formerly Imtech ICT)               | Software Engineer                   |
+| 1994-2001    | LUMC                                       | Developer                           |
+| 1991-1998    | Delft University of Technology             | Student Software Engineering        |
+| 1984-1991    | Het Vlietland College Leiden               | Student VWO beta                    |
+| 1984         | At home                                    | Started to teach myself programming |
 
 ## Freelance Projects
 
 ### 2014-present
 
-| Year      | Customer         | Project                 | Activities                   | Techniques                                      |
-| --------- | ---------------- | ----------------------- | ---------------------------- | ----------------------------------------------- |
-| 2018-now  | Rijks&shy;waterstaat  | Legislative rule engine with supporting interfaces | Full Stack Developer | Java 8, Spring Boot, ReactJS, Docker, Drools |
-| 2016-2018  | Rijks&shy;waterstaat  | Central integration hub | Lead Developer, Scrum Master | Java 8, Spring Boot, WSO2, Docker, REST, OAuth, Ansible, Linux |
-| 2015-2018 | Ministry of IenM | Platform-As-A-Service   | Senior Developer             | Java, WSO2, Ruby, Amazon EC2, Linux             |
-| 2014-2015 | ING Bank         | Customer authentication | Senior Developer             | Java, Spring, AngularJS, REST, Linux            |
+| Year      | Customer             | Project                                            | Activities                   | Techniques                                                     |
+| --------- | -------------------- | -------------------------------------------------- | ---------------------------- | -------------------------------------------------------------- |
+| 2018-now  | Rijks&shy;waterstaat | Legislative rule engine with supporting interfaces | Full Stack Developer         | Java 8, Spring Boot, ReactJS, Docker, Drools                   |
+| 2016-2018 | Rijks&shy;waterstaat | Central integration hub                            | Lead Developer, Scrum Master | Java 8, Spring Boot, WSO2, Docker, REST, OAuth, Ansible, Linux |
+| 2015-2018 | Ministry of IenM     | Platform-As-A-Service                              | Senior Developer             | Java, WSO2, Ruby, Amazon EC2, Linux                            |
+| 2014-2015 | ING Bank             | Customer authentication                            | Senior Developer             | Java, Spring, AngularJS, REST, Linux                           |
 
 ### Legislative rule engine with supporting interfaces
+
+#### 2018-present @ Rijkswaterstaat
 
 **Keywords:** Full Stack Developer, Agile, Scrum, DevOps, SAFE, Java, ReactJS,
 REST, JSON, OAuth, Swagger/OpenAPI, Docker, Drools, Postgres, Continuous Integration,
@@ -50,12 +58,12 @@ JIRA, Confluence, Bitbucket, Maven, Jenkins
 **Activities:** Development of backend and frontend components for the rule
 engine of the "Digitaal Stelsel Omgevingswet" that is able to collect the
 various legislative rules involved in the new law, and apply them. The engine
-offers several interfaces in the form of REST API's and a ReactJS SPA
-application.
+offers several interfaces in the form of REST API's, SOAP services and a ReactJS
+SPA application.
 
 ### &ldquo;Knooppunt&rdquo;, a central integration hub
 
-#### 2016-present @ Rijkswaterstaat
+#### 2016-2018 @ Rijkswaterstaat
 
 **Keywords:** Scrum Master, Lead Developer, Agile, Scrum, DevOps, SAFE, Java,
 Infrastructure as Code, WSO2 ESB, WSO2 API Manager, WSO2 Identity Server, REST,
