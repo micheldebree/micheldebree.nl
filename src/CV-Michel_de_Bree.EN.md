@@ -2,8 +2,8 @@
 
 ## Freelance Full Stack Java Developer
 
-With over 20+ years of experience in complex and dynamic IT landscapes, I am
-equiped to help you build your automated solutions in an agile and sustainable way.
+With 15+ years of experience in complex and dynamic IT landscapes, I am equiped
+to help you build your automated solutions in an agile and sustainable way.
 
 Currently working with the following techniques:
 
@@ -11,7 +11,7 @@ Currently working with the following techniques:
 - Java 8 / Spring Boot / Hibernate / Drools / PostgreSQL
 - ReactJS / REST / JSON / OAuth / OpenAPI
 - Linux / Docker / Ansible
-- JUnit / Mockito / Cucumber / Gherkin / Wiremock
+- JUnit / Mockito / Wiremock
 - Git / Maven / Jenkins / JIRA / SonarQube
 
 ## Personal Information
@@ -42,7 +42,7 @@ Currently working with the following techniques:
 
 | Year      | Customer             | Project                                            | Activities                   | Techniques                                                     |
 | --------- | -------------------- | -------------------------------------------------- | ---------------------------- | -------------------------------------------------------------- |
-| 2018-now  | Rijks&shy;waterstaat | Legislative rule engine with supporting interfaces | Full Stack Developer         | Java 8, Spring Boot, ReactJS, Docker, Drools                   |
+| 2018-now  | Rijks&shy;waterstaat | Legislative rule engine with supporting interfaces | Full Stack Developer         | Java 8, Spring Boot, Hibernate, ReactJS, Docker, Drools                   |
 | 2016-2018 | Rijks&shy;waterstaat | Central integration hub                            | Lead Developer, Scrum Master | Java 8, Spring Boot, WSO2, Docker, REST, OAuth, Ansible, Linux |
 | 2015-2018 | Ministry of IenM     | Platform-As-A-Service                              | Senior Developer             | Java, WSO2, Ruby, Amazon EC2, Linux                            |
 | 2014-2015 | ING Bank             | Customer authentication                            | Senior Developer             | Java, Spring, AngularJS, REST, Linux                           |
@@ -51,8 +51,8 @@ Currently working with the following techniques:
 
 #### 2018-present @ Rijkswaterstaat
 
-**Keywords:** Full Stack Developer, Agile, Scrum, DevOps, SAFE, Java, ReactJS,
-REST, JSON, OAuth, Swagger/OpenAPI, Docker, Drools, Postgres, Continuous Integration,
+**Keywords:** Full Stack Developer, Scrum, SAFE, Java, Spring Boot, Hibernate, ReactJS, JUnit, Mockito,
+REST, JSON, OAuth, Swagger/OpenAPI, Docker, Drools, Postgres, CI/CD,
 JIRA, Confluence, Bitbucket, Maven, Jenkins
 
 **Activities:** Development of backend and frontend components for the rule
