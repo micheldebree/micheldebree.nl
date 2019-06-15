@@ -29,16 +29,13 @@ FILENAME_BASE=CV-Michel_de_Bree
 %.pdf: src/%.md src/Template.tex $(MEDIA)
 	pandoc $< -s --smart --template=src/Template.tex --variable fontsize=11pt -o $@
 
-%.html: src/%.md src/github-pandoc.css $(MEDIA)
-	pandoc $< -c src/github-pandoc.css -o $@
-
 %.jpg: src/%.jpg
 	cp $< $@
 
 %.png: src/%.png
 	cp $< $@
 
-all: README.md $(FILENAME_BASE).EN.docx $(FILENAME_BASE).EN.pdf $(FILENAME_BASE).EN.html
+all: README.md $(FILENAME_BASE).EN.docx $(FILENAME_BASE).EN.pdf
 
 README.md: src/$(FILENAME_BASE).EN.md
 	cp $< $@
