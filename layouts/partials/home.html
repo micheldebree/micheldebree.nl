@@ -1,0 +1,24 @@
+<section class="container centered">
+  <div class="about">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" version="1" width="320" height="320"><path d="M300 1A299 299 0 0 0 1 300a299 299 0 0 0 299 299 299 299 0 0 0 299-299A299 299 0 0 0 300 1zM200 75l100 60 100-60 100 60-200 109v116c34-19 67-42 100-60v225l-100-60V360c-34-19-66-41-100-60v225l-100-60V135l100-60z"/></svg>
+    <h1>{{ .Site.Params.author }}</h1>
+    <h2>{{ .Site.Params.info }}</h2>
+    {{ with .Site.Params.social }}
+    <ul>
+      {{ range sort .}}
+        {{ if .icon }}
+          <li>
+            <a href="{{ .url }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }}>
+              <i class="{{ .icon }}" aria-hidden="true"></i>
+            </a>
+          </li>
+        {{ else }}
+          <li>
+            <a href="{{ .url }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }}>{{ .name }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+    {{ end }}
+  </div>
+</section>
