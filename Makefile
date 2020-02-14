@@ -1,33 +1,16 @@
-################
-# Docker Image #
-################
-IMAGE=micheldebree/cv
+
+PANDOC=docker run --rm --volume "`pwd`:/data" --user `id -u`:`id -g` pandoc/latex
 MEDIA=Photo.jpg
+FILENAME_BASE=CV-Michel_de_Bree
 
-build: image
-	docker run --rm -v "$$PWD":/home $(IMAGE)
-
-# Build Docker image
-image: Dockerfile
-	docker build -t $(IMAGE) .
-
-# Run a shell in the docker container, useful for debugging
-debug: image
-	docker run -it --rm -v "$$PWD":/home --entrypoint /bin/bash $(IMAGE)
-
-#################
-# Build targets #
-#################
 .PHONY: all
 .PRECIOUS: $(MEDIA)
 
-FILENAME_BASE=CV-Michel_de_Bree
-
 %.docx: src/%.md $(MEDIA)
-	pandoc -s --smart -o $@ $< 
+	${PANDOC} -o $@ $< 
 
 %.pdf: src/%.md src/Template.tex $(MEDIA)
-	pandoc $< -s --smart --template=src/Template.tex --variable fontsize=11pt -o $@
+	${PANDOC} --template=src/Template.tex --variable fontsize=11pt -o $@ $<
 
 %.jpg: src/%.jpg
 	cp $< $@
