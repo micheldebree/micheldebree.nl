@@ -7,131 +7,88 @@ to help you build your automated solutions in an agile and sustainable way.
 
 Currently working with the following techniques:
 
-- Scrum / Agile SAFE
-- Java 11 / Spring Boot / Hibernate / PostgreSQL / Liquibase
-- ReactJS / REST / JSON / HAL / SOAP / OAuth / JWT/ OpenAPI (Swagger)
-- Linux / Docker / Ansible
-- JUnit / Mockito / Wiremock / Cucumber / Gherkin
-- Git / Bitbucket / Maven / Jenkins / JIRA / Nexus / SonarQube
+- [Scrum](https://www.scrum.org) / [Agile SAFE](https://www.scaledagileframework.com)
+- [Java 11](https://go.java) / Spring Boot / Hibernate / PostgreSQL
+- [React](https://reactjs.org) /
+  [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) /
+  [JSON](https://www.json.org) /
+  [HAL](http://stateless.co/hal_specification.html) /
+  [SOAP](https://en.wikipedia.org/wiki/SOAP) /
+  [OAuth2](https://oauth.net/2/) /
+  [JWT](https://jwt.io) /
+  [OpenAPI (Swagger)](https://swagger.io/specification/)
+- [Kubernetes](https://kubernetes.io) /
+  [Docker](https://www.docker.com) /
+  [Openshift](https://www.openshift.com) /
+  Linux
+- JUnit / Mockito / Jest / Chai / Enzyme / Wiremock / Cucumber / Gherkin /
+  JMeter / SoapUI / Postman
+- Git / Bitbucket / Gitlab / Maven / Jenkins / JIRA / Confluence / Nexus / SonarQube
 
 ## Personal Information
 
 ![Photo](Photo.jpg)
 
-- Year of birth: 1972
-- Residence: The Hague / The Netherlands
+- Year of birth: [1972](https://www.onthisday.com/events/date/1972)
+- Residence: [The Hague](https://denhaag.com/en) / The Netherlands
 - Languages: Dutch (native), English (fluent)
 - E-mail: [michel@micheldebree.nl](mailto:michel@micheldebree.nl)
 - LinkedIn: [nl.linkedin.com/in/micheldebree](https://nl.linkedin.com/in/micheldebree)
+- Website: [micheldebree.nl](https://www.micheldebree.nl)
 
-## Timeline
+## Experience
 
-| Year         | Where                                                           | Role                                |
-| ------------ | --------------------------------------------------------------- | ----------------------------------- |
-| 2014-present | [micheldebree.nl](https://www.micheldebree.nl)                      | Freelance Full Stack Java Developer |
-| 2005-2014    | E-ID (now [DearNova](https://www.dearnova.nl))                  | Senior Software Engineer            |
-| 2001-2005    | PaC/Imtech ICT (now [Axians](https://www.axians.com/en))        | Software Engineer                   |
-| 1994-2001    | [LUMC](https://www.lumc.nl/?setlanguage=English)                | Developer                           |
-| 1991-1998    | [Delft University of Technology](https://www.tudelft.nl/en/)    | Student Software Engineering        |
-| 1984-1991    | [Het Vlietland College Leiden](https://www.vlietlandcollege.nl) | Student VWO beta                    |
-| 1984         | [At home](https://www.visitleiden.nl/en)                        | Started to teach myself programming |
+- _2014 - now_ **Freelance Full Stack Java Developer**
+  @ [micheldebree.nl](https://www.micheldebree.nl)
+- _2005 - 2014_ **Senior Software Engineer**
+  @ E-ID (now [DearNova](https://www.dearnova.nl))
+- _2001 - 2005_ **Software Engineer**
+  @ PaC/Imtech ICT (now [Axians](https://www.axians.com/en))
+- _1994 - 2001_ **Developer**
+  @ [Leiden University Medical Center](https://www.lumc.nl/?setlanguage=English)
+- _1991 - 1998_ **Student Software Engineering** @ [Delft University of Technology](https://www.tudelft.nl/en)
+- _1987 - 1995_ **Founder, coder, musician, team-lead** @ [Demoscene](https://en.wikipedia.org/wiki/Demoscene)
+- _1984 - 1991_
+  - **Student VWO beta** @ [Het Vlietland College Leiden](https://www.vlietlandcollege.nl)
+  - **Self-taught developer**
+    @ [Home](https://www.visitleiden.nl/en)
 
-## Freelance Projects
+### Freelance Projects
 
 I started freelancing in 2014 because I was ready for a next challenge and was
 seeking more freedom in choice of projects to work on.
 
-### 2014-present
+- _2018 - now_ **Legislative rule engine with supporting interfaces** @
+  [Digitaal Stelsel Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel)
 
-| Year      | Customer             | Project                                            | Activities                   | Techniques                                                     |
-| --------- | -------------------- | -------------------------------------------------- | ---------------------------- | -------------------------------------------------------------- |
-| 2018-now  | Rijks&shy;waterstaat | Legislative rule engine with supporting interfaces | Full Stack Developer         | Java 11, Spring Boot, Hibernate, ReactJS, Docker               |
-| 2016-2018 | Rijks&shy;waterstaat | Central integration hub                            | Lead Developer, Scrum Master | Java 8, Spring Boot, WSO2, Docker, REST, OAuth, Ansible, Linux |
-| 2015-2018 | Ministry of IenM     | Platform-As-A-Service                              | Senior Developer             | Java, WSO2, Ruby, Amazon EC2, Linux                            |
-| 2014-2015 | ING Bank             | Customer authentication                            | Senior Developer             | Java, Spring, AngularJS, REST, Linux                           |
+  - Lead frontend ([React](https://reactjs.org) / [REST](https://en.wikipedia.org/wiki/Representational_state_transfer))
+  - Component lead backend
+    (Java 11 / [Spring Boot](https://spring.io/projects/spring-boot) /
+    [Hibernate](https://hibernate.org) / REST / OAuth / JWT)
+  - Lead CI/CD migration and improvement (from
+    [Bitbucket](https://bitbucket.org) / Jenkins / [Docker
+    Swarm](https://docs.docker.com/engine/swarm/) to
+    [Gitlab](https://gitlab.com)/[Kubernetes](https://kubernetes.io))
+  - Team representative in cross-team Security and Kubernetes guilds
 
-### Legislative rule engine with supporting interfaces
+- _2016 - 2018_ **Central integration hub** @ [Digitaal Stelsel Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel)
 
-#### 2018-present @ Rijkswaterstaat
+  - Lead Developer (Java 8 / Spring Boot / WSO2)
+  - Scrum Master / [Agile SAFE](https://www.scaledagileframework.com)
+  - Integration (WSO2 / SOAP / REST / JSON / OAuth)
+  - CI/CD development (Docker / Ansible / Linux Shell)
 
-**Keywords:** Full Stack Developer, Scrum, SAFE, Java, Spring Boot, Hibernate,
-ReactJS, JUnit, Mockito, Cucumber, Gherkin, REST, HAL, JSON, OAuth, JWT,
-Swagger/OpenAPI, Docker, Postgres, CI/CD, JIRA, Confluence, Bitbucket, Maven,
-Jenkins
+- _2015 - 2018_ **Platform-as-a-Service** @ [Ministerie van Infrastructuur en Waterstaat](https://www.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-waterstaat)
 
-**Activities:** Development of backend and frontend components for the rule
-engine of the "Digitaal Stelsel Omgevingswet" that is able to collect the
-various legislative rules involved in the new law, and apply them. The engine
-offers several interfaces in the form of REST API's, SOAP services and a ReactJS
-SPA application.
+  - Development of custom components (Java / WSO2)
+  - Automated provisioning (Ruby, Linux Shell, Amazon EC2)
 
-### &ldquo;Knooppunt&rdquo;, a central integration hub
+- _2014 - 2015_ **Online authentication** @ [ING Bank](https://www.ing.nl/particulier)
+  - Backend development (Java / Spring)
+  - Frontend development (Angular)
+  - Integration (SOAP / REST)
 
-#### 2016-2018 @ Rijkswaterstaat
-
-**Keywords:** Scrum Master, Lead Developer, Agile, Scrum, DevOps, SAFE, Java,
-Infrastructure as Code, WSO2 ESB, WSO2 API Manager, WSO2 Identity Server, REST,
-JSON, OAuth, Swagger, Ansible, Docker, Vagrant, Continuous Integration, JIRA,
-Confluence, Bitbucket
-
-**Activities:** Lead Developer and Scrum Master in a development team for
-designing and building the central integration hub for applications in the
-"Digitaal Stelsel Omgevingswet", which supports the new dutch law "Omgevingswet"
-for 2019. This will land on the "Standaard Platform". The main focus of the hub
-is routing, access-control, auditing and self-service for service providers and
-service consumers. As such it has high demands on availability, performance,
-scalability, security and privacy. Also I work closely with the Standaard
-Platform teams for designing new features in the platform that support the use
-cases for the Digitaal Stelsel Omgevingswet.
-
-### &ldquo;Standaard Platform&rdquo;, a modern Platform-As-A-Service (PAAS)
-
-#### 2015-2018 @ Dutch Ministry of Infrastructure and Environment
-
-**Keywords:** Scrum, DevOps, JIRA, Confluence, Git, Maven, Nexus, Jenkins,
-Python, Liquibase, Sonar, WSO2 Governance Registry, Selenium, JMeter, JUnit,
-SOAPUI, Mockito, AngularJS, JAX-RS, REST, JSON, WSO2 API Manager, JEE, JBoss,
-CDI, Hibernate, JAX-WS, SOAP, Webservices, WSO2 ESB, SSL, SAML2, WSO2 Identity
-Server, OpenLDAP, PostgreSQL, ElasticSearch, MongoDB, Graylog, HAProxy, Squid,
-Apache, RHEL/CentOS 7, Amazon EC2, OpenStack, Ruby, Vagrant
-
-**Activities:** Development, in a Scrum team, of an automatically provisioned
-enterprise application platform. I worked on almost all aspects of the
-platform, especially custom governance components (Java) and automatic
-provisioning of new infrastructure- and platform components (Ruby). Code
-review, technical design, writing technical and functional documentation,
-quality control of code, versioning and DTAP street.
-
-This generic platform is based on the Java platform and open source components.
-It is scalable, reliable and secure according to industry standards. A new
-instance of the platform, consisting of several virtual Linux servers in a cloud
-environment, is provisioned fully automatic from scratch and works out-of-the
-box. A central governance solution is included for automatic deployment through
-the DTAP cycle and central configuration and management of the business
-applications that are hosted on the platform.
-
-### Online Banking Customer Authentication
-
-#### 2014-2015 @ ING Bank
-
-Working in a DevOps Scrum team on internet banking applications and services
-involving customer authentication for online (web) banking transactions.
-
-**Keywords:** Scrum, DevOps, Java EE, Spring, Maven, AngularJS, REST, JSON,
-Linux, Websphere, Tomcat, Oracle, Jenkins, Nolio, GIT, Stash, JIRA, Confluence,
-Sonar, Nexus, Mockito, Protractor, Selenium, Docker, Virtualize, JUnit, Eclipse,
-IntelliJ, Fortify, SoapUI
-
-**Activities:** Functional and technical design, client-side (AngularJS) and
-server-side (Java REST API's and SOAP services) implementation, automated
-testing, backend integration, code reviews, security audits, automated
-deployment, incident analysis, automated monitoring, restacking of applications,
-automated testing, documentation, release and deployment of components through
-the DTAP street.
-
-## Projects for E-ID
-
-### 2005-2014
+### 2005 - 2014: Projects for E-ID
 
 For E-ID, now ([DearNova](https://www.dearnova.nl)) I have been involved in some
 on-site projects aswell as starting up the software architecture and development
@@ -141,51 +98,37 @@ public channel to the National Electronic Patient Dossier (EPD). More details
 about these projects can be found on
 [https://www.linkedin.com/in/micheldebree](https://www.linkedin.com/in/micheldebree).
 
-| Year      | Customer                            | Project                                   | Activities                          | Techniques                               |
-| --------- | ----------------------------------- | ----------------------------------------- | ----------------------------------- | ---------------------------------------- |
-| 2014      | DELA (insurance)                    | Online presence overhaul                  | Lead developer / solution architect | .NET                                     |
-| 2014      | KPN (telecom)                       | Order tracking widget                     | Lead developer / solution architect | Java, Spring                             |
-| 2013-2014 | DPD (logistics)                     | Online sales platform                     | Solution architect                  | .NET, AngularJS                          |
-| 2012-2014 | VZVZ (medical)                      | Customer portal for EPD                   | Lead developer / Solution architect | .NET, DigiD, SAML2, HL7v3                |
-| 2013      | De Lage Landen (financial services) | Vehicle search engine                     | Lead developer                      | ASP.NET, AngularJS, REST                 |
-| 2013      | Saltro (medical)                    | Customer portal for laboratory results    | Lead developer / Solution architect | .NET, HL7, jQuery                        |
-| 2012      | Ziggo (telecom)                     | Customer portal / cloudservices directory | Lead developer / Solution architect | Java, Spring, several social media API's |
-| 2011-2012 | Infinitas (retail)                  | International E-commerce platform         | Integration developer               | Java, IBM Websphere Commerce             |
-| 2010-2011 | Didoc (information technology)      | Paper channel for the EPD                 | Lead developer                      | .NET, DigiD, SAML2, HL7v3                |
-| 2009-2010 | CIBG (government)                   | Customer portal for the EPD               | Lead Developer, Consultant          | .NET, SAML2, DigiD, HL7v3                |
-| 2009      | Nictiz (semi-government)            | Customer portal for the EPD (Prototype)   | Lead Developer, Solution architect  | Java, Spring, SAML2, HL7v3               |
-| 2008-2009 | TNT Express (logistics)             | Internal scheduling tool                  | Development                         | JEE (EJB), Oracle                        |
-| 2005-2007 | Aegon Bank (banking)                | Integration layer and internal tools      | Development and maintenance         | JEE (EJB), IBM Websphere                 |
+- _2014_ **Online presence overhaul** @ [DELA](https://www.dela.nl) (insurance)
+  - Lead developer (.NET)
+- _2014_ **Order tracking widget** @ [KPN](https://www.kpn.com) (telecom)
+  - Lead developer (Java) / Solution architect
+- _2013 - 2014_ **Online sales platform** @ [DPD](https://www.dpd.com/nl/nl) (logistics)
+  - Lead developer (Java) / Solution architect
+- _2012 - 2014_ **Customer portal 'Landelijk EPD'** @ [VZVZ](https://www.vzvz.nl/)
+  - Lead developer (.NET)
+- _2013_ - **Vehicle search engine** @ De Lage Landen (financial)
+  - Lead developer (ASP.NET / AngularJS)
+- _2013_ **Customer portal for laboratory results** @ Saltro (medical)
+  - Lead developer / Solution architect (.NET)
+- _2012_ **Customer portal / cloudservices directory** @ Ziggo (telecom)
+  - Lead developer / Solution architect (Java)
+- _2011-2012_ **International E-commerce platform** @ Infinitas (retail)
+  - Integration developer (Java / IBM Websphere Commerce)
 
-## Projects for PaC / Imtech ICT
-
-### 2001-2005
+### Projects for PaC / Imtech ICT (2001 - 2005)
 
 PaC (later Imtech ICT, now [Axians](https://www.axians.com/en) was my first
 full-time employer. I worked as a developer on various projects for customers.
 More details about these projects can be found on
 [https://www.linkedin.com/in/micheldebree](https://www.linkedin.com/in/micheldebree).
 
-| Year      | Customer                               | Project                                      | Activities              | Techniques              |
-| --------- | -------------------------------------- | -------------------------------------------- | ----------------------- | ----------------------- |
-| 2005      | Kennisnet (education)                  | Educational search engine                    | Development             | JEE, Lucene             |
-| 2005      | Imtech ICT                             | Internal resource planning tool              | Design and development  | Java                    |
-| 2004-2005 | Nedal (industrial)                     | System integration                           | Integration development | Java, SOAP              |
-| 2004      | Oasen (facilities)                     | Real time geographical visualization         | Design and development  | Java, JSP               |
-| 2004      | De Zaak Launspach (graphical industry) | Corporate Identity Management tool prototype | Design and development  | Java                    |
-| 2003-2005 | Imtech ICT                             | Corporate CMS                                | Design and development  | Java, MMBase            |
-| 2001-2001 | FlexiForce (industrial)                | Desktop application for order configuration  | Development             | Visual Basic, SQLServer |
-
-### Automatic University Exam System @ Leiden University Medical Center
-
-#### 1994-1995
-
-Part time development, during my studies, of the successor to EGEL 2.0, a
-desktop software package for creating, generating and taking exams for
-university medical students, including the use of multimedia like photos, movie
-clips and soundbites.
-
-**Keywords:** Visual Basic, MS Access.
+- _2005_ **Search engine for kids** @ Kennisnet, Java
+- _2005_ **Resource planning tool** @ Imtech ICT, Java
+- _2004_ **Geographical visualization tool** @ Oasen, Java
+- _2004_ **Corporate Identity Management tool (prototype)** @ De Zaak Launspach,
+  Java
+- _2003 - 2005_ **Corporate CMS** @ Imtech ICT, Java
+- _2001 - 2003_ **Order configuration tool** @ Flexiforce, Visual Basic
 
 _The most recent version of this cv can be found at_
 [github.com/micheldebree/cv](https://github.com/micheldebree/cv)

@@ -9,7 +9,14 @@ Currently working with the following techniques:
 
 - [Scrum](https://www.scrum.org) / [Agile SAFE](https://www.scaledagileframework.com)
 - [Java 11](https://go.java) / Spring Boot / Hibernate / PostgreSQL
-- React / REST / JSON / HAL / SOAP / OAuth / JWT / OpenAPI (Swagger)
+- [React](https://reactjs.org) /
+  [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) /
+  [JSON](https://www.json.org) /
+  [HAL](http://stateless.co/hal_specification.html) /
+  [SOAP](https://en.wikipedia.org/wiki/SOAP) /
+  [OAuth2](https://oauth.net/2/) /
+  [JWT](https://jwt.io) /
+  [OpenAPI (Swagger)](https://swagger.io/specification/)
 - [Kubernetes](https://kubernetes.io) /
   [Docker](https://www.docker.com) /
   [Openshift](https://www.openshift.com) /
