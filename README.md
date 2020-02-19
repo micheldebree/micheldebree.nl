@@ -2,13 +2,17 @@
 
 ## Freelance Full Stack Java Developer
 
-With 15+ years of experience in complex and dynamic IT landscapes, I am equiped
+With 15+ years of experience in complex and dynamic IT landscapes, I am equipped
 to help you build your automated solutions in an agile and sustainable way.
 
 Currently working with the following techniques:
 
-- [Scrum](https://www.scrum.org) / [Agile SAFE](https://www.scaledagileframework.com)
-- [Java 11](https://go.java) / Spring Boot / Hibernate / PostgreSQL
+- [Scrum](https://www.scrum.org) /
+  [Agile SAFE](https://www.scaledagileframework.com)
+- [Java 11](https://go.java) /
+  [Spring Boot](https://spring.io/projects/spring-boot) /
+  [Hibernate](https://hibernate.org) /
+  [PostgreSQL](https://www.postgresql.org/)
 - [React](https://reactjs.org) /
   [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) /
   [JSON](https://www.json.org) /
@@ -18,12 +22,25 @@ Currently working with the following techniques:
   [JWT](https://jwt.io) /
   [OpenAPI (Swagger)](https://swagger.io/specification/)
 - [Kubernetes](https://kubernetes.io) /
+  [Helm](https://helm.sh) /
   [Docker](https://www.docker.com) /
   [Openshift](https://www.openshift.com) /
-  Linux
-- JUnit / Mockito / Jest / Chai / Enzyme / Wiremock / Cucumber / Gherkin /
-  JMeter / SoapUI / Postman
-- Git / Bitbucket / Gitlab / Maven / Jenkins / JIRA / Confluence / Nexus / SonarQube
+  [Linux](https://www.linux.org)
+- [JUnit](https://junit.org/junit5) /
+  [Mockito](https://site.mockito.org) /
+  [Jest](https://jestjs.io) /
+  [Chai](https://www.chaijs.com) /
+  [Enzyme](https://airbnb.io/enzyme) /
+  [Wiremock](http://wiremock.org) /
+  [Cucumber](https://cucumber.io) /
+- [Git](https://git-scm.com) /
+  [Bitbucket](https://bitbucket.org) /
+  [Gitlab](https://about.gitlab.com) /
+  [Maven](https://maven.apache.org) /
+  [Jenkins](https://jenkins.io) /
+  [JIRA](https://www.atlassian.com/software/jira) /
+  [Confluence](https://www.atlassian.com/software/confluence) /
+  [SonarQube](https://www.sonarqube.org)
 
 ## Personal Information
 
@@ -59,22 +76,19 @@ I started freelancing in 2014 because I was ready for a next challenge and was
 seeking more freedom in choice of projects to work on.
 
 - _2018 - now_ **Legislative rule engine with supporting interfaces** @
-  [Digitaal Stelsel Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel)
+  [Digitaal Stelsel Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel/toepasbare-regels-vragenbomen)
 
-  - Lead frontend ([React](https://reactjs.org) / [REST](https://en.wikipedia.org/wiki/Representational_state_transfer))
+  - Lead frontend (React / REST)
   - Component lead backend
-    (Java 11 / [Spring Boot](https://spring.io/projects/spring-boot) /
-    [Hibernate](https://hibernate.org) / REST / OAuth / JWT)
-  - Lead CI/CD migration and improvement (from
-    [Bitbucket](https://bitbucket.org) / Jenkins / [Docker
-    Swarm](https://docs.docker.com/engine/swarm/) to
-    [Gitlab](https://gitlab.com)/[Kubernetes](https://kubernetes.io))
+    (Java 11 / Spring Boot / Hibernate / REST / OAuth / JWT)
+  - Lead CI/CD migration and improvement (from Bitbucket / Jenkins / Docker Swarm
+    to Gitlab / Kubernetes)
   - Team representative in cross-team Security and Kubernetes guilds
 
 - _2016 - 2018_ **Central integration hub** @ [Digitaal Stelsel Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel)
 
   - Lead Developer (Java 8 / Spring Boot / WSO2)
-  - Scrum Master / [Agile SAFE](https://www.scaledagileframework.com)
+  - Scrum Master / Agile SAFE
   - Integration (WSO2 / SOAP / REST / JSON / OAuth)
   - CI/CD development (Docker / Ansible / Linux Shell)
 
@@ -91,7 +105,7 @@ seeking more freedom in choice of projects to work on.
 ### 2005 - 2014: Projects for E-ID
 
 For E-ID, now ([DearNova](https://www.dearnova.nl)) I have been involved in some
-on-site projects aswell as starting up the software architecture and development
+on-site projects as well as starting up the software architecture and development
 pipeline on new in-house projects. The project I have been working the longest
 on, and has been my personal pet project, are the various incarnations of the
 public channel to the National Electronic Patient Dossier (EPD). More details
@@ -106,13 +120,17 @@ about these projects can be found on
   - Lead developer (Java) / Solution architect
 - _2012 - 2014_ **Customer portal 'Landelijk EPD'** @ [VZVZ](https://www.vzvz.nl/)
   - Lead developer (.NET)
-- _2013_ - **Vehicle search engine** @ De Lage Landen (financial)
+- _2013_ - **Vehicle search engine** @ [De Lage Landen](https://dllgroup.com/en)
+  (financial)
   - Lead developer (ASP.NET / AngularJS)
-- _2013_ **Customer portal for laboratory results** @ Saltro (medical)
+- _2013_ **Customer portal for laboratory results** @
+  [Saltro](https://saltro.nl) (medical)
   - Lead developer / Solution architect (.NET)
-- _2012_ **Customer portal / cloudservices directory** @ Ziggo (telecom)
+- _2012_ **Customer portal / cloud services directory** @
+  [Ziggo](https://www.ziggo.nl/zakelijk) (telecom)
   - Lead developer / Solution architect (Java)
-- _2011-2012_ **International E-commerce platform** @ Infinitas (retail)
+- _2011-2012_ **International E-commerce platform** @
+  [Infinitas](https://www.infinitaslearning.com) (retail)
   - Integration developer (Java / IBM Websphere Commerce)
 
 ### Projects for PaC / Imtech ICT (2001 - 2005)
@@ -122,13 +140,14 @@ full-time employer. I worked as a developer on various projects for customers.
 More details about these projects can be found on
 [https://www.linkedin.com/in/micheldebree](https://www.linkedin.com/in/micheldebree).
 
-- _2005_ **Search engine for kids** @ Kennisnet, Java
-- _2005_ **Resource planning tool** @ Imtech ICT, Java
-- _2004_ **Geographical visualization tool** @ Oasen, Java
+- _2005_ **Search engine for kids** @ [Kennisnet](https://www.kennisnet.nl), Java
+- _2005_ **Resource planning tool** @ [Imtech ICT](https://www.axians.com/en), Java
+- _2004_ **Geographical visualisation tool** @ [Oasen](https://www.oasen.nl), Java
 - _2004_ **Corporate Identity Management tool (prototype)** @ De Zaak Launspach,
   Java
-- _2003 - 2005_ **Corporate CMS** @ Imtech ICT, Java
-- _2001 - 2003_ **Order configuration tool** @ Flexiforce, Visual Basic
+- _2003 - 2005_ **Corporate CMS** @ [Imtech ICT](https://www.axians.com/en), Java
+- _2001 - 2003_ **Order configuration tool** @
+  [Flexiforce](https://www.flexiforce.com/us-en), Visual Basic
 
 _The most recent version of this cv can be found at_
 [github.com/micheldebree/cv](https://github.com/micheldebree/cv)
