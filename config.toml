@@ -13,7 +13,7 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+# disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Michel de Bree"
@@ -88,15 +88,20 @@ disqusShortname = "yourdiscussshortname"
         [languages.en.menu]
 
 
-            # [[languages.en.menu.main]]
-            # name = "About"
-            # weight = 1
-            # url = "about/"
+            #[[languages.en.menu.main]]
+            #name = "About"
+            #weight = 1
+            #url = "about/"
 
-            # [[languages.en.menu.main]]
-            # name = "Blog"
-            # weight = 2
-            # url = "posts/"
+            #[[languages.en.menu.main]]
+            #name = "Blog"
+            #weight = 2
+            #url = "posts/"
+
+             [[languages.en.menu.main]]
+            name = "Resumé"
+            weight = 3
+            url = "https://github.com/micheldebree/cv/blob/master/README.md#michel-de-bree"
 
             # [[languages.en.menu.main]]
             # name = "Music"

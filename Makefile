@@ -4,6 +4,9 @@ start:
 test:
 	hugo server
 
+build:
+	hugo --minify
+
 icons: static/images/favicon-16x16.png static/images/favicon-32x32.png
 
 static/images/favicon-16x16.png: static/images/logo.svg
