@@ -5,10 +5,6 @@
 With 15+ years of experience in complex and dynamic IT landscapes, I am equipped
 to help you build your automated solutions in an agile and sustainable way.
 
-After years of working for two software development companies, I started
-freelancing in 2014 because I was ready for a next challenge and was
-seeking more freedom in choice of projects to work on.
-
 Currently working with the following techniques:
 
 - [Scrum](https://www.scrum.org) /
