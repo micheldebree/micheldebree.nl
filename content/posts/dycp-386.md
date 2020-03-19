@@ -1,14 +1,15 @@
 +++ 
-draft = true
+draft = false
 date = 1994-07-07T18:06:31+01:00
-title = "DYCP and music routine on a 386"
+title = "DYCP and music routine on a 386 PC"
 description = ""
 slug = "" 
-tags = ["c64","coding","music"]
+tags = ["c64","software development","music"]
 categories = []
 externalLink = ""
 series = []
 +++
+
 Coming from the Commodore 64 and being used to coding in assembler, I tried to do the same on my dad's 386 PC. I decided on a [DYCP](http://www.antimon.org/dl/c64/code/dycp.txt) effect, a popular effect in the Commodore 64 demoscene.
 
 The DYCP itself (the bouncy scroller) wasn't too hard; most effort and fun
