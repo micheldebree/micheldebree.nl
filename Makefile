@@ -2,9 +2,9 @@ start:
 	hugo -D server
 
 test:
-	hugo server
+	hugo server --disableFastRender
 
-build:
+build: icons
 	hugo --minify
 
 icons: static/images/favicon-16x16.png static/images/favicon-32x32.png

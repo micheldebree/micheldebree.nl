@@ -80,28 +80,27 @@ pygmentscodefencesguesssyntax = true
     weight = 3
     url = "https://twitter.com/micheldebree/"
 
-
 [languages]
     [languages.en]
         languagename = "English"
 
         [languages.en.menu]
 
-
             #[[languages.en.menu.main]]
             #name = "About"
             #weight = 1
             #url = "about/"
 
-            #[[languages.en.menu.main]]
-            #name = "Blog"
-            #weight = 2
-            #url = "posts/"
-
-             [[languages.en.menu.main]]
+            [[languages.en.menu.main]]
             name = "Resumé"
-            weight = 3
+            weight = 1
             url = "https://github.com/micheldebree/cv/blob/master/README.md#michel-de-bree"
+
+            [[languages.en.menu.main]]
+            name = "Blog"
+            weight = 2
+            url = "posts/"
+
 
             # [[languages.en.menu.main]]
             # name = "Music"
