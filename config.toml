@@ -94,7 +94,7 @@ pygmentscodefencesguesssyntax = true
             [[languages.en.menu.main]]
             name = "Resumé"
             weight = 1
-            url = "https://github.com/micheldebree/cv/blob/master/README.md#michel-de-bree"
+            url = "resume/"
 
             [[languages.en.menu.main]]
             name = "Blog"
