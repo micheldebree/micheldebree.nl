@@ -58,7 +58,7 @@ pygmentscodefencesguesssyntax = true
     name = "Curriculum Vitae"
     icon = "fa fa-address-card"
     weight = 1
-    url = "https://github.com/micheldebree/cv/blob/master/README.md#michel-de-bree"
+    url = "/resume"
 [[params.social]]
     name = "Email"
     icon = "fa fa-envelope"
