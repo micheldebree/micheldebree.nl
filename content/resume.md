@@ -2,6 +2,13 @@
 
 ## Freelance Full Stack Java Developer
 
+Up-to-date versions available in
+[PDF](https://github.com/micheldebree/cv/raw/master/CV-Michel_de_Bree.EN.pdf)
+,
+[Word](https://github.com/micheldebree/cv/raw/master/CV-Michel_de_Bree.EN.docx)
+and
+[online](https://github.com/micheldebree/cv)
+
 With 15+ years of experience in complex and dynamic IT landscapes, I am equipped
 to help you build your automated solutions in an agile and sustainable way.
 
@@ -33,6 +40,7 @@ Currently working with the following techniques:
   [Enzyme](https://airbnb.io/enzyme) /
   [Wiremock](http://wiremock.org) /
   [Cucumber](https://cucumber.io) /
+  [Selenium](https://www.selenium.dev)
 - [Git](https://git-scm.com) /
   [Bitbucket](https://bitbucket.org) /
   [Gitlab](https://about.gitlab.com) /
@@ -50,14 +58,41 @@ Currently working with the following techniques:
 - Residence: [The Hague](https://denhaag.com/en) / The Netherlands
 - Languages: Dutch (native), English (fluent)
 - E-mail: [michel@micheldebree.nl](mailto:michel@micheldebree.nl)
-- LinkedIn: [nl.linkedin.com/in/micheldebree](https://nl.linkedin.com/in/micheldebree)
 - Website: [micheldebree.nl](https://www.micheldebree.nl)
+- LinkedIn: [nl.linkedin.com/in/micheldebree](https://nl.linkedin.com/in/micheldebree)
+- Most recent resume:
 
 ## Experience
 
-- _2014 - now_ **Freelance Full Stack Java Developer**
-  @ [micheldebree.nl](https://www.micheldebree.nl)
-  - See "Freelance Projects" below.
+- _2018 - now_ **Legislative rule engine with supporting interfaces** @
+  [Digitaal Stelsel Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel/toepasbare-regels-vragenbomen)
+
+  - Lead frontend (React / REST)
+  - Component lead backend
+    (Java 11 / Spring Boot / Hibernate / REST / OAuth / JWT)
+  - Lead CI/CD migration and improvement (from Bitbucket / Jenkins / Docker Swarm
+    to Gitlab / Kubernetes / Helm)
+  - Team representative in cross-team Security and Kubernetes guilds
+
+- _2016 - 2018_ **Central integration hub** @ [Digitaal Stelsel Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel)
+
+  - Lead Developer (Java 8 / Spring Boot / WSO2)
+  - Scrum Master / Agile SAFE
+  - Integration (WSO2 / SOAP / REST / JSON / OAuth)
+  - CI/CD development (Docker / Ansible / Linux Shell)
+
+- _2015 - 2018_ **Platform-as-a-Service** @ [Ministerie van Infrastructuur en Waterstaat](https://www.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-waterstaat)
+
+  - Development of custom components (Java / WSO2)
+  - Automated provisioning (Ruby, Linux Shell, Amazon EC2)
+
+- _2014 - 2015_ **Online authentication** @ [ING Bank](https://www.ing.nl/particulier)
+
+  - Backend development (Java / Spring)
+  - Frontend development (Angular)
+  - Integration (SOAP / REST)
+
+- _2014_ **Started freelancing** @ [micheldebree.nl](https://www.micheldebree.nl)
 - _2005 - 2014_ **Senior Software Engineer**
   @ E-ID (now [DearNova](https://www.dearnova.nl))
   - On-site development projects (Aegon bank, VZVZ, TNT)
@@ -77,35 +112,3 @@ Currently working with the following techniques:
   - **Student VWO beta** @ [Het Vlietland College Leiden](https://www.vlietlandcollege.nl)
   - **Self-taught developer**
     @ [Home](https://www.visitleiden.nl/en)
-
-### Freelance Projects
-
-- _2018 - now_ **Legislative rule engine with supporting interfaces** @
-  [Digitaal Stelsel Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel/toepasbare-regels-vragenbomen)
-
-  - Lead frontend (React / REST)
-  - Component lead backend
-    (Java 11 / Spring Boot / Hibernate / REST / OAuth / JWT)
-  - Lead CI/CD migration and improvement (from Bitbucket / Jenkins / Docker Swarm
-    to Gitlab / Kubernetes)
-  - Team representative in cross-team Security and Kubernetes guilds
-
-- _2016 - 2018_ **Central integration hub** @ [Digitaal Stelsel Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel)
-
-  - Lead Developer (Java 8 / Spring Boot / WSO2)
-  - Scrum Master / Agile SAFE
-  - Integration (WSO2 / SOAP / REST / JSON / OAuth)
-  - CI/CD development (Docker / Ansible / Linux Shell)
-
-- _2015 - 2018_ **Platform-as-a-Service** @ [Ministerie van Infrastructuur en Waterstaat](https://www.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-waterstaat)
-
-  - Development of custom components (Java / WSO2)
-  - Automated provisioning (Ruby, Linux Shell, Amazon EC2)
-
-- _2014 - 2015_ **Online authentication** @ [ING Bank](https://www.ing.nl/particulier)
-  - Backend development (Java / Spring)
-  - Frontend development (Angular)
-  - Integration (SOAP / REST)
-
-_The most recent version of this resum&eacute; can be found at_
-[github.com/micheldebree/cv](https://github.com/micheldebree/cv)
