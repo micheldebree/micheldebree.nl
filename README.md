@@ -99,7 +99,7 @@ Currently working with the following techniques:
   - In-house development projects (DELA, KPN, DLL, Ziggo, Infinitas)
   - Java and .NET
   - Pre-sales technical consultancy (KPN, DPD)
-  - Lead developer / software architect Nationaal Elektronisch Patientendossier
+  - Lead developer / software architect Nationaal Elektronisch Pati&euml;ntendossier
     for the Dutch government.
 - _2001 - 2005_ **Software Engineer**
   @ PaC/Imtech ICT (now [Axians](https://www.axians.com/en))
