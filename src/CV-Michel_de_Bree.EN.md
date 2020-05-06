@@ -3,11 +3,9 @@
 ## Freelance Full Stack Java Developer
 
 Up-to-date versions available in
-[PDF](https://github.com/micheldebree/cv/raw/master/CV-Michel_de_Bree.EN.pdf)
-,
+[PDF](https://github.com/micheldebree/cv/raw/master/CV-Michel_de_Bree.EN.pdf),
 [Word](https://github.com/micheldebree/cv/raw/master/CV-Michel_de_Bree.EN.docx)
-and
-[online](https://github.com/micheldebree/cv)
+and [online](https://github.com/micheldebree/cv)
 
 With 15+ years of experience in complex and dynamic IT landscapes, I am equipped
 to help you build your automated solutions in an agile and sustainable way.
@@ -60,7 +58,6 @@ Currently working with the following techniques:
 - E-mail: [michel@micheldebree.nl](mailto:michel@micheldebree.nl)
 - Website: [micheldebree.nl](https://www.micheldebree.nl)
 - LinkedIn: [nl.linkedin.com/in/micheldebree](https://nl.linkedin.com/in/micheldebree)
-- Most recent resume:
 
 ## Experience
 
