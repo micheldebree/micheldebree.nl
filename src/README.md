@@ -1,1 +1,0 @@
-https://github.com/Wandmalfarbe/pandoc-latex-template
