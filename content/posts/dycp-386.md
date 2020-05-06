@@ -10,7 +10,10 @@ externalLink = ""
 series = []
 +++
 
-Coming from the Commodore 64 and being used to coding in assembler, I tried to do the same on my dad's 386 PC. I decided on a [DYCP](http://www.antimon.org/dl/c64/code/dycp.txt) effect, a popular effect in the Commodore 64 demoscene.
+Coming from the Commodore 64 and being used to coding in assembler, I tried to
+do the same on my dad's 386 PC. I decided on a
+[DYCP](http://www.antimon.org/dl/c64/code/dycp.txt) effect, a popular effect in
+the Commodore 64 demoscene.
 
 The DYCP itself (the bouncy scroller) wasn't too hard; most effort and fun
 went into the music routine for the

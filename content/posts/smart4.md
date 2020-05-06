@@ -10,7 +10,9 @@ externalLink = ""
 series = []
 +++
 
-A short little jam. Can you spot the trick in track 1 that makes the track swing 'n shuffle?
+A short little jam. Can you spot the trick in track 1 that makes the track swing
+'n shuffle?
+
 _P.S._ The track plays twice because it is so short.
 
 {{< youtube id="fnavje8ott4" autoplay="true" >}}

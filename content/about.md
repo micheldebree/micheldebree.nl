@@ -4,16 +4,34 @@ date: 2019-12-03T17:25:57+01:00
 draft: true
 ---
 
-With over 15 years of experience in complex and dynamic IT landscapes, and a
-keen interest in continuous improvement, I am equiped to help you build
-automated solutions in an agile and sustainable way.
+## Personal guidelines
 
-Usually working on mission-critical enterprise systems, currently with the
-following techniques:
+Rather than being religious about techniques and methodologies, I let the
+experience and intuition I have acquired over the years guide my my daily work.
+Some guidelines:
 
-- Scrum / Agile SAFE
-- Java 11 / Spring Boot / Hibernate / Drools / PostgreSQL
-- ReactJS / REST / JSON / OAuth / OpenAPI
-- Kubernetes / Docker / Linux
-- JUnit / Mockito / Cucumber / Gherkin / Wiremock / Jest
-- Git / Maven / Jenkins / JIRA / SonarQube
+- **Purpose**; software should serve a real purpose other than make the coder
+  look smart or pay for his/her mortgage
+- **Sustainability**; software should be maintainable, scalable, secure and
+  adaptable. To both your future self as to other developers. Software is never
+  finished, only abandoned.
+- **Ownership**; take responsibility for your solution.
+- **Minimalism**; leverage existing software because _code is where the bugs
+  hide_. Write as little code as possible, _but not less_.
+- **Efficiency**; IT resources are expensive, don't overconsume. Measure
+  performance, fix the bottlenecks and be very skeptical about premature optimization.
+- **Hygiene**; write readable, adaptable code, but don't obsess over it.
+  Sometimes duplication makes code more adaptable. Sometimes a
+  well-documentedhack is the right thing at the right moment.
+- **Criticism**; be your own worse critic. Give and embrace constructive
+  criticism.
+- **Skeptisism**; don't trust your solution but instead do your best to try and
+  break it. Don't assume but verify. To be safe, don't trust anything or anyone
+  except Murphy's law.
+- **Intrinsic gratification**; get your kick from working solutions and user
+  satisfaction, not from ego boosting, job title, politics or perks.
+- **Automation over documentation**; code doesn't lie. Documentation often does.
+- **Untested features are broken by default**. Fix it before you ship it.
+
+These guidelines can often be conflicting in practice. That is where
+experience and common sense comes in to help you make the right choices.
