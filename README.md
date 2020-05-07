@@ -67,8 +67,11 @@ Currently working with the following techniques:
   - Lead frontend (React / REST)
   - Component lead backend
     (Java 11 / Spring Boot / Hibernate / REST / OAuth / JWT)
+  - API design (REST / Swagger / OpenAPI)
   - Lead CI/CD migration and improvement (from Bitbucket / Jenkins / Docker Swarm
     to Gitlab / Kubernetes / Helm)
+  - Lead design and implementation of a major overhaul of the datamodel to
+      accommodate changing business requirements, late into the project.
   - Team representative in cross-team Security and Kubernetes guilds
 
 - _2016 - 2018_ **Central integration hub** @ [Digitaal Stelsel Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel)
