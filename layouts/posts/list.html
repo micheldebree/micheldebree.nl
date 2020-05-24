@@ -1,0 +1,21 @@
+{{ define "title" }}
+  {{ .Title }} · {{ .Site.Title }}
+{{ end }}
+{{ define "content" }}
+  <section class="container list">
+    <h1 class="title">{{ .Title }}</h1>
+    {{ .Content }}
+    Tags:{{ " " }}
+    {{- range $key,$value := .Site.Taxonomies.tags -}}
+      <a href="/tags/{{ $key }}">{{ $key }}</a>
+      {{ " " }}
+    {{- end -}}
+    <ul>
+      {{- range .Paginator.Pages -}}
+        {{- .Render "li" -}}
+      {{- end -}}
+    </ul>
+
+    {{ partial "pagination.html" . }}
+  </section>
+{{ end }}
