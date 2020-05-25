@@ -1,14 +1,10 @@
-+++
-draft = true
-date = 1997-02-11T11:07:53+01:00
-title = "The story of Heatwave, our Commodore 64 demoscene gang"
-description = "How it all came about"
-slug = ""
-tags = ["c64"]
-categories = []
-externalLink = ""
-series = []
-+++
+---
+draft: true
+date: 1997-02-11T11:07:53+01:00
+title: "The story of Heatwave, our Commodore 64 demoscene gang"
+description: "How it all came about"
+tags:  ["c64"]
+---
 
 ## The Commodore 64 home computer
 

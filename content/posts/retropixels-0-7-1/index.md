@@ -2,10 +2,10 @@
 title: "Retropixels 0.7.1 released"
 date: 2020-05-21T19:07:49+02:00
 draft: false
-tags: ["c64","coding"]
+tags: ["c64", "coding"]
 ---
 
-Today I released retropixels version 0.7.1.
+![Screenshot](retropixels.gif)
 
 Retropixels is a cross-platform command line tool to convert images to a format
 that is supported by the legendary Commodore 64 (c-64) home computer. It can
@@ -43,6 +43,8 @@ read more about the [Colodore palette](https://www.pepto.de/projects/colorvic)
 and the [CIE 1931 XYZ color
 space](https://en.wikipedia.org/wiki/CIE_1931_color_space) online.
 
+<!-- markdownlint-disable MD013 -->
+
 | Prior to 0.7.1 (hardcoded pepto/yuv)      | 0.7.1 (default colodore/xyz)                 |
 | ----------------------------------------- | -------------------------------------------- |
 | ![Whitney](whitney-pepto-yuv.png)         | ![Whitney](whitney-colodore-xyz.png)         |
@@ -53,3 +55,5 @@ space](https://en.wikipedia.org/wiki/CIE_1931_color_space) online.
 | ![ET](et-pepto-yuv.png)                   | ![ET](et-colodore-xyz.png)                   |
 | ![Color face](colorface-pepto-yuv.png)    | ![Color face](colorface-colodore-xyz.png)    |
 | ![Color face 2](colorface2-pepto-yuv.png) | ![Color face 2](colorface2-colodore-xyz.png) |
+
+<!-- markdownlint-enable MD013 -->
