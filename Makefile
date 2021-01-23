@@ -1,4 +1,5 @@
 start:
+	open http://localhost:1313
 	hugo -D server --disableFastRender
 
 test:
