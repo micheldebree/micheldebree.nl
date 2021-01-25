@@ -1,8 +1,8 @@
 ---
-title: 'I built a new personal website with Hugo'
+title: "I built a new personal website with Hugo"
 date: 2020-03-19T08:00:00+01:00
 draft: false
-tags: ['coding']
+tags: ["coding"]
 ---
 
 Welcome to my website. In this first post I will go over some details on how
@@ -14,22 +14,18 @@ this site was created.
 - Based on the [hugo-coder](https://themes.gohugo.io/hugo-coder) theme
 
 So, I didn't use a fancy CMS like Wordpress, or a platform like Medium for
-example. Why is that?
+example. The main reasons for doing it like this are:
 
-- I don't need fancy stuff that requires session management, a database,
-  authorization etc. I just need to **publish** information.
-- Static HTML is fast, robust and secure.
-- Content is just Markdown files on my laptop. They are easily accessible, lots
-  of editors support Markdown, and it is easily portable.
-- The generated site is easily portable to any HTTP server without further
-  dependencies.
-- I am leveraging my knowledge of Git, Markdown, HTML and CSS, all widely used
-  and community supported.
-- I am a developer and actually like using text editors and command line over
-  GUI's.
-- I am using free open-source tooling and free hosting. Because I'm a cheapo and
-  have an irrational fear of vendor lock-in.
-- I don't need thousands of followers. I am glad _you_ are here though!
+- Keep it simple: The site does not need fancy stuff that requires session
+  management, a database, authorization etc. I just need to **publish**
+  information. Less moving parts means less maintenance and more speed and
+  robustness.
+- Own your own data: the content is plain Markdown files, the generated site is
+  plain HTML. Both formats are easily editable and very portable.
+- Developer friendly: The content and styling is maintained by myself. I get to
+  use industry standard tools and proven technologies that I am comfortable
+  with: Git, Markdown, HTML, CSS. I do not need to mouse around in a
+  user-friendly UI.
 
 ## The setup
 
@@ -45,12 +41,12 @@ This is how I did it
 - I have a [Github](https://github.com) account, where I created
 
   - a **source** repository for my Hugo website configuration and content,
-      called [`website`](https://github.com/micheldebree/website)
+    called [`website`](https://github.com/micheldebree/website)
   - a **target** [Github Pages](https://pages.github.com/) repository for my
-      generated site called
-      [`micheldebree.github.io`](https://github.com/micheldebree/micheldebree.github.io)
-      (the naming convention for personal Github Pages). The site is served from
-      this repository.
+    generated site called
+    [`micheldebree.github.io`](https://github.com/micheldebree/micheldebree.github.io)
+    (the naming convention for personal Github Pages). The site is served from
+    this repository.
 
   This is because Github personal pages cannot be served from a subfolder in the
   repository. `hugo` generates the static website in the subfolder `public`, so
