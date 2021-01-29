@@ -9,10 +9,7 @@ build: icons content/resume.md static/resume/Photo.jpg
 	hugo --minify
 
 publish: build
-	cd public
-	git add .
-	git commit -m "Minor update"
-	git push
+	cd public && git add . && git commit -m "Minor update" && git push 
 
 icons: static/images/favicon-16x16.png static/images/favicon-32x32.png
 
