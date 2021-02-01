@@ -21,6 +21,7 @@ could code. I also just added a sprite mode to my
 [retropixels](/posts/retropixels-0-8-0) tool, so I decided to make a big angry sprite.
 
 Links: [Download Commodore 64 binaries](https://csdb.dk/release/?id=199156),
+[watch it in an online emulator](/big_angry_sprite),
 [view the source
 code](https://github.com/micheldebree/big_angry_sprite) or [listen to the
 music](https://deepsid.chordian.net/?file=/SID%20Happens/Terminator.sid)
