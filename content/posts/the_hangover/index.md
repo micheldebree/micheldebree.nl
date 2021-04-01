@@ -9,6 +9,8 @@ It has been about 30 years since [Yavin](https://csdb.dk/scener/?id=1126) and I
 collaborated on a [Commodore 64](/tags/c64) tune, so to celebrate, here is a new
 tune!
 
+{{< youtube id="EObPFlFmpW4" autoplay="true" >}}
+
 This is our entry to the [Last Night melody
 compo](https://csdb.dk/event/?id=3043) on
 [CSDB](https://csdb.dk/event/?id=3043), a competition organised by
@@ -24,11 +26,8 @@ Stinsen](https://deepsid.chordian.net/?file=SID%20Happens/Last_Night.sid)
 
 And this is our version:
 
-
 [The Hangover (after last night with Stinsen), by Yavin, Youth and Stinsen](https://deepsid.chordian.net/?file=/SID%20Happens/The_Hangover.sid)
 [(mp3)](heatwave_and_stinsen-the_hangover.mp3)
 
-I also made a title screen to look at when you listen to the tune on a Commodore
-64, which can be found on [CSDB: The Hangover](https://csdb.dk/release/?id=202260)
+We got very positive reactions on [CSDB: The Hangover](https://csdb.dk/release/?id=202260)!
 
-{{< youtube id="EObPFlFmpW4" autoplay="true" >}}
