@@ -3,6 +3,7 @@ title: "The Hangover (after last night with Stinsen)"
 date: 2021-03-31T08:24:49+02:00
 draft: false
 tags: ["c64", "music"]
+featuredImage: "screenshot.png"
 ---
 
 It has been about 30 years since [Yavin](https://csdb.dk/scener/?id=1126) and I
