@@ -22,12 +22,13 @@ This was the starting point:
 [Last night, by
 Stinsen](https://deepsid.chordian.net/?file=SID%20Happens/Last_Night.sid)
 
-We had a lot of fun and learned a lot while making this tune. As this was a
-sort of comeback, we didn't really expect to end up very high, but we
-actually got into a neck-on-neck race to the top with our all time hero and
-SID music veteran [Thomas "Laxity" Egeskov
-Petersen](https://csdb.dk/scener/?id=677)! Finally, Thomas walked away with
-the well deserved #1 position, and we became second! Check out all the kind words we received on the [Commodore 64 Scene Database](https://deepsid.chordian.net/?file=/SID%20Happens/The_Hangover.sid)
+We had a lot of fun and learned a lot while making this tune, but we didn't
+really expect to end up very high. We actually got into a neck-on-neck
+race to the top with our all time hero and SID music veteran [Thomas "Laxity"
+Egeskov Petersen](https://csdb.dk/scener/?id=677) though! Finally, Thomas walked
+away with the well deserved #1 position, and we became second! Check out all
+the kind words we received on the [Commodore 64 Scene
+Database](https://csdb.dk/release/?id=202260).
 
 [Listen to Laxity's winning entry](https://deepsid.chordian.net/?file=/SID%20Happens/Last_Night_of_89.sid).
 
