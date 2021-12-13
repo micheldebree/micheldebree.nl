@@ -1,15 +1,17 @@
-PANDOC=docker run --rm --volume "`pwd`:/data" --user `id -u`:`id -g` pandoc/latex
+# Dependencies:
+# brew install pandoc wkhtmltopdf
+
 FILENAME_BASE=CV-Michel_de_Bree
 
 .PHONY: all
 
-all: README.md $(FILENAME_BASE).EN.docx $(FILENAME_BASE).EN.pdf
+all: $(FILENAME_BASE).EN.docx $(FILENAME_BASE).EN.pdf
 
 $(FILENAME_BASE).EN.docx: README.md
-	${PANDOC} -o $@ $< 
+	pandoc -o $@ $< 
 
 $(FILENAME_BASE).EN.pdf: README.md
-	${PANDOC} --variable fontsize=11pt -o $@ $<
+	pandoc --pdf-engine=wkhtmltopdf --metadata title="Resumé" -o $@ $<
 
 clean:
 	rm -f *.docx
