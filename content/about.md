@@ -35,3 +35,35 @@ Some guidelines:
 
 These guidelines can often be conflicting in practice. That is where
 experience and common sense comes in to help you make the right choices.
+
+
+With over 15 years of experience in complex and dynamic IT landscapes, I am
+equipped to help you build and run automated solutions in an agile and sustainable way.
+
+It is my job and passion to use this experience to take ownership of the full
+technology stack and stakeholders' interests to make sure software works, and -
+more importantly - keeps working out there in the real world.
+
+Software is great. It allows us to quickly build fantastic, flexible stuff.
+Because of this, the complexity of software also tends to spiral out of control
+very rapidly. Complexity is where the bugs hide.
+
+It is my passion to use my experience to be able to identify, communicate and
+mitigate the impact of every single change to a software system and make sure it
+doesn't only 'work', but
+
+Impact:
+
+- Building it so it works (build, review, test)
+- Costs in terms of maintainability (how safe and quick can we change things)
+- Costs in terms of risk (what is the risk to existing functionality? might
+  things break, become slower, or more instable?)
+
+"The software works" is not enough. It is only the beginning. The real challenge
+is to be able to say "It will keep working". Software runs in the real world,
+where it has multiple users, limited resources, service level agreements,
+multiple stakeholders with different interests and expectations.
+
+It is my job and passion to use this experience to take ownership of the full
+technology stack and stakeholders' interests to make sure software works, and -
+more importantly - keeps working out there in the real world.

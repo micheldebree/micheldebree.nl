@@ -1,3 +1,4 @@
-With over 15 years of experience in complex and dynamic IT landscapes, and a
-keen interest in continuous improvement, I am equipped to help you build
-automated solutions in an agile and sustainable way.
+With over 15 years of experience in complex and dynamic IT landscapes, I am
+equipped to help you build and run automated solutions in an agile and
+sustainable way, by taking ownership of every aspect that keeps the software doing
+what you expect it to do, out there in the real world.
