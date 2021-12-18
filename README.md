@@ -2,13 +2,15 @@
 
 ## Freelance Full Stack Java Developer
 
-With 17+ years of experience in complex and dynamic IT landscapes, I am equipped
-to help you build your automated solutions in an agile and sustainable way.
+With over 15 years of experience in complex and dynamic IT landscapes, I am
+equipped to help you build and run automated solutions in an agile and
+sustainable way, by taking ownership of every aspect that keeps the software
+doing what you expect it to do, out there in the real world.
 
 Currently working with the following techniques:
 
 - [Scrum](https://www.scrum.org) /
-  [Agile SAFE](https://www.scaledagileframework.com)
+  [Agile SAFe](https://www.scaledagileframework.com)
 - [Java 11](https://go.java) /
   [Spring Boot](https://spring.io/projects/spring-boot) /
   [Hibernate](https://hibernate.org) /
@@ -63,12 +65,20 @@ Currently working with the following techniques:
   - Lead frontend (React / REST)
   - Component lead backend
     (Java 11 / Spring Boot / Hibernate / REST / OAuth / JWT)
+  - Implementation of new features, changes and bug fixes. Code review, technical
+    design, architectural advice.
+  - Development of Docker images, Helm charts and Gitlab pipelines for
+    continuous integration on a Kubernetes cluster.
+  - Development of automated unit- and functional tests, performance tests.
   - API design and QA (REST / Swagger / OpenAPI)
   - Lead CI/CD migration and improvement (from Bitbucket / Jenkins / Docker Swarm
     to Gitlab / Kubernetes / Helm)
   - Lead design and implementation of a major overhaul of the datamodel to
     accommodate changing business requirements, late into the project.
-  - Team representative in cross-team Security and Kubernetes guilds
+  - Team representative in cross-team Security and Software Quality guilds.
+    Measure, monitor, assess impact and mitigate the outcomes of security and
+    code quality audits.
+  - Incident analysis and mitigation.
 
 - _2016&ndash;2018_ &mdash; **Central integration hub**
   <br/>@ [Digitaal Stelsel Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel)
