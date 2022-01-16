@@ -2,8 +2,8 @@
 
 ## Freelance Full Stack Java Developer
 
-With over 15 years of experience in complex and dynamic IT landscapes, I am
-equipped to help you build and run automated solutions in an agile and
+With over 17 years of experience in complex and dynamic IT landscapes, I am
+equipped to help you build and run your software in an agile and
 sustainable way, by taking ownership of every aspect that keeps the software
 doing what you expect it to do, out there in the real world.
 
@@ -60,28 +60,27 @@ Currently working with the following techniques:
 ## Experience
 
 - _2018&ndash;now_ &mdash; **Legislative rule engine with supporting interfaces**
-  <br/>@ [Digitaal Stelsel Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel/toepasbare-regels-vragenbomen)
+  <br/>@ [Digitaal Stelsel Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel/toepasbare-regels-vragenbomen) (Rijkswaterstaat)
 
   - Lead frontend (React / REST)
   - Component lead backend
     (Java 11 / Spring Boot / Hibernate / REST / OAuth / JWT)
   - Implementation of new features, changes and bug fixes. Code review, technical
-    design, architectural advice.
+    design, architectural advice. Validating and extending DMN for use in the
+    Drools rule engine.
   - Development of Docker images, Helm charts and Gitlab pipelines for
     continuous integration on a Kubernetes cluster.
-  - Development of automated unit- and functional tests, performance tests.
+  - Deployment, configuration and integration with Elasticsearch, Nexus and Drools.
+  - Development of automated unit- and functional tests.
   - API design and QA (REST / Swagger / OpenAPI)
-  - Lead CI/CD migration and improvement (from Bitbucket / Jenkins / Docker Swarm
-    to Gitlab / Kubernetes / Helm)
-  - Lead design and implementation of a major overhaul of the datamodel to
-    accommodate changing business requirements, late into the project.
   - Team representative in cross-team Security and Software Quality guilds.
     Measure, monitor, assess impact and mitigate the outcomes of security and
     code quality audits.
+  - Performance testing and resolving of performance bottlenecks.
   - Incident analysis and mitigation.
 
 - _2016&ndash;2018_ &mdash; **Central integration hub**
-  <br/>@ [Digitaal Stelsel Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel)
+  <br/>@ [Digitaal Stelsel Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel) (Rijkswaterstaat)
 
   - Lead Developer (Java 8 / Spring Boot / WSO2)
   - Scrum Master / Agile SAFE
