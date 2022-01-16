@@ -38,7 +38,8 @@ Currently working with the following techniques:
   [Enzyme](https://airbnb.io/enzyme) /
   [Wiremock](http://wiremock.org) /
   [Cucumber](https://cucumber.io) /
-  [Selenium](https://www.selenium.dev)
+  [Selenium](https://www.selenium.dev) /
+  [JMeter](https://jmeter.apache.org)
 - [Git](https://git-scm.com) /
   [Gitlab](https://about.gitlab.com) /
   [Maven](https://maven.apache.org) /
@@ -66,8 +67,7 @@ Currently working with the following techniques:
   - Component lead backend
     (Java 11 / Spring Boot / Hibernate / REST / OAuth / JWT)
   - Implementation of new features, changes and bug fixes. Code review, technical
-    design, architectural advice. Validating and extending DMN for use in the
-    Drools rule engine.
+    design, architectural advice.
   - Development of Docker images, Helm charts and Gitlab pipelines for
     continuous integration on a Kubernetes cluster.
   - Deployment, configuration and integration with Elasticsearch, Nexus and Drools.
