@@ -15,7 +15,8 @@ Currently working with the following techniques:
   [Spring Boot](https://spring.io/projects/spring-boot) /
   [Hibernate](https://hibernate.org) /
   [PostgreSQL](https://www.postgresql.org/) /
-  [Elastic Search](https://www.elastic.co/)
+  [Elastic Search](https://www.elastic.co/) /
+  [RabbitMQ](https://www.rabbitmq.com/)
 - [React](https://reactjs.org) /
   [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) /
   [JSON](https://www.json.org) /
@@ -70,7 +71,7 @@ Currently working with the following techniques:
     design, architectural advice.
   - Development of Docker images, Helm charts and Gitlab pipelines for
     continuous integration on a Kubernetes cluster.
-  - Deployment, configuration and integration with Elasticsearch, Nexus and Drools.
+  - Deployment, configuration and integration with Elasticsearch, Nexus, RabbitMQ and Drools.
   - Development of automated unit- and functional tests.
   - API design and QA (REST / Swagger / OpenAPI)
   - Team representative in cross-team Security and Software Quality guilds.
