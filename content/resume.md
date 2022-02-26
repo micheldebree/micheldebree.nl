@@ -2,8 +2,8 @@
 
 ## Freelance Full Stack Java Developer
 
-With over 15 years of experience in complex and dynamic IT landscapes, I am
-equipped to help you build and run automated solutions in an agile and
+With over 17 years of experience in complex and dynamic IT landscapes, I am
+equipped to help you build and run your software in an agile and
 sustainable way, by taking ownership of every aspect that keeps the software
 doing what you expect it to do, out there in the real world.
 
@@ -15,7 +15,8 @@ Currently working with the following techniques:
   [Spring Boot](https://spring.io/projects/spring-boot) /
   [Hibernate](https://hibernate.org) /
   [PostgreSQL](https://www.postgresql.org/) /
-  [Elastic Search](https://www.elastic.co/)
+  [Elastic Search](https://www.elastic.co/) /
+  [RabbitMQ](https://www.rabbitmq.com/)
 - [React](https://reactjs.org) /
   [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) /
   [JSON](https://www.json.org) /
@@ -38,7 +39,8 @@ Currently working with the following techniques:
   [Enzyme](https://airbnb.io/enzyme) /
   [Wiremock](http://wiremock.org) /
   [Cucumber](https://cucumber.io) /
-  [Selenium](https://www.selenium.dev)
+  [Selenium](https://www.selenium.dev) /
+  [JMeter](https://jmeter.apache.org)
 - [Git](https://git-scm.com) /
   [Gitlab](https://about.gitlab.com) /
   [Maven](https://maven.apache.org) /
@@ -60,7 +62,7 @@ Currently working with the following techniques:
 ## Experience
 
 - _2018&ndash;now_ &mdash; **Legislative rule engine with supporting interfaces**
-  <br/>@ [Digitaal Stelsel Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel/toepasbare-regels-vragenbomen)
+  <br/>@ [Digitaal Stelsel Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel/toepasbare-regels-vragenbomen) (Rijkswaterstaat)
 
   - Lead frontend (React / REST)
   - Component lead backend
@@ -69,19 +71,17 @@ Currently working with the following techniques:
     design, architectural advice.
   - Development of Docker images, Helm charts and Gitlab pipelines for
     continuous integration on a Kubernetes cluster.
-  - Development of automated unit- and functional tests, performance tests.
+  - Deployment, configuration and integration with Elasticsearch, Nexus, RabbitMQ and Drools.
+  - Development of automated unit- and functional tests.
   - API design and QA (REST / Swagger / OpenAPI)
-  - Lead CI/CD migration and improvement (from Bitbucket / Jenkins / Docker Swarm
-    to Gitlab / Kubernetes / Helm)
-  - Lead design and implementation of a major overhaul of the datamodel to
-    accommodate changing business requirements, late into the project.
   - Team representative in cross-team Security and Software Quality guilds.
     Measure, monitor, assess impact and mitigate the outcomes of security and
     code quality audits.
+  - Performance testing and resolving of performance bottlenecks.
   - Incident analysis and mitigation.
 
 - _2016&ndash;2018_ &mdash; **Central integration hub**
-  <br/>@ [Digitaal Stelsel Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel)
+  <br/>@ [Digitaal Stelsel Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel) (Rijkswaterstaat)
 
   - Lead Developer (Java 8 / Spring Boot / WSO2)
   - Scrum Master / Agile SAFE
