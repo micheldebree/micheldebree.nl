@@ -27,17 +27,26 @@
                 },
                 {
                     metaData: {
-                        artist: "Youth & Yavin",
-                        title: "Sunkissed"
+                        artist: "Youth, Yavin & Stinsen",
+                        title: "The Hangover (after last night with Stinsen)"
                     },
-                    url: "https://www.micheldebree.nl/winamp/sunkissed-8580-v2.mp3"
+                    url: "https://www.micheldebree.nl/winamp/Hangover.mp3",
+                    duration: 115
+                },
+                {
+                    metaData: {
+                        artist: "Youth",
+                        title: "The Terminator 2 Theme v2"
+                    },
+                    url: "https://www.micheldebree.nl/winamp/Terminator_v2_8580.mpr",
                     duration: 360
-                }
+                },
             ],
         });
 
         // Returns a promise indicating when it's done loading.
         webamp.renderWhenReady(document.getElementById('app'));
+        webamp.play();
     </script>
 </body>
 
