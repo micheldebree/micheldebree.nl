@@ -1,2 +1,4 @@
+_gen
+node_modules
 *.swp
 .vscode

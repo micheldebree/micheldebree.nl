@@ -1,0 +1,6 @@
+.about > svg {
+  display: inline-block;
+  width: 50%;
+  height: 50%;
+  vertical-align: middle;
+}
