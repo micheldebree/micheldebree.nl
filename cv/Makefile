@@ -1,7 +1,7 @@
 # Dependencies:
 # brew install pandoc wkhtmltopdf
 
-FILENAME_BASE=CV-Michel_de_Bree
+FILENAME_BASE=Michel_de_Bree-Resume
 
 .PHONY: all
 

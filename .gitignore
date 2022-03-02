@@ -5,3 +5,5 @@ node_modules
 build
 website/public
 .hugo_build.lock
+cv/*.pdf
+cv/*.docx

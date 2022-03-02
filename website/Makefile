@@ -5,7 +5,12 @@ start:
 test:
 	hugo server --disableFastRender
 
-build: icons content/resume.md static/resume/Photo.jpg
+build: \
+	icons \
+	content/resume.md \
+	static/resume/Photo.jpg \
+	static/resume/Michel_de_Bree-Resume.EN.docx \
+	static/resume/Michel_de_Bree-Resume.EN.pdf 
 	hugo --minify
 
 # Build and copy /public folder to the repo that the website is hosted from
@@ -20,7 +25,7 @@ icons: static/images/favicon-16x16.png \
 content/resume.md: ../cv/README.md
 	cp $< $@
 
-static/resume/Photo.jpg: ../cv/Photo.jpg
+static/resume/%: ../cv/%
 	mkdir -p static/resume
 	cp $< $@
 
