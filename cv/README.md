@@ -126,6 +126,6 @@ Currently working with the following techniques:
     @ [Home](https://www.visitleiden.nl/en)
 
 Up-to-date versions available in
-[PDF](https://www.micheldebree.nl/Michel_de_Bree-Resume.EN.docx),
-[Word](https://www.micheldebree.nl/Michel_de_Bree-Resume.EN.pdf),
-and [online](https://www.micheldebree.nl/resume)
+[PDF](https://www.micheldebree.nl/resume/Michel_de_Bree-Resume.EN.pdf),
+[Word](https://www.micheldebree.nl/resume/Michel_de_Bree-Resume.EN.docx),
+and [Online](https://www.micheldebree.nl/resume)
