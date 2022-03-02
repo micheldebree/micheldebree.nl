@@ -15,7 +15,7 @@ Currently working with the following techniques:
   [Spring Boot](https://spring.io/projects/spring-boot) /
   [Hibernate](https://hibernate.org) /
   [PostgreSQL](https://www.postgresql.org/) /
-  [Elastic Search](https://www.elastic.co/) /
+  [Elasticsearch](https://www.elastic.co/) /
   [RabbitMQ](https://www.rabbitmq.com/)
 - [React](https://reactjs.org) /
   [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) /

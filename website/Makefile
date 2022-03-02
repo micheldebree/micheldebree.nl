@@ -8,19 +8,21 @@ test:
 build: icons content/resume.md static/resume/Photo.jpg
 	hugo --minify
 
+# Build and copy /public folder to the repo that the website is hosted from
 publish: build
-	cd public && git add . && git commit -m "Minor update" && git push 
+	cp -a ./public/. ../micheldebree.github.io/
+	cd ../micheldebree.github.io && git add . && git commit -m "Minor update" && git push 
 
 icons: static/images/favicon-16x16.png \
 	static/images/favicon-32x32.png \
 	static/images/apple-touch-icon.png
 
-content/resume.md: cv/README.md
-	cp cv/README.md content/resume.md
+content/resume.md: ../cv/README.md
+	cp $< $@
 
-static/resume/Photo.jpg: cv/Photo.jpg
+static/resume/Photo.jpg: ../cv/Photo.jpg
 	mkdir -p static/resume
-	cp cv/Photo.jpg static/resume/Photo.jpg
+	cp $< $@
 
 static/images/favicon-16x16.png: static/images/logo.svg
 	convert -resize 16x16 -background none $< $@

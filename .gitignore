@@ -3,3 +3,5 @@ node_modules
 *.swp
 .vscode
 build
+website/public
+.hugo_build.lock
