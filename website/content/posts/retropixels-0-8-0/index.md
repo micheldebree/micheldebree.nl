@@ -1,5 +1,5 @@
 ---
-title: 'Retropixels 0.8.0 released'
+title: 'Retropixels 0.8.0'
 date: 2021-01-23T08:24:49+02:00
 draft: false
 tags: ['c64', 'coding']

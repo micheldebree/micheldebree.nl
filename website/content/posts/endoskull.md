@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2021-12-10T00:00:00+02:00
-title: "Endoskull soundtrack"
+title: "Terminator 2 theme, from the Endoskull animation"
 tags: ["music","c64"]
 ---
 

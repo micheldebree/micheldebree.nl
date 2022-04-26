@@ -1,7 +1,7 @@
 ---
-title: "Surprise (Fasttracker II tune)"
+title: "Surprise, from the X97 surprise competition"
 date: 1997-04-06T00:00:00+02:00
-tags: ["music"]
+tags: ["music", "tracker"]
 ---
 
 This is our (me and my mate Afzel) entry to the

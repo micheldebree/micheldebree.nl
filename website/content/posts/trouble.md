@@ -1,8 +1,8 @@
 ---
 draft: false
 date: 1997-04-06T17:23:00+02:00
-title: "Trouble (Fasttracker II tune)"
-tags: ["music"]
+title: "Trouble @ X97"
+tags: ["music","tracker"]
 ---
 
 This is our (me and my mate Marvin) entry to the

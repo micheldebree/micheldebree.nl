@@ -2,7 +2,7 @@
 draft: false
 date: 1994-07-07T18:06:31+01:00
 title: "DYCP and music routine on a 386 PC"
-tags: ["c64","coding","music"]
+tags: ["coding","music"]
 ---
 
 Coming from the Commodore 64 and being used to coding in assembler, I tried to

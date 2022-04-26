@@ -1,8 +1,8 @@
 ---
-title: "1st place in Beatbattle III"
+title: "Earwax, 1st place in Beatbattle III"
 date: 2003-09-03T17:36:53+02:00
 draft: false
-tags: ["music"]
+tags: ["music","tracker"]
 ---
 
 My tune "Earwax" came first in the [Renoise Beatbattle

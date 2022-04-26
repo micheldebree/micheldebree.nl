@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 1996-01-01T00:00:00+02:00
-title: "Iceball (commodore 64 tune)"
+title: "Iceball, a tune made in assembler code"
 tags: ["music","c64"]
 ---
 
