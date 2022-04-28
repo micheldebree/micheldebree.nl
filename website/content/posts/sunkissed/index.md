@@ -12,7 +12,7 @@ the magazine, ours is one of the tunes you can select.
 {{< youtube id="gjxqJTm-4d4" autoplay="true" >}}
 
 The other tunes in the jukebox are by
-[Drax](https://deepsid.chordian.net/?file=/MUSICIANS/D/DRAX/), [Laxity](https://deepsid.chordian.net/?file=/MUSICIANS/L/Laxity), [Shogoon](https://deepsid.chordian.net/?file=/MUSICIANS/S/Shogoon/), [Mutetus](https://deepsid.chordian.net/?file=/MUSICIANS/M/Mutetus), [Stinsen](https://deepsid.chordian.net/?file=/MUSICIANS/S/Stinsen),
+[Laxity](https://deepsid.chordian.net/?file=/MUSICIANS/L/Laxity), [Shogoon](https://deepsid.chordian.net/?file=/MUSICIANS/S/Shogoon/), [Mutetus](https://deepsid.chordian.net/?file=/MUSICIANS/M/Mutetus), [Stinsen](https://deepsid.chordian.net/?file=/MUSICIANS/S/Stinsen),
 [Magnar](https://deepsid.chordian.net/?file=/MUSICIANS/M/Magnar), [Fegolhuzz](https://deepsid.chordian.net/?file=/MUSICIANS/F/Fegolhuzz) and [Qdor](https://deepsid.chordian.net/?file=/MUSICIANS/Q/Qdor), which is an impressive line-up to be part of!
 
 Check out the amazing opening screen aswell, by

@@ -79,6 +79,11 @@ pygmentscodefencesguesssyntax = true
     icon = "fa fa-twitter"
     weight = 3
     url = "https://twitter.com/micheldebree/"
+[[params.social]]
+    name = "RSS"
+    icon = "fa fa-rss"
+    weight = 3
+    url = "https://www.micheldebree.nl/index.xml"
 
 [languages]
     [languages.en]
