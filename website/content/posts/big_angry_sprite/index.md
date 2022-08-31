@@ -40,7 +40,7 @@ look at the [source
 code](https://github.com/micheldebree/big_angry_sprite/blob/main/big_angry_sprite.asm)
 to see what that looks like.
 
-![Snippet of assembler code](snippet.png)
+![Snippet of assembler code](snippet.webp)
 
 I found it very cool to be coding so close to the
 metal again. In my daily work I am so many abstraction layers away from the
@@ -80,7 +80,7 @@ the next round of screen-drawing. If you also switch the pointer which points to
 the actual graphics data for the sprite, they will look like two totally
 different sprites.
 
-![Terminator sprites in Spritemate](spritemate.png)
+![Terminator sprites in Spritemate](spritemate.webp)
 
 With this clever trick you are now only limited to 8 sprites on a horizontal
 line, but a lot more in the vertical direction. At the cost of having to
@@ -126,7 +126,7 @@ line, giving us 8 x 24 = 192 pixels. Not enough. The trick here is in the color
 fade effect that scrolls through the text a at quicker speed, leaving some parts
 of the text completely blank. 
 
-![One frame of the scroller](scroller.png)
+![One frame of the scroller](scroller.webp)
 
 In fact, only 8 sprites are visible at a time,
 but their location rapidly changes to cover the whole 320 pixel area. There are
@@ -138,7 +138,7 @@ The music is a cover of the theme music of [The
 Terminator](https://www.rottentomatoes.com/m/terminator). I made it with the
 excellent [SIDFactory II](https://blog.chordian.net/sf2).
 
-![SIDFactory II](sf2.png)
+![SIDFactory II](sf2.webp)
 
 As I am also doing
 some development on that project, I was able to use an adapted version of the
