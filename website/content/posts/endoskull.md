@@ -2,7 +2,7 @@
 draft: false
 date: 2021-12-10T00:00:00+02:00
 title: "Terminator 2 theme, from the Endoskull animation"
-tags: ["music","c64"]
+tags: ["music","c64", "sid", "cover"]
 ---
 
 I did a little update on the Terminator theme from [Big Angry

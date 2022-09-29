@@ -2,7 +2,7 @@
 title: "Mahna Mahna, from the demo Mahna Mahna"
 date: 2021-04-24T00:00:00+02:00
 draft: false
-tags: ["c64", "music"]
+tags: ["c64", "music", "sid", "cover"]
 ---
 
 Pssst... I made the soundtrack to [this Commodore 64

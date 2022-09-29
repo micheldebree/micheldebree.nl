@@ -2,7 +2,7 @@
 title: "Muppetshow Theme, from the demo Subway Art"
 date: 2021-06-05T00:00:00+02:00
 draft: false
-tags: ["c64", "music"]
+tags: ["c64", "music", "sid", "cover"]
 ---
 
 A cover of the theme from [The

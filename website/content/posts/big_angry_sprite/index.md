@@ -2,7 +2,7 @@
 title: "Big Angry Sprite; going back to my Commodore  64 roots"
 date: 2021-01-21T08:24:49+02:00
 draft: false
-tags: ["c64", "coding"]
+tags: ["c64", "sid", coding", "cover"]
 ---
 
 After 30 years of coding anything for the [Commodore

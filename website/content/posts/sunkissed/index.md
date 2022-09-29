@@ -2,7 +2,7 @@
 draft: false
 date: 2022-04-17T00:00:00+02:00
 title: "Sunkissed, from the Vandalism #72 soundtrack"
-tags: ["music", "c64"]
+tags: ["music", "sid", c64"]
 ---
 
 We made an exclusive background tune for the 72nd issue of the Commodore 64 disk
@@ -18,4 +18,4 @@ The other tunes in the jukebox are by
 Check out the amazing opening screen aswell, by
 [Mirage](https://csdb.dk/scener/?id=739):
 
-![Vandalism News #72 title screen](vandalism72.jpg)
+![Vandalism News #72 title screen](vandalism72.webp)

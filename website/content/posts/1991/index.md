@@ -12,7 +12,7 @@ some parts to that. So here it is:
 
 [Start the demo](https://johnbruin.net/1991demo/index.htm)
 
-![1991 demo screenshot](1991.png)
+![1991 demo screenshot](1991.webp)
 
 The bottom three parts in this overview screenshot are made by me.
 The one on the bottom left is a small tribute to [Bas Bron](https://en.wikipedia.org/wiki/Bas_Bron)'s video clip to [You've got my love](https://www.youtube.com/watch?v=-LsDy7N-Nz4). Bas was also at the party, performing an excellent DJ set of Commodore 64 tunes, which you can see below.

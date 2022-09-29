@@ -2,7 +2,7 @@
 draft: true
 date: 2020-06-26T00:00:00+02:00
 title: "Composing in c64 assembler code"
-tags: ["music", "c64", "coding"]
+tags: ["music", "c64", "sid", "coding"]
 ---
 
 ## TL;DR
