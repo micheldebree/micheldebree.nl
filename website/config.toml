@@ -56,32 +56,32 @@ pygmentscodefencesguesssyntax = true
 
 [[params.social]]
     name = "Curriculum Vitae"
-    icon = "fa fa-address-card"
+    icon = "fa fa-2x fa-address-card"
     weight = 1
     url = "/resume"
 [[params.social]]
     name = "Email"
-    icon = "fa fa-envelope"
+    icon = "fa fa-2x fa-envelope"
     weight = 1
     url = "mailto:michel@micheldebree.nl"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fa fa-linkedin"
+    icon = "fa fa-2x fa-linkedin"
     weight = 1
     url = "https://www.linkedin.com/in/micheldebree/"
 [[params.social]]
     name = "Github"
-    icon = "fa fa-github"
+    icon = "fa fa-2x fa-github"
     weight = 2
     url = "https://github.com/micheldebree/"
 [[params.social]]
     name = "Twitter"
-    icon = "fa fa-twitter"
+    icon = "fa fa-2x fa-twitter"
     weight = 3
     url = "https://twitter.com/micheldebree/"
 [[params.social]]
     name = "RSS"
-    icon = "fa fa-rss"
+    icon = "fa fa-2x fa-rss"
     weight = 3
     url = "https://www.micheldebree.nl/index.xml"
 
