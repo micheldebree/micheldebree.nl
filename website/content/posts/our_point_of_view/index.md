@@ -16,23 +16,27 @@ picture, and how to play a soundmonitor tune.
 ![Our point of view, first picture](opov1a.webp)
 ![Our point of view, second picture](opov1b.webp)
 
-[Available on CSDB](https://csdb.dk/release/?id=223777)
+[Run it in an online emulator](https://lvllvl.com/c64/?gid=4412eef36e137ae8df0b7456f36a21d9)
+or
+[Download it from CSDB](https://csdb.dk/release/?id=223777)
 
 ## Our point of view 2
 
 ![Our point of view 2, first picture](opov2a.webp)
 ![Our point of view 2, second picture](opov2b.webp)
 
-[Availale on CSDB](https://csdb.dk/release/?id=223780)
+[Run it in an online emulator](https://lvllvl.com/c64/?gid=b00c94d252e22be92a78bf6a97cff6d1)
+or
+[Download it from CSDB](https://csdb.dk/release/?id=223780)
 
 ## The making of
 
 ### Our fascination with the demoscene
 
-Both Hires and me had a Commodore 64 and were fascinated with demo's; programs
-that showed off coding, drawing and music skills and were pushing the limits of
-what the Commodore 64 could do. They originated from the intro's that software
-crackers put in front of the pirated games that we were playing.
+Both Hires and me were fascinated with demo's; programs that showed off coding,
+drawing and music skills and were pushing the limits of what the Commodore 64
+could do. They originated from the intro's that software crackers put in front
+of the pirated games that we were playing.
 
 Because of this background, the makers of these demo's hid behind handles (much
 like in the graffiti scene), adding a certain mystique to the demoscene. They
@@ -41,8 +45,8 @@ groups that acknowledged and greeted each other in scrolling text messages, or
 were dissing each other because they thought others were 'lamers'.
 
 We got all this information from the demo's on the floppy disks that were
-swapped by snailmail with people from all over Europe; there was no internet and
-we didn't have a clue who these people were or what they looked like. All we
+swapped by snail mail with people from all over Europe; there was no internet
+and we didn't have a clue who these people were or what they looked like. All we
 knew is that they were about our age, cool, talented, and that we wanted to be
 like them.
 
@@ -76,7 +80,7 @@ could:
 - Freeze a running demo
 - See the machine code, displayed as more readable mnemonics like `LDA`, `STA`,
   `INX` etc.
-- See data bytes like scroll texts displayed as readble characters
+- See data bytes like scroll texts displayed as readable characters
 - Change machine code and data
 - Continue running the demo and see your changes
 - Save it to disk
@@ -89,10 +93,17 @@ could:
 In the image above, you see the memory location on the left (there are `$ffff`
 of them, so about 64k). Next to that you see the bytes that the CPU understands
 as instructions. Each instruction is one byte, optionally followed by one or two
-bytes as an argument to the instructions. The third column shows the instruction
+bytes as an argument to the instruction. The third column shows the instruction
 as mnemonics (also called assembler code), making it a bit more readable.
 
-So, after studying existing demo's, changing their appearance and scrolltexts to
-claim that we made them (ahem...), we started making demo's ourselves, using the
-monitor tool of the power cartridge. And one of the first things we did is the
-humble picture collection "Our Point of View".
+So, after studying existing demo's, changing their appearance and scroll texts
+to claim that we made them (ahem...), we started making demo's ourselves, using
+the monitor tool of the power cartridge. And one of the first things we did is
+the humble picture collection "Our Point of View".
+
+The background tunes,  made by [Jőrg
+Rosenstiel](https://deepsid.chordian.net/?file=/MUSICIANS/R/Rosenstiel_Joerg/Its_a_Sin_remix_2.sid)
+and [Chris
+Hűlsbeck](https://deepsid.chordian.net/?file=/MUSICIANS/H/Huelsbeck_Chris/Ski_Dance.sid),
+were taken from other demo's. It was common practise to steal resources like
+character sets and music, and was considered OK long as the author was credited.
