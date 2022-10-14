@@ -6,7 +6,7 @@ tags: ["music", "tracker"]
 
 Late 1996, we got it into our minds to go visit a demoscene party in Denmark,
 [The Party 6](https://demozoo.org/parties/95/). Although we had left our
-Commodore 64 days behind at that tine, we were still sort of forming a group
+Commodore 64 days behind at that time, we were still sort of forming a group
 called "Heatwave", making music on Amiga and PC.
 
 We thought it would be cool to go to a big, popular party where demosceners of
@@ -41,13 +41,13 @@ homepage](https://demozoo.org/parties/95/results_file/174/).
 
 ## Photos
 
-![Youth/Heatwave and Mitch/Crest/Mitch&Dane](mitch.webp)
+![{Photo of Youth/Heatwave and Mitch/Crest/Mitch&Dane](mitch.webp)
 
 > Me with Mitch of the duo Mitch & Dane, who won the number one prize in the
 > Commodore 64 music competition with [Gloria](https://demozoo.org/music/18704/)
 
-![](hires_yavin.webp)
-![](hires-sleep.webp)
+![Photo of Hires and Yavin behind their computers](hires_yavin.webp)
+![Photo of Hires sleeping under a table](hires-sleep.webp)
 
 > Yavin and Hires eating and sleeping on the job. Sleeping on the premises was
 > forbidden because of safety reasons, so we had to hide under the tables to get
