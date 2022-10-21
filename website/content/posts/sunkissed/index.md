@@ -2,7 +2,7 @@
 draft: false
 date: 2022-04-17T00:00:00+02:00
 title: "Sunkissed, from the Vandalism #72 soundtrack"
-tags: ["music", "sid", c64"]
+tags: ["music", "sid", "c64"]
 ---
 
 We made an exclusive background tune for the 72nd issue of the Commodore 64 disk
