@@ -80,9 +80,15 @@ pygmentscodefencesguesssyntax = true
     weight = 3
     url = "https://twitter.com/micheldebree/"
 [[params.social]]
+    name = "Mastodon"
+    icon = "fa fa-2x fa-mastodon"
+    weight = 4
+    url = "https://mastodon.social/@micheldebree"
+    rel = "me"
+[[params.social]]
     name = "RSS"
     icon = "fa fa-2x fa-rss"
-    weight = 3
+    weight = 5
     url = "https://www.micheldebree.nl/index.xml"
 
 [languages]
