@@ -91,6 +91,9 @@ pygmentscodefencesguesssyntax = true
     weight = 5
     url = "https://www.micheldebree.nl/index.xml"
 
+[params.googleTagManager]
+id = "G-GRF7VLVEGM"
+
 [languages]
     [languages.en]
         languagename = "English"
