@@ -5,19 +5,23 @@ draft: false
 tags: ["coding"]
 ---
 
-_TL;DR_: For coding I use [Jetbrains Mono](https://www.jetbrains.com/lp/mono/),
-and [Iosevka](https://typeof.net/Iosevka/) in the terminal.
+As a coder (both professionally and for fun), I spend a lot of time looking at
+monospaced text on a computer screen. Using a good font is important to me
+because it helps in concentration and reduces fatigue. I tried different fonts,
+and settled on [Jetbrains Mono](https://www.jetbrains.com/lp/mono/) for my IDE
+and text editor, and [Iosevka](https://typeof.net/Iosevka/) for the terminal.
 
 ## What make a good font?
 
 ### A unique character
 
-A good font should also have clear distinctions between characters, for example
-it should be clear that a `0` is not an `O`, and which is the zero and which the
-capital O. Another example is `1` and `l`. This is important because in code, it
-is not always clear from the context if something is a number or a letter, and
-computers are very picky. If you ever typed in a long wifi password a couple of
-times before realizing that zero was actually a capital O, you know what I mean.
+A good font for coding should have clear distinctions between characters, for
+example it should be clear that a `0` is not an `O`, and which is the zero and
+which the capital O. Another example is `1` and `l`. This is important because
+in code, it is not always clear from the context if something is a number or a
+letter, and computers are very picky. If you ever typed in a long wifi password
+a couple of times before realizing that zero was actually a capital O, you know
+what I mean.
 
 ### All widths are equal
 
@@ -28,9 +32,7 @@ legible.
 
 ### The power of invisibility
 
-As a coder (both professionally and for fun), I spend a lot of time looking at
-monospaced text on a computer screen. Using a good font is important to me
-because it helps in concentration and reduces fatigue. When coding I need focus
+When coding I need focus
 and concentration. If a font has even a few quirks in legibility or feels
 unbalanced, it distracts me from what I am doing.
 

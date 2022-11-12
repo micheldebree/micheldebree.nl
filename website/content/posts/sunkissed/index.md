@@ -15,23 +15,6 @@ The other tunes in the jukebox are by
 [Laxity](https://deepsid.chordian.net/?file=/MUSICIANS/L/Laxity), [Shogoon](https://deepsid.chordian.net/?file=/MUSICIANS/S/Shogoon/), [Mutetus](https://deepsid.chordian.net/?file=/MUSICIANS/M/Mutetus), [Stinsen](https://deepsid.chordian.net/?file=/MUSICIANS/S/Stinsen),
 [Magnar](https://deepsid.chordian.net/?file=/MUSICIANS/M/Magnar), [Fegolhuzz](https://deepsid.chordian.net/?file=/MUSICIANS/F/Fegolhuzz) and [Qdor](https://deepsid.chordian.net/?file=/MUSICIANS/Q/Qdor), which is an impressive line-up to be part of!
 
-Some cherry-picked comments:
-
-> What a lovely tune!
-
-> One .sid in particular really grabbed me, and that was:
-> Sunkissed (8580) Youth & Yavin / Heatwave
-
-> Yeah, Sunkissed on a loop for an hour here, perfect loop material confirmed.
-> <3 Soon time to start reading some articles. :D>
-
-> Great release! Last Stop and Sunkissed are best tunes! Liked Sonic article
-> most! Gfx are gorgeous!
-
-> Wow.. monster read, and some really cool music and graphics. Especially like
-> the tracks by Youth and Yavin and if it were any surprise.. Shogoon. You
-> always hit the mark, buddy.
-
 Check out the amazing opening screen aswell, by
 [Mirage](https://csdb.dk/scener/?id=739):
 
