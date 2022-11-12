@@ -11,7 +11,7 @@ because it helps in concentration and reduces fatigue. I tried different fonts,
 and settled on [Jetbrains Mono](https://www.jetbrains.com/lp/mono/) for my IDE
 and text editor, and [Iosevka](https://typeof.net/Iosevka/) for the terminal.
 
-## What make a good font?
+## What makes a good font?
 
 ### A unique character
 
@@ -19,7 +19,7 @@ A good font for coding should have clear distinctions between characters, for
 example it should be clear that a `0` is not an `O`, and which is the zero and
 which the capital O. Another example is `1` and `l`. This is important because
 in code, it is not always clear from the context if something is a number or a
-letter, and computers are very picky. If you ever typed in a long wifi password
+letter, and computers are very picky. If you ever typed in a long WiFi password
 a couple of times before realizing that zero was actually a capital O, you know
 what I mean.
 
