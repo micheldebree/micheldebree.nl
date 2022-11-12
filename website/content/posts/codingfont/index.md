@@ -84,13 +84,6 @@ Jetbrains released this font, I was using [Source Code
 Pro](https://adobe-fonts.github.io/source-code-pro) by Adobe, which is also
 fine.
 
-If you are using [Homebrew](https://brew.sh/) on macOS, like I am, you can
-install them with
-
-```sh
-brew install font-jetbrains-mono font-iosevka
-```
-
 ![Jetbrains mono example](jetbrains-mono.webp)
 
 > Jetbrains mono
@@ -103,3 +96,10 @@ font.
 ![Iosevka example](iosevka.webp)
 
 > Iosevka
+
+If you are using [Homebrew](https://brew.sh/) on macOS, like I am, you can
+install both these fonts with:
+
+```sh
+brew install font-jetbrains-mono font-iosevka
+```
