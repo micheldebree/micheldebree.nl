@@ -2,7 +2,7 @@
 title: "Fontastic (commodore 64 utility)"
 date: 1990-09-28T00:00:00+02:00
 draft: false
-tags: ["c64", "coding"]
+tags: ["c64", "sid", "coding"]
 ---
 
 After the thrill of making money from coding with [Solitair](/posts/solitair),

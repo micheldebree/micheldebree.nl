@@ -2,7 +2,7 @@
 title: "Eddies Adventure (commodore 64 demo)"
 date: 1991-07-28T00:00:00+02:00
 draft: false
-tags: ["c64", "coding", "music"]
+tags: ["c64", "sid", "coding", "music"]
 ---
 
 1991 marked the end of the Commodore 64 era of out little democoding group

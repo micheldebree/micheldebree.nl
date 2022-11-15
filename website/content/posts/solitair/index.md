@@ -2,7 +2,7 @@
 title: "Solitair (commodore 64 game)"
 date: 1990-05-30T00:00:00+02:00
 draft: false
-tags: ["c64", "coding"]
+tags: ["c64", "sid", "coding"]
 ---
 
 The first time I was ever payed for practising one of my biggest hobbies was in

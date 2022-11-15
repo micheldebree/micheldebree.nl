@@ -1,7 +1,7 @@
 ---
 title: "Broware, from the Vandalism #73 soundtrack"
 date: 2022-11-12T00:00:00+02:00
-tags: ["music", "c64"]
+tags: ["music", "sid", "c64"]
 ---
 
 After having made a tune for Vandalism News #72 ([Sunkissed](/posts/sunkissed)),
