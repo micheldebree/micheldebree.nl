@@ -106,4 +106,4 @@ Rosenstiel](https://deepsid.chordian.net/?file=/MUSICIANS/R/Rosenstiel_Joerg/Its
 and [Chris
 Hűlsbeck](https://deepsid.chordian.net/?file=/MUSICIANS/H/Huelsbeck_Chris/Ski_Dance.sid),
 were taken from other demo's. It was common practise to steal resources like
-character sets and music, and was considered OK long as the author was credited.
+character sets and music, and was considered OK as long as the author was credited.
