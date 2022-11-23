@@ -1,9 +1,9 @@
+LAST_COMMIT_MSG=$(shell git log -1 --pretty=%B)
+
+.PHONY: start
 start:
 	open http://localhost:1313
 	hugo -D server --disableFastRender
-
-test:
-	hugo server --disableFastRender
 
 build: \
 	icons \
@@ -13,10 +13,12 @@ build: \
 	static/resume/Michel_de_Bree-Resume.EN.pdf 
 	hugo --minify
 
-# Build and copy /public folder to the repo that the website is hosted from
+# The website is hosted from another repo.
+# Commit and push the build artifacts to that repo. Use the latest commit message from this one.
+.PHONY: publish
 publish: build
 	cp -a ./public/. ../micheldebree.github.io/
-	cd ../micheldebree.github.io && git add . && git commit -m "Minor update" && git push 
+	cd ../micheldebree.github.io && git add . && git commit -m "$(LAST_COMMIT_MSG)" && git push 
 
 icons: static/images/favicon-16x16.png \
 	static/images/favicon-32x32.png \
