@@ -83,7 +83,7 @@ pygmentscodefencesguesssyntax = true
     name = "Mastodon"
     icon = "fa fa-2x fa-mastodon"
     weight = 4
-    url = "https://mastodon.social/@micheldebree"
+    url = "https://mastodon.nl/@micheldebree"
     rel = "me"
 [[params.social]]
     name = "RSS"
