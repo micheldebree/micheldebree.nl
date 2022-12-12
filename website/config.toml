@@ -20,7 +20,7 @@ pygmentscodefencesguesssyntax = true
     description = "Michel de Bree, Freelance Full Stack Java Developer"
     keywords = "developer,freelance,java,javascript,react,spring boot,hibernate,git,linux,docker,kubernetes"
     info = "Freelance Full Stack Java Developer"
-    avatarurl = "images/logo-min.svg"
+    avatarurl = "images/logo.svg"
     footercontent = " "
 
     dateformat = "January 2, 2006"
