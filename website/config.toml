@@ -2,6 +2,7 @@ baseurl = "https://www.micheldebree.nl"
 title = "Michel de Bree"
 
 theme = "hugo-coder"
+enableEmoji = true
 
 languagecode = "en"
 defaultcontentlanguage = "en"

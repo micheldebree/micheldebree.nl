@@ -5,10 +5,10 @@ tags: ["music", "sid", "c64"]
 ---
 
 After having made a tune for Vandalism News #72 ([Sunkissed](/posts/sunkissed)),
-this time I cooperated on a tune with Thomas Egeskov Petersen
-([Laxity](https://csdb.dk/scener/?id=677)) and Sanke Michael Choe
-([SMC](https://csdb.dk/scener/?id=1283)) for [Vandalism News
-#73](https://csdb.dk/release/?id=225729).
+this time I (in The Netherlands) cooperated on a tune with Thomas Egeskov
+Petersen a.k.a.  [Laxity](https://csdb.dk/scener/?id=677) (in Denmark) and Sanke
+Michael Choe a.k.a.  [SMC](https://csdb.dk/scener/?id=1283) (in Sweden) for
+[Vandalism News #73](https://csdb.dk/release/?id=225729).
 
 {{<audio src="/posts/broware/broware.mp3" caption="Broware, by Laxity, Youth and SMC" >}}
 
