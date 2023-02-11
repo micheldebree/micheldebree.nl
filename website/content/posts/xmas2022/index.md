@@ -18,10 +18,15 @@ christmas. I wanted to try and make a spinning christmas tree using a trick I
 used a long time ago on [Eddies Adventure](/posts/eddies_adventure/) to stretch
 the logo in the intro:
 
-![](/posts/eddies_adventure/ea-intro.webp)
+![Animated screenshot from Eddies Adventure](/posts/eddies_adventure/ea-intro.webp)
 
 Although the effect looks different, it uses the same trick, called Flexible
 Pixel Position (FPP). Like so many visual tricks in Commodore 64 demos, it
 depends on carefully timed manipulation of the video chip in the C-64. I plan to
 extend this post some day to explain the trick in more detail...
+
+The tune is a cover of the end tune of 'GGBond':
+
+{{< youtube id="xxsVZDAWusU?t=180" autoplay="false" >}}
+
 

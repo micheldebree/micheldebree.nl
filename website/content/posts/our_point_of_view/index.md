@@ -101,7 +101,7 @@ to claim that we made them (ahem...), we started making demo's ourselves, using
 the monitor tool of the power cartridge. And one of the first things we did is
 the humble picture collection "Our Point of View".
 
-The background tunes,  made by [Jőrg
+The background tunes, made by [Jőrg
 Rosenstiel](https://deepsid.chordian.net/?file=/MUSICIANS/R/Rosenstiel_Joerg/Its_a_Sin_remix_2.sid)
 and [Chris
 Hűlsbeck](https://deepsid.chordian.net/?file=/MUSICIANS/H/Huelsbeck_Chris/Ski_Dance.sid),
