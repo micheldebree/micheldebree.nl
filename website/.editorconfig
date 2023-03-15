@@ -1,9 +1,0 @@
-root=true
-
-[*.md]
-indent_style = space
-indent_size = 2
-max_line_length = 132
-
-[Makefile]
-indent_style = tab
