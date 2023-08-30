@@ -2,7 +2,7 @@
 
 ## Freelance Full Stack Java Developer
 
-With over 17 years of experience in complex and dynamic IT landscapes, I am
+With over 18 years of experience in complex and dynamic IT landscapes, I am
 equipped to help you build and run your software in an agile and
 sustainable way, by taking ownership of every aspect that keeps the software
 doing what you expect it to do, out there in the real world.
@@ -51,6 +51,7 @@ Currently working with the following techniques:
 ## Personal Information
 
 ![Photo](Photo.jpg)
+![Contact information](Contact.png)
 
 - Year of birth: [1972](https://www.onthisday.com/events/date/1972)
 - Residence: [The Hague](https://denhaag.com/en) / The Netherlands
