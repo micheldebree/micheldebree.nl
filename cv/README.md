@@ -51,7 +51,7 @@ Currently working with the following techniques:
 ## Personal Information
 
 ![Photo](Photo.jpg)
-![Contact information](Contact.png)
+![Contact information](QR.png)
 
 - Year of birth: [1972](https://www.onthisday.com/events/date/1972)
 - Residence: [The Hague](https://denhaag.com/en) / The Netherlands

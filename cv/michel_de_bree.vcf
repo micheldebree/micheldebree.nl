@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:de Bree;Michel;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:michel@micheldebree.nl
+TITLE:Freelance Senior Java Developer
+TEL;TYPE=CELL:+31 681 473 884
+URL;TYPE=work:https://www.micheldebree.nl
+URL;TYPE=work:https://nl.linkedin.com/in/micheldebree
+END:VCARD
