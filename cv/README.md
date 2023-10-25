@@ -36,7 +36,6 @@ Currently working with the following techniques:
   [Mockito](https://site.mockito.org) /
   [Jest](https://jestjs.io) /
   [Chai](https://www.chaijs.com) /
-  [Enzyme](https://airbnb.io/enzyme) /
   [Wiremock](http://wiremock.org) /
   [Cucumber](https://cucumber.io) /
   [Selenium](https://www.selenium.dev) /
@@ -51,7 +50,6 @@ Currently working with the following techniques:
 ## Personal Information
 
 ![Photo](Photo.jpg)
-![Contact information](QR.png)
 
 - Year of birth: [1972](https://www.onthisday.com/events/date/1972)
 - Residence: [The Hague](https://denhaag.com/en) / The Netherlands
@@ -59,6 +57,10 @@ Currently working with the following techniques:
 - E-mail: [michel@micheldebree.nl](mailto:michel@micheldebree.nl)
 - Website: [micheldebree.nl](https://www.micheldebree.nl)
 - LinkedIn: [nl.linkedin.com/in/micheldebree](https://nl.linkedin.com/in/micheldebree)
+
+![Contact information](QR.png)
+
+[Add to contacts](https://www.micheldebree.nl/resume/michel_de_bree.vcf)
 
 ## Experience
 

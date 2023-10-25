@@ -13,11 +13,12 @@ $(FILENAME_BASE).EN.docx: $(SRC)
 $(FILENAME_BASE).EN.pdf: $(SRC)
 	pandoc --pdf-engine=wkhtmltopdf --metadata title="Resumé" -o $@ $<
 
-QR.png: michel_de_bree.vcf
-	qrencode -l L -r $< -s 2 -o $@
+QR.png:
+	qrencode -l L -s 3 -o $@ https://www.micheldebree.nl/resume/michel_de_bree.vcf
 	optipng $@
 
 .PHONY: clean
 clean:
 	rm -f *.docx
 	rm -f *.pdf
+	rm QR.png
