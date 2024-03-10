@@ -11,7 +11,7 @@ Currently working with the following techniques:
 
 - [Scrum](https://www.scrum.org) /
   [Agile SAFe](https://www.scaledagileframework.com)
-- [Java 11](https://go.java) /
+- [Java 21](https://go.java) /
   [Spring Boot](https://spring.io/projects/spring-boot) /
   [Hibernate](https://hibernate.org) /
   [PostgreSQL](https://www.postgresql.org/) /
