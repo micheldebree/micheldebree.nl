@@ -48,6 +48,10 @@ upgrade-theme:
 	git fetch hugo-coder main
 	git subtree pull --prefix themes/hugo-coder hugo-coder main --squash
 
+.PHONY: deps
+deps:
+	brew bundle
+
 .PHONY: clean
 clean:
 	rm -rf docs

@@ -18,9 +18,9 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Michel de Bree"
-    description = "Michel de Bree, Freelance Full Stack Java Developer"
+    description = "Michel de Bree, Experienced Java developer"
     keywords = "developer,freelance,java,javascript,react,spring boot,hibernate,git,linux,docker,kubernetes"
-    info = "Freelance Full Stack Java Developer"
+    info = "Experienced Java developer"
     avatarurl = "images/logo.svg"
     footercontent = " "
 
