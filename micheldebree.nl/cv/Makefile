@@ -6,9 +6,7 @@ IN=cv.typ
 OUT=cv-michel_de_bree.pdf
 
 $(OUT): $(IN) michel_de_bree.toml version.toml
-	typst compile $< $@
-	pdfcpu optimize $@
-	# pdfcpu validate -m strict -l $@
+	typst compile --pdf-standard ua-1 $< $@
 
 .PHONY: version.toml
 version.toml:

@@ -41,7 +41,7 @@
 
 // #import meta.import.path: cv
 #import "@preview/grotesk-cv:1.0.4": cv
-#let photo = image("./img/" + meta.personal.profile_image)
+#let photo = image("./img/" + meta.personal.profile_image, alt: "Foto van Michel de Bree")
 
 #let import-sections(
   sections,
@@ -74,4 +74,3 @@
   right-pane: import-sections(right-pane),
   left-pane-proportion: eval(meta.layout.left_pane_width),
 )
-

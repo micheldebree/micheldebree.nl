@@ -37,7 +37,7 @@
 
 #for skills in data.Skills [
 
-  === #emph(skills.Category)
+== #emph(skills.Category)
 
   #skill-entry(
     fill-color,
@@ -49,4 +49,3 @@
       .map(k => (k.Name + renderStars(k.Score))),
   )
 ]
-
