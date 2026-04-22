@@ -10,9 +10,11 @@ Languages = ["Nederlands (moedertaal)", "Engels (fluent)"]
 Tagline.nl = "Ervaren Java ontwikkelaar"
 Introduction = """
 Mijn grootste uitdaging als software ontwikkelaar is het beheersbaar houden van \
-complexiteit. Met meer dan 20 jaar ervaring is het schrijven van inzichtelijke, \
+complexiteit, om software te kunnen opleveren die kan meebewegen met \
+verandering. Met meer dan 20 jaar ervaring is het schrijven van inzichtelijke, \
 robuuste code inmiddels een basis hygiëne voor me. Ruim 15 jaar ervaring met \
-Java, met minstens 10 jaar in complexe, missie-kritische systemen. Naast \
+Java, met minstens 10 jaar in complexe, missie-kritische systemen. In \
+teamverband software bouwen is nog steeds mijn grootste passie. Naast \
 coderen werk ik daarom ook nauw samen met eindgebruikers, architecten, platform \
 experts en leveranciers om een doeltreffende, betrouwbare en efficiënte \
 oplossing boven tafel te krijgen. Ik heb hiervoor een scherpe, kritische blik \
@@ -20,10 +22,14 @@ ontwikkeld, die ik goed kan balanceren met een pragmatische houding. Hierdoor \
 kan ik risico's vroegtijdig identificeren en de impact van veranderingen op de \
 langere termijn inschatten.
 
+Mijn belangrijkste focus ligt bij Java backend services, maar ik ben ook prima
+inzetbaar als full-stack ontwikkelaar.
+
 Naast mijn werk breng ik tijd door met mijn vrouw en tienerzoon, vind ik het \
-leuk om buiten te zijn, te koken en cultuur te snuiven in het buitenland. Ook \
+leuk om buiten te zijn met onze hond, te koken en cultuur te \
+snuiven in het buitenland. Ook \
 houd ik me af en toe bezig met meer creatieve toepassingen van computers in de \
-zogenaamde Demoscene.
+zogenaamde Demoscene, en knutsel ik wat aan eenvoudige toepassingen van AI agents.
 """
 
 [[Links]]
