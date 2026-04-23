@@ -22,7 +22,7 @@ ontwikkeld, die ik goed kan balanceren met een pragmatische houding. Hierdoor \
 kan ik risico's vroegtijdig identificeren en de impact van veranderingen op de \
 langere termijn inschatten.
 
-Mijn belangrijkste focus ligt bij Java backend services, maar ik ben ook prima
+Mijn belangrijkste focus ligt bij Java backend services, maar ik ben ook prima \
 inzetbaar als full-stack ontwikkelaar.
 
 Naast mijn werk breng ik tijd door met mijn vrouw en tienerzoon, vind ik het \
@@ -260,7 +260,6 @@ Keywords = [
   "JUnit",
   "JMeter",
   "Jenkins",
-  "Python",
   "Ruby",
   "PostgreSQL",
   "MySQL",
@@ -468,7 +467,7 @@ Institution.nl = "Het Vlietland College Leiden"
 
 [[Skills]]
 Category = "Programmeertalen"
-Keywords = ["Java21", "Javascript", "Typescript", "Bash", "Python", "Golang"]
+Keywords = ["Java21", "Javascript", "Typescript", "Bash" ]
 
 [[Skills]]
 Category = "Tools & Frameworks"
@@ -530,14 +529,6 @@ Score = 7
 [Keywords.Java21]
 Name = "Java 21"
 Score = 9
-
-[Keywords.Python]
-Name = "Python"
-Score = 6
-
-[Keywords.Golang]
-Name = "Go"
-Score = 6
 
 [Keywords.Maven]
 Name = "Maven"
