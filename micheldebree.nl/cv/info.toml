@@ -21,16 +21,17 @@ label = "linkedin.com/in/micheldebree"
 link = "https://www.micheldebree.nl"
 label = "www.micheldebree.nl"
 
+# misuse github entry for birth year
 [personal.info.github]
-link = "https://github.com/micheldebree"
-label = "github.com/micheldebree"
+link = "https://en.wikipedia.org/wiki/1972"
+label = "1972"
 
 [personal.icon]
 address = "house"
 telephone = "phone"
 email = "envelope"
 linkedin = "linkedin"
-github = "github"
+github = "baby"
 homepage = "globe"
 website = "globe"
 
