@@ -1,0 +1,12 @@
+[build]
+  command = "hugo --baseURL $DEPLOY_URL --minify"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.145.0"
+
+[[redirects]]
+  from = "https://www.micheldebree.nl/*"
+  to = "https://micheldebree.nl/:splat"
+  status = 301
+  force = false
