@@ -1,0 +1,126 @@
+2026-04-22 10:26:30.560 [main] INFO  n.m.s.SecretAgentAssistantApplication - Starting SecretAgentAssistantApplication v0.1.0-SNAPSHOT using Java 21.0.10 with PID 24872 (/Users/michel/dev/micheldebree/secretagent/assistant/target/assistant-0.1.0-SNAPSHOT.jar started by michel in /Users/michel/dev/micheldebree/micheldebree.github.io/micheldebree.nl/cv)
+2026-04-22 10:26:30.562 [main] DEBUG n.m.s.SecretAgentAssistantApplication - Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-04-22 10:26:30.563 [main] INFO  n.m.s.SecretAgentAssistantApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-22 10:26:31.020 [main] INFO  n.m.s.assistant.ModelConfiguration -       url http://localhost:11434
+      model gpt-oss
+      temperature 0.7
+      topK 40
+      topP 0.9
+      minP 0.0
+      numCtx 2048
+      seed 0
+      repeatLastN 64
+      repeatPenalty 1.1
+      thinking false
+      timeoutSeconds 60
+
+2026-04-22 10:26:31.030 [main] DEBUG n.m.s.t.mcp.McpToolsProviderConfig - Registered 0 mcp clients
+2026-04-22 10:26:31.174 [main] WARN  n.m.s.a.SystemPromptConfiguration - No source files for base system prompt
+2026-04-22 10:26:31.175 [main] DEBUG n.m.s.a.SystemPromptConfiguration - Base system prompt: 
+2026-04-22 10:26:31.177 [main] INFO  n.m.secretagent.skills.SkillService - Skills directory 'skills' does not exist, skipping scan
+2026-04-22 10:26:31.251 [main] INFO  n.m.s.SecretAgentAssistantApplication - Started SecretAgentAssistantApplication in 0.869 seconds (process running for 1.424)
+2026-04-22 10:26:31.395 [main] DEBUG n.m.s.assistant.OllamaAssistant - RAG disabled
+2026-04-22 10:29:43.282 [main] INFO  n.m.s.SecretAgentAssistantApplication - Starting SecretAgentAssistantApplication v0.1.0-SNAPSHOT using Java 21.0.10 with PID 38288 (/Users/michel/dev/micheldebree/secretagent/assistant/target/assistant-0.1.0-SNAPSHOT.jar started by michel in /Users/michel/dev/micheldebree/micheldebree.github.io/micheldebree.nl/cv)
+2026-04-22 10:29:43.283 [main] DEBUG n.m.s.SecretAgentAssistantApplication - Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-04-22 10:29:43.283 [main] INFO  n.m.s.SecretAgentAssistantApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-22 10:29:43.641 [main] INFO  n.m.s.assistant.ModelConfiguration -       url http://localhost:11434
+      model qwen3.5
+      temperature 0.55
+      topK 20
+      topP 0.95
+      minP 0.0
+      numCtx 32768
+      seed 0
+      repeatLastN 64
+      repeatPenalty 1.1
+      thinking false
+      timeoutSeconds 120
+
+2026-04-22 10:29:43.650 [main] DEBUG n.m.s.t.mcp.McpToolsProviderConfig - Registered 0 mcp clients
+2026-04-22 10:29:43.773 [main] DEBUG n.m.s.a.SystemPromptConfiguration - Base system prompt: You maintain the user's CV. Make sure it is consise, clear and is optimized for selection by an AI agent.
+
+2026-04-22 10:29:43.775 [main] INFO  n.m.secretagent.skills.SkillService - Skills directory './skills' does not exist, skipping scan
+2026-04-22 10:29:43.835 [main] INFO  n.m.s.SecretAgentAssistantApplication - Started SecretAgentAssistantApplication in 0.736 seconds (process running for 1.108)
+2026-04-22 10:29:43.960 [main] DEBUG n.m.s.assistant.OllamaAssistant - RAG disabled
+2026-04-22 10:30:31.099 [main] DEBUG nl.micheldebree.secretagent.cli.Cli - Sending input UserInput[type=TEXT, content=Make ./michel_de_bree.toml a bit more concise; shorten the paragraphs of prose without leaving out information. Optimize for both human readers and LLMs]
+2026-04-22 12:07:34.551 [main] INFO  n.m.s.SecretAgentAssistantApplication - Starting SecretAgentAssistantApplication v0.1.0-SNAPSHOT using Java 21.0.10 with PID 62339 (/Users/michel/dev/micheldebree/secretagent/assistant/target/assistant-0.1.0-SNAPSHOT.jar started by michel in /Users/michel/dev/micheldebree/micheldebree.github.io/micheldebree.nl/cv)
+2026-04-22 12:07:34.552 [main] DEBUG n.m.s.SecretAgentAssistantApplication - Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-04-22 12:07:34.553 [main] INFO  n.m.s.SecretAgentAssistantApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-22 12:07:35.014 [main] INFO  n.m.s.assistant.ModelConfiguration -       url http://localhost:11434
+      model qwen3.5
+      temperature 0.55
+      topK 20
+      topP 0.95
+      minP 0.0
+      numCtx 32768
+      seed 0
+      repeatLastN 64
+      repeatPenalty 1.1
+      thinking false
+      timeoutSeconds 120
+
+2026-04-22 12:07:35.024 [main] DEBUG n.m.s.t.mcp.McpToolsProviderConfig - Registered 0 mcp clients
+2026-04-22 12:07:35.168 [main] DEBUG n.m.s.a.SystemPromptConfiguration - Base system prompt: You maintain the user's CV. Make sure it is consise, clear and is optimized for selection by an AI agent.
+You use the typst markup language
+
+## Build
+
+Build using `make` with no arguments
+
+2026-04-22 12:07:35.171 [main] INFO  n.m.secretagent.skills.SkillService - Skills directory './skills' does not exist, skipping scan
+2026-04-22 12:07:35.254 [main] INFO  n.m.s.SecretAgentAssistantApplication - Started SecretAgentAssistantApplication in 0.899 seconds (process running for 1.49)
+2026-04-22 12:07:35.394 [main] DEBUG n.m.s.assistant.OllamaAssistant - RAG disabled
+2026-04-22 12:07:38.277 [main] DEBUG nl.micheldebree.secretagent.cli.Cli - Sending input UserInput[type=TEXT, content=Fix the build]
+2026-04-22 12:08:08.586 [ForkJoinPool.commonPool-worker-1] DEBUG n.m.secretagent.common.CliApp - bash -c make
+2026-04-22 12:08:09.559 [ForkJoinPool.commonPool-worker-1] ERROR n.m.secretagent.common.CliApp - 'bash -c make' failed with exit code 2}
+2026-04-22 12:08:09.559 [ForkJoinPool.commonPool-worker-1] DEBUG n.m.secretagent.common.CliApp - Output: error: PDF/UA-1 error: skipped from heading level 1 to 3
+   ┌─ content/skills.typ:40:2
+   │
+40 │   === #emph(skills.Category)
+   │   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+   │
+   = hint: heading levels must be consecutive
+
+make: *** [cv-michel_de_bree.pdf] Error 1
+2026-04-22 12:08:09.559 [ForkJoinPool.commonPool-worker-1] WARN  org.jline - error: PDF/UA-1 error: skipped from heading level 1 to 3
+   ┌─ content/skills.typ:40:2
+   │
+40 │   === #emph(skills.Category)
+   │   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+   │
+   = hint: heading levels must be consecutive
+
+make: *** [cv-michel_de_bree.pdf] Error 1
+2026-04-22 12:08:53.058 [ForkJoinPool.commonPool-worker-1] DEBUG n.m.secretagent.common.CliApp - bash -c find . -name "*.typ" -o -name "*.toml" | head -20
+2026-04-22 12:09:11.353 [ForkJoinPool.commonPool-worker-1] DEBUG n.m.secretagent.common.CliApp - bash -c grep -n "^#=" ./content/*.typ
+2026-04-22 12:09:11.382 [ForkJoinPool.commonPool-worker-1] ERROR n.m.secretagent.common.CliApp - 'bash -c grep -n "^#=" ./content/*.typ' failed with exit code 1}
+2026-04-22 12:09:11.382 [ForkJoinPool.commonPool-worker-1] DEBUG n.m.secretagent.common.CliApp - Output: 
+2026-04-22 12:09:11.382 [ForkJoinPool.commonPool-worker-1] WARN  org.jline - 
+2026-04-22 12:09:23.083 [ForkJoinPool.commonPool-worker-1] DEBUG n.m.secretagent.common.CliApp - bash -c grep -n "^#" ./content/profile.typ | head -20
+2026-04-22 12:09:35.905 [ForkJoinPool.commonPool-worker-1] DEBUG n.m.secretagent.common.CliApp - bash -c grep -n "^#" ./content/experience.typ | head -20
+2026-04-22 12:09:49.898 [ForkJoinPool.commonPool-worker-1] DEBUG n.m.secretagent.common.CliApp - bash -c grep -n "^#" ./content/education.typ | head -20
+2026-04-22 12:10:06.729 [ForkJoinPool.commonPool-worker-1] DEBUG n.m.secretagent.common.CliApp - bash -c grep -n "^#" ./content/skills.typ
+2026-04-22 12:10:30.058 [ForkJoinPool.commonPool-worker-1] DEBUG n.m.secretagent.common.CliApp - bash -c grep -n "^#" ./content/languages.typ
+2026-04-22 12:11:06.077 [ForkJoinPool.commonPool-worker-1] DEBUG n.m.secretagent.common.CliApp - bash -c make
+2026-04-22 12:11:06.822 [ForkJoinPool.commonPool-worker-1] ERROR n.m.secretagent.common.CliApp - 'bash -c make' failed with exit code 2}
+2026-04-22 12:11:06.822 [ForkJoinPool.commonPool-worker-1] DEBUG n.m.secretagent.common.CliApp - Output: error: PDF/UA-1 error: missing alt text
+   ┌─ cv.typ:44:13
+   │
+44 │ #let photo = image("./img/" + meta.personal.profile_image)
+   │              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   │
+   = hint: make sure your images and equations have alt text
+
+make: *** [cv-michel_de_bree.pdf] Error 1
+2026-04-22 12:11:06.822 [ForkJoinPool.commonPool-worker-1] WARN  org.jline - error: PDF/UA-1 error: missing alt text
+   ┌─ cv.typ:44:13
+   │
+44 │ #let photo = image("./img/" + meta.personal.profile_image)
+   │              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   │
+   = hint: make sure your images and equations have alt text
+
+make: *** [cv-michel_de_bree.pdf] Error 1
+2026-04-22 12:11:51.311 [ForkJoinPool.commonPool-worker-1] DEBUG n.m.secretagent.common.CliApp - bash -c make
+2026-04-22 12:12:07.452 [ForkJoinPool.commonPool-worker-1] DEBUG n.m.secretagent.common.CliApp - bash -c ls -la cv-michel_de_bree.pdf
+2026-04-22 12:12:31.806 [main] DEBUG nl.micheldebree.secretagent.cli.Cli - Response finished.

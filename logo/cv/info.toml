@@ -1,0 +1,79 @@
+[personal]
+first_name = "Michel"
+last_name = "de Bree"
+profile_image = "logo-mono.svg"
+language = "nl"
+include_icons = true
+
+[personal.info]
+address = "Nootdorp, NL"
+telephone = "+31 681 473 884"
+
+[personal.info.email]
+link = "mailto:michel@micheldebree.nl"
+label = "michel@micheldebree.nl"
+
+[personal.info.linkedin]
+link = "https://linkedin.com/in/micheldebree"
+label = "linkedin.com/in/micheldebree"
+
+[personal.info.website]
+link = "https://www.micheldebree.nl"
+label = "www.micheldebree.nl"
+
+# misuse github entry for birth year
+[personal.info.github]
+link = "https://en.wikipedia.org/wiki/1972"
+label = "1972"
+
+[personal.icon]
+address = "house"
+telephone = "phone"
+email = "envelope"
+linkedin = "linkedin"
+github = "baby"
+homepage = "globe"
+website = "globe"
+
+[section.icon]
+education = "graduation-cap"
+experience = "briefcase"
+languages = "language"
+other_experience = "wrench"
+personal = "brain"
+profile = "id-card"
+references = "users"
+skills = "cogs"
+
+# To change fill_color to white, replace value with "#ffffff"
+[layout]
+# fill_color = "#ffffff"
+fill_color = "#f4f1eb"
+paper_size = "a4"
+accent_color = "#d4d2cc"
+# default value is 71%
+left_pane_width = "71%"
+
+[layout.text]
+font = "Inter"
+# font_monospace = "Jetbrains Mono"
+font_monospace = "Iosevka Term"
+# font = "Jost"
+# font = "Urbanist"
+# font = "Space Grotesk"
+size = "10pt"
+cover_letter_size = "11pt"
+
+[layout.text.color]
+light = "#ededef"
+medium = "#78787e"
+dark = "#3c3c42"
+
+[language.nl]
+subtitle = "Ervaren Java ontwikkelaar"
+
+[language.en]
+subtitle = "Ingeniero de software con un talento para soluciones de IA amigables para humanos"
+
+[import]
+fontawesome = "@preview/fontawesome:0.5.0"

@@ -1,0 +1,3 @@
+[tools]
+pandoc = "3"
+typst = "0.14"

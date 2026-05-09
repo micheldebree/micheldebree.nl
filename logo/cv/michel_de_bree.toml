@@ -1,0 +1,795 @@
+[Personal]
+Name.First = "Michel"
+Name.Last = "de Bree"
+Title = "Java Developer"
+YearOfBirth = 1972
+Residence = "Nootdorp"
+Languages = ["Nederlands (moedertaal)", "Engels (fluent)"]
+
+[Summary]
+Tagline.nl = "Ervaren Java ontwikkelaar"
+Introduction = """
+Mijn grootste uitdaging als software ontwikkelaar is het beheersbaar houden van \
+complexiteit, om software te kunnen opleveren die kan meebewegen met \
+verandering. Met meer dan 20 jaar ervaring is het schrijven van inzichtelijke, \
+robuuste code inmiddels een basis hygiëne voor me. Ruim 15 jaar ervaring met \
+Java, met minstens 10 jaar in complexe, missie-kritische systemen. In \
+teamverband software bouwen is nog steeds mijn grootste passie. Naast \
+coderen werk ik daarom ook nauw samen met eindgebruikers, architecten, platform \
+experts en leveranciers om een doeltreffende, betrouwbare en efficiënte \
+oplossing boven tafel te krijgen. Ik heb hiervoor een scherpe, kritische blik \
+ontwikkeld, die ik goed kan balanceren met een pragmatische houding. Hierdoor \
+kan ik risico's vroegtijdig identificeren en de impact van veranderingen op de \
+langere termijn inschatten.
+
+Mijn belangrijkste focus ligt bij Java backend services, maar ik ben ook prima \
+inzetbaar als full-stack ontwikkelaar.
+
+Naast mijn werk breng ik tijd door met mijn vrouw en tienerzoon, vind ik het \
+leuk om buiten te zijn met onze hond, te koken en cultuur te \
+snuiven in het buitenland. Ook \
+houd ik me af en toe bezig met meer creatieve toepassingen van computers in de \
+zogenaamde Demoscene, en knutsel ik wat aan eenvoudige toepassingen van AI agents.
+"""
+
+[[Links]]
+Name = "Email"
+Url = "michel@micheldebree.nl"
+
+[[Links]]
+Name = "Website"
+Url = "https://www.micheldebree.nl"
+
+[[Links]]
+Name = "LinkedIn"
+Url = "https://nl.linkedin.com/in/micheldebree"
+
+# === Toepasbare Regels ===
+
+[[Experience]]
+Title.nl = "Regelsysteem en services voor regelgeving m.b.t. de Omgevingswet"
+Company = "Digitaal Stelsel Omgevingswet (Rijkswaterstaat)"
+Location = "Rotterdam"
+Start = "2018"
+End = "heden"
+
+Situation.nl = """
+Eén van de centrale onderdelen van het Digitaal Stelsel Omgevingswet, is de \
+Toepasbare Regels component. Deze applicatie ontvangt regelgeving afkomstig van \
+gemeentes, provinciën, waterschappen en het rijk, in een open standaard \
+formaat. Met deze regels worden automatisch dynamische vragenlijsten opgesteld \
+voor de eindgebruikers. De ingevulde vragen worden realtime doorgerekend door \
+een rule-engine, en leiden tot een advies of vergunningaanvraag. Deze \
+functionaliteit wordt aangeboden op het landelijke Omgevingswet loket, maar is \
+ook d.m.v. open REST API's te gebruiken door iedereen die hier functionaliteit \
+op wil bouwen.
+Vanwege het publieke karakter en de grote gebruikersgroep worden er hoge eisen  \
+gesteld aan betrouwbaarheid, beschikbaarheid, veiligheid en schaalbaarheid. \
+"""
+
+Keywords = [
+  "Java",
+  "Maven",
+  "SpringBoot",
+  "Hibernate",
+  "PostgreSQL",
+  "Liquibase",
+  "React",
+  "Elasticsearch",
+  "REST",
+  "HALJSON",
+  "OpenAPI",
+  "SOAP",
+  "OAuth",
+  "JWT",
+  "Docker",
+  "Kubernetes",
+  "Helm",
+  "OpenShift",
+  "NGINX",
+  "Drools",
+  "DMN",
+  "Scrum",
+  "JIRA",
+  "Confluence",
+  "JUnit",
+  "Mockito",
+  "Cucumber",
+  "Wiremock",
+  "JMeter",
+  "SonarQube",
+  "Jest",
+  "ReactTestingLibrary",
+]
+
+[[Experience.Task.nl]]
+Task = "Nieuwbouw van kern functionaliteit."
+Action = """
+Voorbeeld: \
+Het ontwerp en de bouw van het synchronisatie mechanisme dat stamgegevens \
+up-to-date houdt met de externe bron.\
+"""
+Result = """
+De ontwerp keuzes die ik hierbij gemaakt heb, hebben gezorgd dat dit mechanisme \
+sinds inwerkingtreding betrouwbaar en zonder noemenswaardige problemen werkt. \
+Ook heeft de eenvoudige maar robuuste opzet in de praktijk al meerdere malen \
+eenvoudig data herstel en migratie mogelijk gemaakt. \
+"""
+
+[[Experience.Task.nl]]
+Task = """
+Ontwerpen, afstemmen en bouwen van REST (HAL+JSON) API's met gebruikers en \
+architecten, d.m.v. OpenAPI (Swagger) specificaties \
+"""
+Action = """
+Voorbeeld: \
+Het herontwerp van een bestaande API om met behulp van HAL+JSON gegevens fijnmaziger en \
+gepagineerd op te leveren. \
+"""
+Result = """
+API calls en database acties zijn daardoor kortlopend en schaalbaar, waardoor \
+het systeem minder belast wordt, en de throttling die we hadden ingesteld kon \
+worden opgeheven. \
+"""
+
+[[Experience.Task.nl]]
+Task = """
+Ontwerpen en afstemmen met gebruikers, business analisten en architecten van \
+nieuwe functionaliteiten. \
+"""
+Action = """
+Voorbeeld: Bij een migratie traject van de integratie van onze applicatie in het \
+overkoepelende portaal, ben ik op eigen initiatief met gebruikers gaan praten \
+over de impact. Na doorvragen bleek dat de geïntegreerde versie nagenoeg niet \
+werd gebruikt, en heb ik met de architect overlegd over de noodzaak van deze \
+integratie. \
+"""
+Result = """
+Uitkomst was dat wij het wekenlange traject voor onze applicatie niet zijn \
+ingegaan, en de ongebruikte integratie logica hebben verwijderd. \
+"""
+
+[[Experience.Task.nl]]
+Task = """
+DevOps m.b.t. ontwikkelstraat en productie. \
+"""
+
+Action = """Ontwikkeling en configuratie van Gitlab CI pipelines, Helm charts, \
+Docker images, SonarQube, reporting, performance testen en tuning. Analyse en mitigatie \
+van incidenten. Overleg met externe onderhoudbaarheid en veiligheid auditors.
+"""
+
+# === Knooppunt 
+
+[[Experience]]
+Title.nl = "Knooppunt voor API toegang en autorisatie"
+Company = "Digitaal Stelsel Omgevingswet (Rijkswaterstaat)"
+Location = "Den Haag, Rotterdam"
+Start = "2016"
+End = "2018"
+
+Situation.nl = """
+Binnen het Digitaal Stelsel Omgevingswet worden alle API's aangeboden via het \
+Knooppunt. Ook biedt het Knooppunt authenticatie m.b.v. DigID, eHerkenning, \
+OAuth, API keys en PKIO certificaten. Communicatie tussen componenten binnen en \
+buiten het stelsel loopt via het Knooppunt, waardoor zaken als routering, \
+logging, foutafhandeling, throttling en beveiliging centraal geregeld zijn. \
+Ook biedt het Knooppunt een open stelsel voor derden waar API's afgenomen \
+worden door iedereen.
+Omdat het DSO destijds min of meer "launching customer" was van het Standaard \
+Platform, ben ik in een overgangsperiode geleidelijk overgegaan van mijn rol \
+bij het Standaard Platform naar volledig aan de slag bij het DSO \
+"""
+
+Keywords = ["Java", "Spring", "WSO2", "Docker", "Ansible", "OAuth"]
+
+[[Experience.Task.nl]]
+Task = "Lead development"
+Action = """Bij de start van het project ben ik begonnen als één van de drie \
+ontwikkelaars. In de loop van de tijd is mijn rol op een organische manier \
+uitgegroeid tot lead developer in een team van wisselende samenstelling.
+"""
+
+[[Experience.Task.nl]]
+Task = "Integratie development"
+Action = """
+Het ontwikkelen van nieuwe componenten en uitbreidingen op het standaard open \
+source product WSO2, in Java en Spring Boot. Voorbeeld: een adapter om API keys \
+te kunnen gebruiken voor afnemers in het open stelsel. De adapter gebruikt \
+achter de schermen OAuth2 authenticatie om aan te kunnen sluiten op WSO2. \
+"""
+
+[[Experience.Task.nl]]
+Task = "Interim Scrum Master"
+Action = """
+Bij de start van het project werd ik gevraagd ook de rol van Scrum Master op me \
+te nemen. Naast het organiseren vertegenwoordigde ik ons team in de afstemming \
+met andere teams in Scrum-of-scrums. \
+"""
+Result = """
+De rol van vertegenwoordiger en aanspreekpunt heeft veel overlap met die van \
+lead developer. Ik heb wel gemerkt dat ik de tijd en energie die gaat zitten in \
+het coachen van een Scrum team, liever in andere zaken steek. Bij het groeien \
+van het team kon ik de rol daarom met plezier overdragen. \
+"""
+
+[[Experience.Task.nl]]
+Task = "CI/CD, DevOps development"
+Action = """
+Het ontwikkelen van scripting voor het uitrollen van de applicatie. Tijdens het \
+project maakte het Standaard Platform ook grote ontwikkelingen door, via een \
+Docker Swarm oplossing naar uiteindelijk Kubernetes en Openshift. Hierdoor was \
+het uitrollen van applicaties ook een belangrijk en dynamisch onderdeel van de \
+ontwikkeling van applicaties binnen het DSO.
+"""
+
+# === Standaard Platform ===
+
+[[Experience]]
+Title.nl = "Standaard Platform voor overheid applicaties"
+Company = "Ministerie van Infrastructuur en Waterstaat"
+Location = "Den Haag"
+Start = "2015"
+End = "2017"
+
+Situation.nl = """
+Het Standaard Platform is op dit moment een standaard, schaalbaar \
+container platform voor overheid applicaties. In mijn huidige project is dit het \
+onderliggende platform waar de Omgevingswet applicaties op draaien. Toen ik \
+begon was het Standaard Platform een complete standaard enterprise architectuur \
+die volledige automatisch uitgerold kon worden, met daarin ook zelfbouw \
+componenten en CI/CD functionaliteit. Maar zonder containerization. Tijdens mijn \
+werk bij, en met het Standaard Platform heeft het een ontwikkeling doorgemaakt \
+tot het op Kubernetes gebaseerde platform dat het nu is.
+"""
+
+Keywords = [
+  "Java",
+  "Hibernate",
+  "Maven",
+  "Nexus",
+  "JBoss",
+  "WSO2",
+  "SOAP",
+  "REST",
+  "Angular",
+  "JSF",
+  "SAML2",
+  "OpenLDAP",
+  "Selenium",
+  "JUnit",
+  "JMeter",
+  "Jenkins",
+  "Ruby",
+  "PostgreSQL",
+  "MySQL",
+  "Elasticsearch",
+  "MongoDB",
+  "Graylog",
+  "HAProxy",
+  "Squid",
+  "Apache",
+  "Linux",
+  "Vagrant",
+  "OpenStack",
+]
+
+[[Experience.Task.nl]]
+Task = "Ontwikkeling van custom componenten en uitbreidingen."
+Action = """
+Bouw, in team verband, van generieke platform componenten voor uitrol, \
+authenticatie en integratie. \
+"""
+
+[[Experience.Task.nl]]
+Task = "Ontwikkeling van automatische uitrol en provisioning scripting."
+Result = """
+Met de oplossing kon in minder dan een uur tijd een compleet applicatie platform \
+worden uitgerold op Amazon EC2 dat klaar was voor het hosten en de lifecycle \
+management van een complete enterprise applicatie. \
+"""
+
+# === ING ===
+
+[[Experience]]
+Title.nl = "Online authenticatie"
+Company = "ING"
+Location = "Amsterdam"
+Start = "2014"
+End = "2015"
+
+Situation.nl = """
+In mijn eerste opdracht als freelancer was ik onderdeel van een Scrum/DevOps \
+team. Eén van de functionaliteiten die we in dit team naar productie gebracht \
+hebben, is de "gebruikersnaam vergeten" functionaliteit voor online bankieren. \
+"""
+
+Keywords = [
+  "Java",
+  "Spring",
+  "Angular",
+  "Oracle",
+  "Websphere",
+  "Tomcat",
+  "Maven",
+  "Nexus",
+  "Jenkins",
+  "SonarQube",
+  "JIRA",
+  "Confluence",
+  "Mockito",
+  "Selenium",
+]
+
+[[Experience.Task.nl]]
+Task = "Backend-  en integratie ontwikkeling"
+
+[[Experience.Task.nl]]
+Task = "Frontend ontwikkeling"
+
+[[Experience.Task.nl]]
+Task = "DevOps"
+
+# === micheldebree.nl ===
+
+[[Experience]]
+Title.nl = "Begonnen als ZZP-er"
+Company = "micheldebree.nl"
+Location = "Den Haag"
+Start = "2014"
+
+Situation.nl = """
+In 2014 ben ik begonnen als ZZP-er om meer vrijheid en focus in mijn werk aan \
+te brengen. Vanaf 2014 voer ik mijn opdrachten uit als ZZP-er. \
+"""
+
+# === E-ID ===
+
+[[Experience]]
+Title.nl = "Senior Software Engineer"
+Company = "E-ID"
+Location = "Vianen"
+Start = "2005"
+End = "2014"
+
+Situation.nl = """
+Verschillende in-house en on-site projecten in Java en .NET. Mijn eerst klus \
+was het onderhouden en uitbreiden van software bij Aegon Bank in een team. Op \
+mijn laatste project heb ik het meest mijn stempel gedrukt. Dit was de \
+nieuwbouw van het publieke portaal van het Landelijk Elektronisch \
+Patiëntendossier. Doordat deze wet het niet gehaald heeft, is de software in \
+sterk afgeslankte vorm in productie genomen.
+Verder projecten uitgevoerd voor DELA, KPN, DPD, Saltro, Leaseloket, Ziggo, TNT \
+en Infinitas.
+"""
+
+Keywords = [
+  "Java",
+  "dotNET",
+  "REST",
+  "Angular",
+  "Javascript",
+  "DigiD",
+  "SAML2",
+  "SQLServer",
+  "SOAP",
+  "NHibernate",
+  "HL7",
+]
+
+# === PaC ===
+
+[[Experience]]
+Title.nl = "Software Engineer"
+Company = "PaC/Imtech ICT"
+Location = "Den Haag"
+Start = "2001"
+End = "2005"
+
+Situation.nl = """
+Begonnen met een Visual Basic project, daarna verschillende in-house Java \
+projecten. \
+"""
+
+Keywords = ["Java", "VisualBasic"]
+
+# === LUMC ===
+
+[[Experience]]
+Title.nl = "Ontwikkelaar"
+Company = "Leids Universitair Medisch Centrum"
+Location = "Leiden"
+Start = "1994"
+End = "2001"
+
+Situation.nl = """
+Tijdens mijn studie informatica in Delft werkte ik parttime voor het LUMC.
+"""
+
+[[Experience.Task.nl]]
+Task = "Ontwikkeling van een systeem voor multimedia examens"
+Action = """
+Samen met een andere student en een chirurg met ontwikkelaars aspiraties deed \
+ik het ontwikkelwerk van een nieuw systeem om examens te kunnen samenstellen, \
+en af te nemen bij studenten van het LUMC. \
+"""
+Result = """
+Het systeem ondersteunt foto's, filmpjes en geluidsopnamen als onderdeel van de \
+vraag.
+"""
+
+[[Experience.Task.nl]]
+Task = "Onderhoud van wetenschappelijke software"
+Action = """
+De software ondersteunde het onderzoek naar de biologische klok onder leiding \
+van een hoogleraar. Enerzijds werden kunstmatige dag/nacht cycli gegenereerd \
+door lampen aan te sturen vanuit een custom applicatie. Anderzijds werden \
+bewegingen van kevers geregistreerd met sensors. De resultaten moesten \
+periodiek in een speciale grafische representatie worden uitgeprint uit de \
+software.
+"""
+
+# === Hobby ===
+#
+# [[Experience]]
+# Title.nl = "Hobby ontwikkelaar"
+# Company = "Thuis"
+# Location = "Leiden, Delft, Den Haag, Nootdorp"
+# Start = "1988"
+# End = "heden"
+#
+# Situation.nl = """
+# Mijn eerste programmeerervaring heb ik opgedaan op de \
+# rekenmachine van mijn vader. Daarna ben ik verder gegaan op een Commodore 64, \
+# en ben nooit opgehouden om voor mijn plezier te programmeren. Op 17 jarige \
+# leeftijd verkocht ik mijn eerste software aan een duits disk magazine. \
+# Na de aanschaf van een PC heb ik af en toe mijn vader geholpen bij het maken \
+# van bouwkundige software voor zijn werk. Tegenwoordig vind ik het ook leuk \
+# om creatief bezig te zijn binnen de beperkingen van mijn eerste liefde, de \
+# Commodore 64, voornamelijk door het maken van muziek.
+# """
+
+# === Education
+
+[[Education]]
+Start = "1991"
+End = "1998"
+Title.nl = "Technische Informatica"
+Institution.nl = "Technische Universiteit Delft"
+
+[[Education]]
+Start = "1984"
+End = "1991"
+Title.nl = "VWO beta"
+Institution.nl = "Het Vlietland College Leiden"
+
+# Skills are scored 1-10
+
+[[Skills]]
+Category = "Programmeertalen"
+Keywords = ["Java21", "Javascript", "Typescript", "Bash" ]
+
+[[Skills]]
+Category = "Tools & Frameworks"
+Keywords = [
+  "SpringBoot",
+  "Hibernate",
+  "PostgreSQL",
+  "React",
+  "Git",
+  "Maven",
+  "Elasticsearch",
+  "Liquibase",
+]
+
+[[Skills]]
+Category = "Integratie"
+Keywords = ["REST", "HALJSON", "OpenAPI", "OAuth", "JWT", "SOAP"]
+
+[[Skills]]
+Category = "DevOps"
+Keywords = [
+  "Kubernetes",
+  "OpenShift",
+  "Helm",
+  "Docker",
+  "GitlabCI",
+  "Linux",
+  "Kibana",
+  "Scrum",
+]
+
+[[Skills]]
+Category = "Testen"
+Keywords = [
+  "JUnit",
+  "Mockito",
+  "Cucumber",
+  "Wiremock",
+  "JMeter",
+  "Jest",
+  "ReactTestingLibrary",
+]
+
+# Keywords are normalized and referenced in skills, and can be referenced in
+# experiences
+
+[Keywords.Java]
+Name = "Java"
+Score = 9
+
+[Keywords.Javascript]
+Name = "Javascript"
+Score = 8
+
+[Keywords.Typescript]
+Name = "Typescript"
+Score = 7
+
+[Keywords.Java21]
+Name = "Java 21"
+Score = 9
+
+[Keywords.Maven]
+Name = "Maven"
+Score = 8
+
+[Keywords.Git]
+Name = "Git"
+Score = 9
+
+[Keywords.Bash]
+Name = "Bash"
+Score = 7
+
+[Keywords.SpringBoot]
+Name = "Spring Boot"
+Score = 9
+
+[Keywords.Spring]
+Name = "Spring"
+Score = 8
+
+[Keywords.Websphere]
+Name = "Websphere"
+Score = 6
+
+[Keywords.Tomcat]
+Name = "Tomcat"
+Score = 6
+
+[Keywords.Nexus]
+Name = "Nexus"
+Score = 6
+
+[Keywords.Jenkins]
+Name = "Jenkins"
+Score = 6
+
+[Keywords.SonarQube]
+Name = "SonarQube"
+Score = 6
+
+[Keywords.Hibernate]
+Name = "Hibernate"
+Score = 9
+
+[Keywords.NHibernate]
+Name = "NHibernate"
+Score = 4
+
+[Keywords.PostgreSQL]
+Name = "PostgreSQL"
+Score = 8
+
+[Keywords.SQLServer]
+Name = "SQLServer"
+Score = 5
+
+[Keywords.Oracle]
+Name = "Oracle"
+Score = 6
+
+[Keywords.Elasticsearch]
+Name = "Elasticsearch"
+Score = 7
+
+[Keywords.Liquibase]
+Name = "Liquibase"
+Score = 8
+
+[Keywords.React]
+Name = "React"
+Score = 7
+
+[Keywords.Angular]
+Name = "Angular"
+Score = 5
+
+[Keywords.REST]
+Name = "REST"
+Score = 9
+
+[Keywords.HALJSON]
+Name = "HAL+JSON"
+Score = 8
+
+[Keywords.OpenAPI]
+Name = "OpenAPI (Swagger)"
+Score = 8
+
+[Keywords.JWT]
+Name = "JWT"
+Score = 7
+
+[Keywords.OAuth]
+Name = "OAuth"
+Score = 8
+
+[Keywords.DigiD]
+Name = "DigiD"
+Score = 0
+
+[Keywords.SAML2]
+Name = "SAML2"
+Score = 4
+
+[Keywords.SOAP]
+Name = "SOAP"
+Score = 7
+
+[Keywords.Kubernetes]
+Name = "Kubernetes"
+Score = 8
+
+[Keywords.OpenShift]
+Name = "OpenShift"
+Score = 6
+
+[Keywords.Docker]
+Name = "Docker"
+Score = 8
+
+[Keywords.Helm]
+Name = "Helm"
+Score = 8
+
+[Keywords.Linux]
+Name = "Linux"
+Score = 8
+
+[Keywords.GitlabCI]
+Name = "Gitlab CI"
+Score = 7
+
+[Keywords.Kibana]
+Name = "Kibana"
+Score = 6
+
+[Keywords.Scrum]
+Name = "Scrum"
+Score = 9
+
+[Keywords.AgileSAFe]
+Name = "AgileSAFe"
+Score = 5
+
+[Keywords.JUnit]
+Name = "JUnit"
+Score = 9
+
+[Keywords.Mockito]
+Name = "Mockito"
+Score = 9
+
+[Keywords.Cucumber]
+Name = "Cucumber"
+Score = 8
+
+[Keywords.Selenium]
+Name = "Selenium"
+Score = 8
+
+[Keywords.Wiremock]
+Name = "Wiremock"
+Score = 8
+
+[Keywords.JMeter]
+Name = "JMeter"
+Score = 6
+
+[Keywords.Jest]
+Name = "Jest"
+Score = 7
+
+[Keywords.ReactTestingLibrary]
+Name = "React Testing Library"
+Score = 7
+
+[Keywords.dotNET]
+Name = ".NET"
+Score = 0
+
+[Keywords.HL7]
+Name = "HL7"
+Score = 4
+
+[Keywords.DMN]
+Name = "DMN"
+Score = 4
+
+[Keywords.Drools]
+Name = "Drools"
+Score = 6
+
+[Keywords.JIRA]
+Name = "JIRA"
+Score = 8
+
+[Keywords.Confluence]
+Name = "Confluence"
+Score = 6
+
+[Keywords.VisualBasic]
+Name = "Visual Basic"
+Score = 0
+
+[Keywords.WSO2]
+Name = "WSO2"
+Score = 0
+
+[Keywords.Ansible]
+Name = "Ansible"
+Score = 5
+
+[Keywords.JBoss]
+Name = "JBoss"
+Score = 5
+
+[Keywords.JSF]
+Name = "JSF"
+Score = 4
+
+[Keywords.OpenLDAP]
+Name = "OpenLDAP"
+Score = 5
+
+[Keywords.Ruby]
+Name = "Ruby"
+Score = 6
+
+[Keywords.MySQL]
+Name = "MySQL"
+Score = 6
+
+[Keywords.MongoDB]
+Name = "MongoDB"
+Score = 4
+
+[Keywords.Graylog]
+Name = "Graylog"
+Score = 4
+
+[Keywords.HAProxy]
+Name = "HAProxy"
+Score = 5
+
+[Keywords.Squid]
+Name = "Squid"
+Score = 5
+
+[Keywords.Apache]
+Name = "Apache"
+Score = 5
+
+[Keywords.NGINX]
+Name = "NGINX"
+Score = 6
+
+[Keywords.Vagrant]
+Name = "Vagrant"
+Score = 6
+
+[Keywords.OpenStack]
+Name = "OpenStack"
+Score = 4
