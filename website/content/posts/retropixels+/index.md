@@ -5,7 +5,8 @@ draft: false
 tags: ["c64", "coding"]
 ---
 
-What a nice surprise, someone took off with my [Retropixels](https://github.com/micheldebree/retropixels) code and made a better
+What a nice surprise, [Jaime Idolpx](https://github.com/idolpx) took off with my
+[Retropixels](https://github.com/micheldebree/retropixels) code and made a better
 version!
 
 [Retropixels+](https://meatloaf.cc/tools/retropixels+/) looks better and has more functionality than my own [Web
