@@ -90,6 +90,7 @@ Keywords = [
   "Drools",
   "DMN",
   "Scrum",
+  "SAFeAgile",
   "JIRA",
   "Confluence",
   "JUnit",
@@ -100,6 +101,8 @@ Keywords = [
   "SonarQube",
   "Jest",
   "ReactTestingLibrary",
+  "Kibana",
+  "Grafana",
 ]
 
 [[Experience.Task.nl]]
@@ -497,7 +500,8 @@ Keywords = [
   "GitlabCI",
   "Linux",
   "Kibana",
-  "Scrum",
+  "Grafana",
+  "SAFeAgile",
 ]
 
 [[Skills]]
@@ -667,13 +671,17 @@ Score = 7
 Name = "Kibana"
 Score = 6
 
+[Keywords.Grafana]
+Name = "Grafana"
+Score = 2
+
 [Keywords.Scrum]
 Name = "Scrum"
 Score = 9
 
-[Keywords.AgileSAFe]
-Name = "AgileSAFe"
-Score = 5
+[Keywords.SAFeAgile]
+Name = "SAFe-Agile"
+Score = 4
 
 [Keywords.JUnit]
 Name = "JUnit"
