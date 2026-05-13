@@ -29,7 +29,7 @@ Naast mijn werk breng ik tijd door met mijn vrouw en tienerzoon, vind ik het \
 leuk om buiten te zijn met onze hond, te koken en cultuur te \
 snuiven in het buitenland. Ook \
 houd ik me af en toe bezig met meer creatieve toepassingen van computers in de \
-zogenaamde Demoscene, en knutsel ik wat aan eenvoudige toepassingen van AI agents.
+zogenaamde Demoscene, en knutsel ik aan toepassingen van AI agents.
 """
 
 [[Links]]
@@ -480,6 +480,7 @@ Keywords = [
   "Maven",
   "Elasticsearch",
   "Liquibase",
+  "LangChain4j",
 ]
 
 [[Skills]]
@@ -705,6 +706,10 @@ Score = 7
 [Keywords.ReactTestingLibrary]
 Name = "React Testing Library"
 Score = 7
+
+[Keywords.LangChain4j]
+Name = "LangChain4j"
+Score = 5
 
 [Keywords.dotNET]
 Name = ".NET"

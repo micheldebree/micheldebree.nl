@@ -109,7 +109,7 @@ editor. This way I can touch up the animations before converting them to the
 final binary format.
 
 I put the conversion tool on Github as
-[img2petscii](https://github.com/micheldebree/c64-tools/tree/main/img2petscii)
+[img2petscii](https://github.com/micheldebree/img2petscii)
 
 The Petmate files are then the source files for the animations, generating code
 from them at build time. This allowed me to edit the Petmate files to clean them
