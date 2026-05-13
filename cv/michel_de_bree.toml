@@ -69,12 +69,14 @@ gesteld aan betrouwbaarheid, beschikbaarheid, veiligheid en schaalbaarheid. \
 
 Keywords = [
   "Java",
+  "Java21",
   "Maven",
   "SpringBoot",
   "Hibernate",
   "PostgreSQL",
   "Liquibase",
   "React",
+  "Typescript",
   "Elasticsearch",
   "REST",
   "HALJSON",
@@ -103,6 +105,10 @@ Keywords = [
   "ReactTestingLibrary",
   "Kibana",
   "Grafana",
+  "Git",
+  "Bash",
+  "GitlabCI",
+  "LangChain4j",
 ]
 
 [[Experience.Task.nl]]
