@@ -68,7 +68,6 @@ gesteld aan betrouwbaarheid, beschikbaarheid, veiligheid en schaalbaarheid. \
 """
 
 Keywords = [
-  "Java",
   "Java21",
   "Maven",
   "SpringBoot",
@@ -92,6 +91,7 @@ Keywords = [
   "Drools",
   "DMN",
   "Scrum",
+  "GitlabCI",
   "SAFeAgile",
   "JIRA",
   "Confluence",
@@ -107,8 +107,6 @@ Keywords = [
   "Grafana",
   "Git",
   "Bash",
-  "GitlabCI",
-  "LangChain4j",
 ]
 
 [[Experience.Task.nl]]
@@ -476,7 +474,7 @@ Institution.nl = "Het Vlietland College Leiden"
 
 [[Skills]]
 Category = "Programmeertalen"
-Keywords = ["Java21", "Javascript", "Typescript", "Bash" ]
+Keywords = ["Java21", "Javascript", "Typescript", "Bash"]
 
 [[Skills]]
 Category = "Tools & Frameworks"
