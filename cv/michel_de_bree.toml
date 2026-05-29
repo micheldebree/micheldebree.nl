@@ -57,7 +57,11 @@ functionaliteit wordt aangeboden op het landelijke Omgevingswet loket, maar is \
 ook d.m.v. open REST API's te gebruiken door iedereen die hier functionaliteit \
 op wil bouwen.
 Vanwege het publieke karakter en de grote gebruikersgroep worden er hoge eisen  \
-gesteld aan betrouwbaarheid, beschikbaarheid, veiligheid en schaalbaarheid. \
+gesteld aan betrouwbaarheid, beschikbaarheid, veiligheid en schaalbaarheid. 
+In de loop der tijd heb ik me ontwikkeld tot de meest ervaren ontwikkelaar op \
+dit project. D.m.v. kennisoverdracht, code reviews en coaching heb ik \
+nieuwe ontwikkelaars snel wegwijs kunnen maken in de materie, en heb ik dit \
+project in goede handen kunnen achterlaten.
 """
 
 Keywords = [
@@ -240,7 +244,7 @@ container platform voor overheid applicaties. In mijn huidige project is dit het
 onderliggende platform waar de Omgevingswet applicaties op draaien. Toen ik \
 begon was het Standaard Platform een complete standaard enterprise architectuur \
 die volledige automatisch uitgerold kon worden, met daarin ook zelfbouw \
-componenten en CI/CD functionaliteit. Maar zonder containerization. Tijdens mijn \
+componenten en CI/CD functionaliteit. Tijdens mijn \
 werk bij, en met het Standaard Platform heeft het een ontwikkeling doorgemaakt \
 tot het op Kubernetes gebaseerde platform dat het nu is.
 """
@@ -359,8 +363,10 @@ Verschillende in-house en on-site projecten in Java en .NET. Mijn eerst klus \
 was het onderhouden en uitbreiden van software bij Aegon Bank in een team. Op \
 mijn laatste project heb ik het meest mijn stempel gedrukt. Dit was de \
 nieuwbouw van het publieke portaal van het Landelijk Elektronisch \
-Patiëntendossier. Doordat deze wet het niet gehaald heeft, is de software in \
-sterk afgeslankte vorm in productie genomen.
+Patiëntendossier. Het prototype is gebouwd in Java, waarna - vanwege \
+organisatorische veranderingen - de bouw is gedaan in C#. \
+Doordat deze wet het niet gehaald heeft, is de software in \
+afgeslankte vorm in productie genomen.
 Verder projecten uitgevoerd voor DELA, KPN, DPD, Saltro, Leaseloket, Ziggo, TNT \
 en Infinitas.
 """
@@ -368,6 +374,7 @@ en Infinitas.
 Keywords = [
   "Java",
   "dotNET",
+  "CSharp",
   "REST",
   "Angular",
   "Javascript",
@@ -424,32 +431,8 @@ vraag.
 Task = "Onderhoud van wetenschappelijke software"
 Action = """
 De software ondersteunde het onderzoek naar de biologische klok onder leiding \
-van een hoogleraar. Enerzijds werden kunstmatige dag/nacht cycli gegenereerd \
-door lampen aan te sturen vanuit een custom applicatie. Anderzijds werden \
-bewegingen van kevers geregistreerd met sensors. De resultaten moesten \
-periodiek in een speciale grafische representatie worden uitgeprint uit de \
-software.
+van een hoogleraar. 
 """
-
-# === Hobby ===
-#
-# [[Experience]]
-# Title.nl = "Hobby ontwikkelaar"
-# Company = "Thuis"
-# Location = "Leiden, Delft, Den Haag, Nootdorp"
-# Start = "1988"
-# End = "heden"
-#
-# Situation.nl = """
-# Mijn eerste programmeerervaring heb ik opgedaan op de \
-# rekenmachine van mijn vader. Daarna ben ik verder gegaan op een Commodore 64, \
-# en ben nooit opgehouden om voor mijn plezier te programmeren. Op 17 jarige \
-# leeftijd verkocht ik mijn eerste software aan een duits disk magazine. \
-# Na de aanschaf van een PC heb ik af en toe mijn vader geholpen bij het maken \
-# van bouwkundige software voor zijn werk. Tegenwoordig vind ik het ook leuk \
-# om creatief bezig te zijn binnen de beperkingen van mijn eerste liefde, de \
-# Commodore 64, voornamelijk door het maken van muziek.
-# """
 
 # === Education
 
@@ -723,6 +706,10 @@ Score = 7
 
 [Keywords.dotNET]
 Name = ".NET"
+Score = 0
+
+[Keywords.CSharp]
+Name = "C#"
 Score = 0
 
 [Keywords.HL7]
