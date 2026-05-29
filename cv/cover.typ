@@ -10,12 +10,6 @@
 #set text(size: text-size)
 
 
-#recipient-entry(
-  name: [Jane Doe],
-  title: [Hiring Manager],
-  company: [Cyberdyne Systems],
-  address: [123 Skynet Lane, Los Angeles, CA 90001, USA],
-)
 
 #v(20pt)
 

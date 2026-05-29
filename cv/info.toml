@@ -70,10 +70,10 @@ medium = "#78787e"
 dark = "#3c3c42"
 
 [language.nl]
-subtitle = "Ervaren Java ontwikkelaar"
+subtitle = "Senior full stack Java ontwikkelaar"
 
 [language.en]
-subtitle = "Ingeniero de software con un talento para soluciones de IA amigables para humanos"
+subtitle = "Senior Java Backend Developer"
 
 [import]
 fontawesome = "@preview/fontawesome:0.5.0"

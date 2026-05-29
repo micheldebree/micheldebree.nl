@@ -46,6 +46,6 @@
     skills: skills
       .Keywords
       .map(k => data.Keywords.at(k))
-      .map(k => (k.Name + renderStars(k.Score))),
+      .map(k => (k.Name + renderStars(k.Score) + " (" + str(k.Score) + "/10)")),
   )
 ]

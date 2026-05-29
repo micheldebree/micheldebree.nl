@@ -7,29 +7,22 @@ Residence = "Nootdorp"
 Languages = ["Nederlands (moedertaal)", "Engels (fluent)"]
 
 [Summary]
-Tagline.nl = "Ervaren Java ontwikkelaar"
+Tagline.nl = "Senior full stack Java ontwikkelaar"
 Introduction = """
 Mijn grootste uitdaging als software ontwikkelaar is het beheersbaar houden van \
 complexiteit, om software te kunnen opleveren die kan meebewegen met \
 verandering. Met meer dan 20 jaar ervaring is het schrijven van inzichtelijke, \
-robuuste code inmiddels een basis hygiëne voor me. Ruim 15 jaar ervaring met \
-Java, met minstens 10 jaar in complexe, missie-kritische systemen. In \
-teamverband software bouwen is nog steeds mijn grootste passie. Naast \
-coderen werk ik daarom ook nauw samen met eindgebruikers, architecten, platform \
-experts en leveranciers om een doeltreffende, betrouwbare en efficiënte \
-oplossing boven tafel te krijgen. Ik heb hiervoor een scherpe, kritische blik \
-ontwikkeld, die ik goed kan balanceren met een pragmatische houding. Hierdoor \
-kan ik risico's vroegtijdig identificeren en de impact van veranderingen op de \
-langere termijn inschatten.
-
-Mijn belangrijkste focus ligt bij Java backend services, maar ik ben ook prima \
-inzetbaar als full-stack ontwikkelaar.
-
-Naast mijn werk breng ik tijd door met mijn vrouw en tienerzoon, vind ik het \
-leuk om buiten te zijn met onze hond, te koken en cultuur te \
-snuiven in het buitenland. Ook \
-houd ik me af en toe bezig met meer creatieve toepassingen van computers in de \
-zogenaamde Demoscene, en knutsel ik aan toepassingen van AI agents.
+robuuste code inmiddels een basis hygiëne. Ruim 15 jaar ervaring met Java, \
+waarvan 10+ jaar in complexe, missie-kritische systemen met Spring Boot, REST, \
+Kubernetes en DevOps. In teamverband software bouwen is nog steeds mijn \
+grootste passie. Naast coderen werk ik nauw samen met eindgebruikers, \
+architecten, platform experts en leveranciers om een doeltreffende, \
+betrouwbare en efficiënte oplossing boven tafel te krijgen. Ik heb een scherpe, \
+kritische blik ontwikkeld, gebalanceerd met een pragmatische houding — \
+waardoor ik risico's vroegtijdig identificeer en de impact van veranderingen \
+op de langere termijn inschat. Mijn focus ligt bij Java backend services, met \
+daarnaast ervaring met React, Typescript, Elasticsearch, Docker, Kubernetes, \
+Helm en Gitlab CI.
 """
 
 [[Links]]
@@ -93,7 +86,7 @@ Keywords = [
   "Scrum",
   "GitlabCI",
   "SAFeAgile",
-  "JIRA",
+  "Jira",
   "Confluence",
   "JUnit",
   "Mockito",
@@ -107,6 +100,8 @@ Keywords = [
   "Grafana",
   "Git",
   "Bash",
+  "Python",
+  "AIAssistedCoding",
 ]
 
 [[Experience.Task.nl]]
@@ -322,7 +317,7 @@ Keywords = [
   "Nexus",
   "Jenkins",
   "SonarQube",
-  "JIRA",
+  "Jira",
   "Confluence",
   "Mockito",
   "Selenium",
@@ -488,6 +483,7 @@ Keywords = [
   "Elasticsearch",
   "Liquibase",
   "LangChain4j",
+  "AIAssistedCoding",
 ]
 
 [[Skills]]
@@ -506,6 +502,8 @@ Keywords = [
   "Kibana",
   "Grafana",
   "SAFeAgile",
+  "Jira",
+  "Confluence",
 ]
 
 [[Skills]]
@@ -721,7 +719,7 @@ Score = 7
 
 [Keywords.LangChain4j]
 Name = "LangChain4j"
-Score = 5
+Score = 7
 
 [Keywords.dotNET]
 Name = ".NET"
@@ -739,13 +737,13 @@ Score = 4
 Name = "Drools"
 Score = 6
 
-[Keywords.JIRA]
-Name = "JIRA"
-Score = 8
+[Keywords.Jira]
+Name = "Jira"
+Score = 7
 
 [Keywords.Confluence]
 Name = "Confluence"
-Score = 6
+Score = 7
 
 [Keywords.VisualBasic]
 Name = "Visual Basic"
@@ -810,3 +808,11 @@ Score = 6
 [Keywords.OpenStack]
 Name = "OpenStack"
 Score = 4
+
+[Keywords.AIAssistedCoding]
+Name = "AI-assisted coding"
+Score = 8
+
+[Keywords.Python]
+Name = "Python"
+Score = 6

@@ -1,7 +1,7 @@
 #set document(
   title: "CV Michel de Bree versie " + text(toml("./version.toml").Version),
   author: "Michel de Bree",
-  description: "Ervaren Java ontwikkelaar",
+  description: "Senior full stack Java ontwikkelaar",
   keywords: (
     "Java",
     "Developer",
@@ -60,6 +60,7 @@
 )
 
 #let right-pane = (
+  "personal",
   "skills",
   "languages",
   // "other_experience",

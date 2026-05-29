@@ -20,16 +20,16 @@
   - Good communicator
   - Independent
   - Team player
-  - Preemptive
+  - Proactive
   - Eager to learn
 
 ] else [
 
-  - Pensamiento analítico
-  - Consciente de la calidad
-  - Buen comunicador
-  - Independiente
-  - Jugador de equipo
-  - Preventivo
-  - Ansioso por aprender
+  - Kwaliteitsbewust
+  - Analytisch denker
+  - Goede communicator
+  - Zelfstandig
+  - Teamspeler
+  - Proactief
+  - Leergierig
 ]

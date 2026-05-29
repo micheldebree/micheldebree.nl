@@ -33,6 +33,16 @@
       location: experience.Location,
     )
 
+    #if "Keywords" in experience [
+      #par(justify: true)[
+        #text(size: 0.9em, font: meta.layout.text.font_monospace)[
+          #for keyword in experience.Keywords [
+            #data.Keywords.at(keyword).Name
+          ]
+        ]
+      ]
+    ]
+
     #if "Situation" in experience [
       #par(justify: true)[#experience.Situation.at(language)]
     ]
@@ -46,16 +56,6 @@
               "Result" in task
             ) [#task.Result]
           ]
-      ]
-    ]
-
-    #if "Keywords" in experience [
-      #par(justify: true)[
-        #text(size: 0.9em, font: meta.layout.text.font_monospace)[
-          #for keyword in experience.Keywords [
-            #data.Keywords.at(keyword).Name
-          ]
-        ]
       ]
     ]
     #line(length: 100%, stroke: 0.5pt)
