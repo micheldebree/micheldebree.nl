@@ -10,7 +10,7 @@ tags:
 It was a privilege and a pleasure to provide the soundtrack to [Hexed](https://csdb.dk/release/?id=262148) last weekend at
 [X2026](https://csdb.dk/event/?id=3485).
 
-{{< youtube id="j3JeHkLf5Vc" autoplay="false" >}}
+{{< youtube id="6HLjOHPoi48" autoplay="false" >}}
 
 X2026 is also informally dubbed the world championships of Commodore 64 demos. I was very happy we got 4th place, which is all the
 more of an achievement considering there were only four in our team.
