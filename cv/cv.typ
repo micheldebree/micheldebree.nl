@@ -1,7 +1,9 @@
+#let lang = sys.inputs.at("language", default: "nl")
+#let doc-version = toml("./version.toml").Version
 #set document(
-  title: "CV Michel de Bree versie " + text(toml("./version.toml").Version),
+  title: "CV Michel de Bree v" + doc-version,
   author: "Michel de Bree",
-  description: "Senior full stack Java ontwikkelaar",
+  description: if lang == "en" { "Senior full stack Java developer" } else { "Senior full stack Java ontwikkelaar" },
   keywords: (
     "Java",
     "Developer",
@@ -30,18 +32,21 @@
 )
 
 #let meta = toml("./info.toml")
-#set text(lang: meta.personal.language)
+#(meta.personal.language = lang)
+#set text(lang: lang)
 // #set par(justify: true)
 
 #let data = toml("./michel_de_bree.toml")
 #(meta.personal.first_name = data.Personal.Name.First)
 #(meta.personal.last_name = data.Personal.Name.Last)
 #(meta.language.nl.subtitle = data.Summary.Tagline.nl)
+#if "en" in data.Summary.Tagline { meta.language.en.subtitle = data.Summary.Tagline.en }
 
 
 // #import meta.import.path: cv
 #import "@preview/grotesk-cv:1.0.4": cv
-#let photo = image("./img/" + meta.personal.profile_image, alt: "Foto van Michel de Bree")
+#let photo-alt = if lang == "en" { "Photo of Michel de Bree" } else { "Foto van Michel de Bree" }
+#let photo = image("./img/" + meta.personal.profile_image, alt: photo-alt)
 
 #let import-sections(
   sections,

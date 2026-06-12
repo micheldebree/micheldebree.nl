@@ -8,3 +8,6 @@ resources
 .DS_Store
 cv/*.pdf
 build
+
+.kitt
+.opencode

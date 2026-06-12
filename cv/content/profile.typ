@@ -3,7 +3,7 @@
 #import meta.import.fontawesome: *
 
 #let icon = meta.section.icon.profile
-#let language = meta.personal.language
+#let language = sys.inputs.at("language", default: "nl")
 #let include-icon = meta.personal.include_icons
 
 // = Summary
@@ -13,8 +13,4 @@
 
 #v(5pt)
 
-#if language == "en" [
-  #{ data.Summary.Introduction }
-] else [
-  #{ par(justify: true)[#text(lang: "nl")[#data.Summary.Introduction]] }
-]
+#{ par(justify: true)[#data.Summary.Introduction.at(language)] }

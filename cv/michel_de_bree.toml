@@ -4,11 +4,12 @@ Name.Last = "de Bree"
 Title = "Java Developer"
 YearOfBirth = 1972
 Residence = "Nootdorp"
-Languages = ["Nederlands (moedertaal)", "Engels (fluent)"]
+Languages = ["Dutch (native)", "English (fluent)"]
 
 [Summary]
 Tagline.nl = "Senior full stack Java ontwikkelaar"
-Introduction = """
+Tagline.en = "Senior full stack Java developer"
+Introduction.nl = """
 Mijn grootste uitdaging als software ontwikkelaar is het beheersbaar houden van \
 complexiteit, om software te kunnen opleveren die kan meebewegen met \
 verandering. Met meer dan 20 jaar ervaring is het schrijven van inzichtelijke, \
@@ -23,6 +24,20 @@ waardoor ik risico's vroegtijdig identificeer en de impact van veranderingen \
 op de langere termijn inschat. Mijn focus ligt bij Java backend services, met \
 daarnaast ervaring met React, Typescript, Elasticsearch, Docker, Kubernetes, \
 Helm en Gitlab CI.
+"""
+Introduction.en = """
+My greatest challenge as a software developer is keeping complexity manageable, \
+in order to deliver software that can adapt to change. With over 20 years of \
+experience, writing clear, robust code has become basic hygiene. Over 15 years \
+of experience with Java, including 10+ years in complex, mission-critical \
+systems using Spring Boot, REST, Kubernetes, and DevOps. Building software as \
+part of a team is still my greatest passion. Besides coding, I work closely \
+with end users, architects, platform experts, and vendors to arrive at an \
+effective, reliable, and efficient solution. I have developed a sharp, \
+critical eye, balanced with a pragmatic attitude — enabling me to identify \
+risks early and assess the long-term impact of changes. My focus is on Java \
+backend services, with additional experience in React, TypeScript, \
+Elasticsearch, Docker, Kubernetes, Helm, and Gitlab CI.
 """
 
 [[Links]]
@@ -41,10 +56,12 @@ Url = "https://nl.linkedin.com/in/micheldebree"
 
 [[Experience]]
 Title.nl = "Regelsysteem en services voor regelgeving m.b.t. de Omgevingswet"
+Title.en = "Rule system and services for environmental legislation"
 Company = "Digitaal Stelsel Omgevingswet (Rijkswaterstaat)"
 Location = "Rotterdam"
 Start = "2018"
-End = "heden"
+End.nl = "heden"
+End.en = "present"
 
 Situation.nl = """
 Eén van de centrale onderdelen van het Digitaal Stelsel Omgevingswet, is de \
@@ -62,6 +79,21 @@ In de loop der tijd heb ik me ontwikkeld tot de meest ervaren ontwikkelaar op \
 dit project. D.m.v. kennisoverdracht, code reviews en coaching heb ik \
 nieuwe ontwikkelaars snel wegwijs kunnen maken in de materie, en heb ik dit \
 project in goede handen kunnen achterlaten.
+"""
+Situation.en = """
+One of the core components of the Digital System for the Environmental Act is \
+the Applicable Rules module. This application receives legislation from \
+municipalities, provinces, water authorities, and the national government in an \
+open standard format. These rules are used to automatically generate dynamic \
+questionnaires for end users. Completed questionnaires are evaluated in \
+real-time by a rule engine, resulting in advice or a permit application. This \
+functionality is offered on the national Environmental Act portal and is also \
+available via open REST APIs for anyone wanting to build on this functionality.
+Due to its public nature and large user base, high demands are placed on \
+reliability, availability, security, and scalability.
+Over time I developed into the most experienced developer on this project. \
+Through knowledge transfer, code reviews, and coaching I was able to quickly \
+bring new developers up to speed and leave the project in good hands.
 """
 
 Keywords = [
@@ -122,6 +154,20 @@ Ook heeft de eenvoudige maar robuuste opzet in de praktijk al meerdere malen \
 eenvoudig data herstel en migratie mogelijk gemaakt. \
 """
 
+[[Experience.Task.en]]
+Task = "Building core functionality from scratch."
+Action = """
+Example: \
+Design and implementation of the synchronisation mechanism that keeps master \
+data up-to-date with the external source.\
+"""
+Result = """
+The design choices I made have ensured that this mechanism has been working \
+reliably since its introduction without any significant issues. The simple yet \
+robust setup has also enabled easy data recovery and migration on multiple \
+occasions. \
+"""
+
 [[Experience.Task.nl]]
 Task = """
 Ontwerpen, afstemmen en bouwen van REST (HAL+JSON) API's met gebruikers en \
@@ -136,6 +182,21 @@ Result = """
 API calls en database acties zijn daardoor kortlopend en schaalbaar, waardoor \
 het systeem minder belast wordt, en de throttling die we hadden ingesteld kon \
 worden opgeheven. \
+"""
+
+[[Experience.Task.en]]
+Task = """
+Designing, aligning and building REST (HAL+JSON) APIs with users and \
+architects, using OpenAPI (Swagger) specifications \
+"""
+Action = """
+Example: \
+The redesign of an existing API to deliver data in a more granular and \
+paginated manner using HAL+JSON. \
+"""
+Result = """
+API calls and database actions became short-lived and scalable, reducing the \
+load on the system, and the throttling we had in place could be lifted. \
 """
 
 [[Experience.Task.nl]]
@@ -155,6 +216,22 @@ Uitkomst was dat wij het wekenlange traject voor onze applicatie niet zijn \
 ingegaan, en de ongebruikte integratie logica hebben verwijderd. \
 """
 
+[[Experience.Task.en]]
+Task = """
+Designing and aligning new functionality with users, business analysts, and \
+architects. \
+"""
+Action = """
+Example: During a migration of our application's integration into the \
+overarching portal, I took the initiative to discuss the impact with users. \
+After probing further, it turned out the integrated version was barely used, \
+so I consulted with the architect about the necessity of this integration. \
+"""
+Result = """
+The outcome was that we did not proceed with the weeks-long migration \
+trajectory for our application and removed the unused integration logic. \
+"""
+
 [[Experience.Task.nl]]
 Task = """
 DevOps m.b.t. ontwikkelstraat en productie. \
@@ -165,10 +242,21 @@ Docker images, SonarQube, reporting, performance testen en tuning. Analyse en mi
 van incidenten. Overleg met externe onderhoudbaarheid en veiligheid auditors.
 """
 
+[[Experience.Task.en]]
+Task = """
+DevOps for development pipeline and production. \
+"""
+Action = """Development and configuration of Gitlab CI pipelines, Helm charts, \
+Docker images, SonarQube, reporting, performance testing and tuning. Analysis and \
+mitigation of incidents. Consultation with external maintainability and security \
+auditors.
+"""
+
 # === Knooppunt 
 
 [[Experience]]
 Title.nl = "Knooppunt voor API toegang en autorisatie"
+Title.en = "Hub for API access and authorisation"
 Company = "Digitaal Stelsel Omgevingswet (Rijkswaterstaat)"
 Location = "Den Haag, Rotterdam"
 Start = "2016"
@@ -186,6 +274,17 @@ Omdat het DSO destijds min of meer "launching customer" was van het Standaard \
 Platform, ben ik in een overgangsperiode geleidelijk overgegaan van mijn rol \
 bij het Standaard Platform naar volledig aan de slag bij het DSO \
 """
+Situation.en = """
+Within the Digital System for the Environmental Act, all APIs are offered via \
+the Hub. The Hub also provides authentication using DigID, eHerkenning, \
+OAuth, API keys, and PKIO certificates. Communication between components \
+inside and outside the system runs through the Hub, centrally managing \
+routing, logging, error handling, throttling, and security. The Hub also \
+provides an open system for third parties to consume APIs.
+Since the DSO was more or less the "launching customer" of the Standard \
+Platform at the time, I gradually transitioned from my role at the Standard \
+Platform to working full-time at the DSO.
+"""
 
 Keywords = ["Java", "Spring", "WSO2", "Docker", "Ansible", "OAuth"]
 
@@ -196,6 +295,13 @@ ontwikkelaars. In de loop van de tijd is mijn rol op een organische manier \
 uitgegroeid tot lead developer in een team van wisselende samenstelling.
 """
 
+[[Experience.Task.en]]
+Task = "Lead development"
+Action = """At the start of the project, I was one of three developers. Over \
+time, my role organically grew into lead developer in a team with changing \
+composition.
+"""
+
 [[Experience.Task.nl]]
 Task = "Integratie development"
 Action = """
@@ -203,6 +309,15 @@ Het ontwikkelen van nieuwe componenten en uitbreidingen op het standaard open \
 source product WSO2, in Java en Spring Boot. Voorbeeld: een adapter om API keys \
 te kunnen gebruiken voor afnemers in het open stelsel. De adapter gebruikt \
 achter de schermen OAuth2 authenticatie om aan te kunnen sluiten op WSO2. \
+"""
+
+[[Experience.Task.en]]
+Task = "Integration development"
+Action = """
+Developing new components and extensions on the standard open source product \
+WSO2, in Java and Spring Boot. Example: an adapter enabling API keys for \
+consumers in the open system. The adapter uses OAuth2 authentication under the \
+hood to connect to WSO2. \
 """
 
 [[Experience.Task.nl]]
@@ -219,6 +334,20 @@ het coachen van een Scrum team, liever in andere zaken steek. Bij het groeien \
 van het team kon ik de rol daarom met plezier overdragen. \
 """
 
+[[Experience.Task.en]]
+Task = "Interim Scrum Master"
+Action = """
+At the start of the project, I was asked to take on the role of Scrum Master. \
+Besides organising, I represented our team in coordination with other teams in \
+Scrum-of-scrums. \
+"""
+Result = """
+The role of representative and point of contact overlaps significantly with \
+that of lead developer. I did notice that I prefer to invest the time and \
+energy spent coaching a Scrum team in other matters. As the team grew, I was \
+therefore happy to hand over the role. \
+"""
+
 [[Experience.Task.nl]]
 Task = "CI/CD, DevOps development"
 Action = """
@@ -233,6 +362,7 @@ ontwikkeling van applicaties binnen het DSO.
 
 [[Experience]]
 Title.nl = "Standaard Platform voor overheid applicaties"
+Title.en = "Standard Platform for government applications"
 Company = "Ministerie van Infrastructuur en Waterstaat"
 Location = "Den Haag"
 Start = "2015"
@@ -247,6 +377,15 @@ die volledige automatisch uitgerold kon worden, met daarin ook zelfbouw \
 componenten en CI/CD functionaliteit. Tijdens mijn \
 werk bij, en met het Standaard Platform heeft het een ontwikkeling doorgemaakt \
 tot het op Kubernetes gebaseerde platform dat het nu is.
+"""
+Situation.en = """
+The Standard Platform is a standard, scalable container platform for government \
+applications. In my current project, it is the underlying platform on which the \
+Environmental Act applications run. When I started, the Standard Platform was a \
+complete standard enterprise architecture that could be deployed fully \
+automatically, including custom-built components and CI/CD functionality. \
+During my work with the Standard Platform, it evolved into the Kubernetes-based \
+platform that it is today.
 """
 
 Keywords = [
@@ -278,6 +417,7 @@ Keywords = [
   "Linux",
   "Vagrant",
   "OpenStack",
+  "AWS",
 ]
 
 [[Experience.Task.nl]]
@@ -285,6 +425,13 @@ Task = "Ontwikkeling van custom componenten en uitbreidingen."
 Action = """
 Bouw, in team verband, van generieke platform componenten voor uitrol, \
 authenticatie en integratie. \
+"""
+
+[[Experience.Task.en]]
+Task = "Development of custom components and extensions."
+Action = """
+Building, as part of a team, generic platform components for deployment, \
+authentication and integration. \
 """
 
 [[Experience.Task.nl]]
@@ -295,10 +442,19 @@ worden uitgerold op Amazon EC2 dat klaar was voor het hosten en de lifecycle \
 management van een complete enterprise applicatie. \
 """
 
+[[Experience.Task.en]]
+Task = "Development of automated deployment and provisioning scripting."
+Result = """
+With this solution, a complete application platform could be deployed on Amazon \
+EC2 in less than an hour, ready for hosting and lifecycle management of a \
+complete enterprise application. \
+"""
+
 # === ING ===
 
 [[Experience]]
 Title.nl = "Online authenticatie"
+Title.en = "Online authentication"
 Company = "ING"
 Location = "Amsterdam"
 Start = "2014"
@@ -308,6 +464,11 @@ Situation.nl = """
 In mijn eerste opdracht als freelancer was ik onderdeel van een Scrum/DevOps \
 team. Eén van de functionaliteiten die we in dit team naar productie gebracht \
 hebben, is de "gebruikersnaam vergeten" functionaliteit voor online bankieren. \
+"""
+Situation.en = """
+In my first assignment as a freelancer, I was part of a Scrum/DevOps team. One \
+of the features we delivered to production was the "forgot username" \
+functionality for online banking.
 """
 
 Keywords = [
@@ -330,16 +491,26 @@ Keywords = [
 [[Experience.Task.nl]]
 Task = "Backend-  en integratie ontwikkeling"
 
+[[Experience.Task.en]]
+Task = "Backend and integration development"
+
 [[Experience.Task.nl]]
 Task = "Frontend ontwikkeling"
 
+[[Experience.Task.en]]
+Task = "Frontend development"
+
 [[Experience.Task.nl]]
+Task = "DevOps"
+
+[[Experience.Task.en]]
 Task = "DevOps"
 
 # === micheldebree.nl ===
 
 [[Experience]]
 Title.nl = "Begonnen als ZZP-er"
+Title.en = "Started as freelancer"
 Company = "micheldebree.nl"
 Location = "Den Haag"
 Start = "2014"
@@ -348,11 +519,16 @@ Situation.nl = """
 In 2014 ben ik begonnen als ZZP-er om meer vrijheid en focus in mijn werk aan \
 te brengen. Vanaf 2014 voer ik mijn opdrachten uit als ZZP-er. \
 """
+Situation.en = """
+In 2014 I started working as a freelancer to bring more freedom and focus to \
+my work. Since 2014, I carry out my assignments as a freelancer.
+"""
 
 # === E-ID ===
 
 [[Experience]]
 Title.nl = "Senior Software Engineer"
+Title.en = "Senior Software Engineer"
 Company = "E-ID"
 Location = "Vianen"
 Start = "2005"
@@ -369,6 +545,17 @@ Doordat deze wet het niet gehaald heeft, is de software in \
 afgeslankte vorm in productie genomen.
 Verder projecten uitgevoerd voor DELA, KPN, DPD, Saltro, Leaseloket, Ziggo, TNT \
 en Infinitas.
+"""
+Situation.en = """
+Various in-house and on-site projects in Java and .NET. My first assignment was \
+maintaining and extending software at Aegon Bank as part of a team. My last \
+project left the biggest mark: building the public portal for the National \
+Electronic Patient Record from scratch. The prototype was built in Java, after \
+which — due to organisational changes — the actual build was done in C#. \
+Because the legislation did not pass, the software was put into production in a \
+reduced form.
+I also carried out projects for DELA, KPN, DPD, Saltro, Leaseloket, Ziggo, TNT \
+and Infinitas.
 """
 
 Keywords = [
@@ -390,6 +577,7 @@ Keywords = [
 
 [[Experience]]
 Title.nl = "Software Engineer"
+Title.en = "Software Engineer"
 Company = "PaC/Imtech ICT"
 Location = "Den Haag"
 Start = "2001"
@@ -399,6 +587,10 @@ Situation.nl = """
 Begonnen met een Visual Basic project, daarna verschillende in-house Java \
 projecten. \
 """
+Situation.en = """
+Started with a Visual Basic project, followed by various in-house Java \
+projects.
+"""
 
 Keywords = ["Java", "VisualBasic"]
 
@@ -406,6 +598,7 @@ Keywords = ["Java", "VisualBasic"]
 
 [[Experience]]
 Title.nl = "Ontwikkelaar"
+Title.en = "Developer"
 Company = "Leids Universitair Medisch Centrum"
 Location = "Leiden"
 Start = "1994"
@@ -413,6 +606,9 @@ End = "2001"
 
 Situation.nl = """
 Tijdens mijn studie informatica in Delft werkte ik parttime voor het LUMC.
+"""
+Situation.en = """
+During my computer science studies in Delft, I worked part-time for LUMC.
 """
 
 [[Experience.Task.nl]]
@@ -427,11 +623,29 @@ Het systeem ondersteunt foto's, filmpjes en geluidsopnamen als onderdeel van de 
 vraag.
 """
 
+[[Experience.Task.en]]
+Task = "Development of a multimedia exam system"
+Action = """
+Together with another student and a surgeon with development aspirations, I did \
+the development work on a new system for composing and administering exams to \
+students at LUMC. \
+"""
+Result = """
+The system supports photos, videos and audio recordings as part of the \
+question.
+"""
+
 [[Experience.Task.nl]]
 Task = "Onderhoud van wetenschappelijke software"
 Action = """
 De software ondersteunde het onderzoek naar de biologische klok onder leiding \
 van een hoogleraar. 
+"""
+
+[[Experience.Task.en]]
+Task = "Maintenance of scientific software"
+Action = """
+The software supported research into the biological clock led by a professor.
 """
 
 # === Education
@@ -440,18 +654,23 @@ van een hoogleraar.
 Start = "1991"
 End = "1998"
 Title.nl = "Technische Informatica"
+Title.en = "Computer Science"
 Institution.nl = "Technische Universiteit Delft"
+Institution.en = "Delft University of Technology"
 
 [[Education]]
 Start = "1984"
 End = "1991"
 Title.nl = "VWO beta"
+Title.en = "Pre-university education (science track)"
 Institution.nl = "Het Vlietland College Leiden"
+Institution.en = "Vlietland College Leiden"
 
 # Skills are scored 1-10
 
 [[Skills]]
-Category = "Programmeertalen"
+Category.nl = "Programmeertalen"
+Category.en = "Programming Languages"
 Keywords = ["Java21", "Javascript", "Typescript", "Bash"]
 
 [[Skills]]
@@ -470,7 +689,8 @@ Keywords = [
 ]
 
 [[Skills]]
-Category = "Integratie"
+Category.nl = "Integratie"
+Category.en = "Integration"
 Keywords = ["REST", "HALJSON", "OpenAPI", "OAuth", "JWT", "SOAP"]
 
 [[Skills]]
@@ -490,7 +710,8 @@ Keywords = [
 ]
 
 [[Skills]]
-Category = "Testen"
+Category.nl = "Testen"
+Category.en = "Testing"
 Keywords = [
   "JUnit",
   "Mockito",
@@ -803,3 +1024,7 @@ Score = 8
 [Keywords.Python]
 Name = "Python"
 Score = 6
+
+[Keywords.AWS]
+Name = "AWS"
+Score = 5

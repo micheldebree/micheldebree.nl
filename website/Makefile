@@ -1,6 +1,7 @@
-CV_HOME=../cv
-CV_SRC=$(CV_HOME)/cv-michel_de_bree.pdf
-CV_DEST=./static/cv-michel_de_bree.pdf
+CV_SRC=../cv
+CV_DEST=./static
+CVS = $(CV_DEST)/cv-michel_de_bree-nl.pdf $(CV_DEST)/cv-michel_de_bree-en.pdf
+
 QR=./static/QR.png
 
 .PHONY: test
@@ -9,7 +10,7 @@ test: all
 	hugo -D server --disableFastRender
 
 .PHONY: all
-all: icons $(CV_DEST) $(QR)
+all: icons $(CVS) $(QR)
 	hugo --minify
 
 icons: static/images/favicon-16x16.png \
@@ -32,12 +33,8 @@ static/images/apple-touch-icon.png: static/images/logo.svg
 	convert -resize 180x180 -background none $< $@
 	optipng -o7 $@
 
-$(CV_DEST): $(CV_SRC)
+$(CV_DEST)/%.pdf: $(CV_SRC)/%.pdf
 	cp $< $@
-
-.PHONY: $(CV_SRC)
-$(CV_SRC):
-	cd $(CV_HOME) && make
 
 $(QR):
 	qrencode -l L -s 3 -o "$@" https://www.micheldebree.nl/michel_de_bree.vcf

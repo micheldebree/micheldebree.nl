@@ -4,7 +4,7 @@
 #import meta.import.fontawesome: *
 
 #let icon = meta.section.icon.education
-#let language = meta.personal.language
+#let language = sys.inputs.at("language", default: "nl")
 #let include-icon = meta.personal.include_icons
 
 #let data = toml("../michel_de_bree.toml")

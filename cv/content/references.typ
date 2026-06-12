@@ -4,7 +4,7 @@
 #import meta.import.fontawesome: *
 
 #let icon = meta.section.icon.references
-#let language = meta.personal.language
+#let language = sys.inputs.at("language", default: "nl")
 #let include-icon = meta.personal.include_icons
 
 
@@ -32,6 +32,22 @@
 
   #reference-entry(
     name: [Sarah Connor, Líder de la Resistencia],
+    company: [Cyberdyne Systems],
+    telephone: [+1 (555) 654-3210],
+    email: [sarah.connor\@resistance.com],
+  )
+
+  #reference-entry(
+    name: [Eldon Tyrell, CEO],
+    company: [Tyrell Corporation],
+    telephone: [+1 (555) 987-6543],
+    email: [eldontyrell\@tyrellcorp.com],
+  )
+
+] else [
+
+  #reference-entry(
+    name: [Sarah Connor, Leider van het Verzet],
     company: [Cyberdyne Systems],
     telephone: [+1 (555) 654-3210],
     email: [sarah.connor\@resistance.com],

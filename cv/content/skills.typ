@@ -4,7 +4,7 @@
 #import meta.import.fontawesome: *
 
 #let icon = meta.section.icon.skills
-#let language = meta.personal.language
+#let language = sys.inputs.at("language", default: "nl")
 #let include-icon = meta.personal.include_icons
 #let accent-color = meta.layout.accent_color
 #let font_monospace = meta.layout.text.font_monospace
@@ -37,7 +37,9 @@
 
 #for skills in data.Skills [
 
-== #emph(skills.Category)
+#let cat = skills.Category
+#if type(cat) == dictionary { cat = cat.at(language) }
+== #emph(cat)
 
   #skill-entry(
     fill-color,

@@ -4,7 +4,7 @@
 #import meta.import.fontawesome: *
 
 #let icon = meta.section.icon.other_experience
-#let language = meta.personal.language
+#let language = sys.inputs.at("language", default: "nl")
 #let include-icon = meta.personal.include_icons
 
 
@@ -29,6 +29,15 @@
     date: [2029],
     company: [Resistencia],
     location: [Los Ángeles, CA],
+  )
+
+] else [
+
+  #experience-entry(
+    title: [Gevechtstraining],
+    date: [2029],
+    company: [Verzet],
+    location: [Los Angeles, CA],
   )
 
 ]

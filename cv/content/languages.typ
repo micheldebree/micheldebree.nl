@@ -4,7 +4,7 @@
 #import meta.import.fontawesome: *
 
 #let icon = meta.section.icon.languages
-#let language = meta.personal.language
+#let language = sys.inputs.at("language", default: "nl")
 #let include-icon = meta.personal.include_icons
 
 = #if include-icon [#fa-icon(icon) #h(5pt)] #if language == "en" [Languages] else [Talen]

@@ -3,24 +3,32 @@
 REV := $(shell git rev-parse --short HEAD)
 
 IN=cv.typ
-OUT=cv-michel_de_bree.pdf
+DEPS=$(IN) michel_de_bree.toml info.toml version.toml
+LANGS=nl en
+OUTS=$(LANGS:%=cv-michel_de_bree-%.pdf)
 
-$(OUT): $(IN) michel_de_bree.toml version.toml
-	typst compile --pdf-standard ua-1 $< $@
+.PHONY: default all nl en test watch clean version.toml
 
-.PHONY: version.toml
+default: $(OUTS)
+
+all: $(OUTS)
+
+$(OUTS): cv-michel_de_bree-%.pdf: $(DEPS)
+	typst compile --pdf-standard ua-1 --input language=$* $< $@
+
+nl: cv-michel_de_bree-nl.pdf
+
+en: cv-michel_de_bree-en.pdf
+
 version.toml:
 	echo "Version = \"${REV}\"" > version.toml
 
-.PHONY: test
 test: $(IN)
 	tinymist preview $< --partial-rendering true
 
-.PHONY: watch
-watch: $(OUT)
+watch: cv-michel_de_bree-nl.pdf
 	open $<
-	typst watch $(IN)
+	typst watch $(IN) --input language=nl
 
-.PHONY: clean
 clean:
-	rm *.pdf
+	rm -f *.pdf
