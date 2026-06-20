@@ -22,3 +22,7 @@ To somewhat relive the experience of being at X, here's a live recording:
 Apart from the 300+ attendees at the party itself, the same order of viewers was watching on Twitch:
 
 {{< youtube id="j3JeHkLf5Vc" autoplay="false" >}}
+
+Martin Piper did an analysis of the effects on disk 1:
+
+{{< youtube id="AwYrv7kHQ1s" autoplay="false" >}}
