@@ -1,5 +1,5 @@
 ---
-title: Hexed soundtrack @ X2026
+title: Hexed @ X2026
 date: 2026-06-06T21:00:49+02:00
 draft: false
 tags:
@@ -15,9 +15,13 @@ It was a privilege and a pleasure to provide the soundtrack to [Hexed](https://c
 X2026 is also informally dubbed the world championships of Commodore 64 demos. I was very happy we got 4th place, which is all the
 more of an achievement considering there were only four in our team.
 
-To somewhat relive the experience of being at X, here's a live recording:
+Read the comments at [CSDb](https://csdb.dk/release/?id=262148) and [Pouët](https://www.pouet.net/prod.php?which=106375)
+
+To somewhat relive the experience of witnessing the debut at X, here are two POV's:
 
 {{< youtube id="SDIPjXR7veI" autoplay="false" >}}
+
+{{< youtube id="UcBduEQPLbg" autoplay="false" start="15499">}}
 
 Apart from the 300+ attendees at the party itself, the same order of viewers was watching on Twitch:
 
