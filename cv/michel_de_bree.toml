@@ -16,14 +16,18 @@ verandering. Met meer dan 20 jaar ervaring is het schrijven van inzichtelijke, \
 robuuste code inmiddels een basis hygiëne. Ruim 15 jaar ervaring met Java, \
 waarvan 10+ jaar in complexe, missie-kritische systemen met Spring Boot, REST, \
 Kubernetes en DevOps. In teamverband software bouwen is nog steeds mijn \
-grootste passie. Naast coderen werk ik nauw samen met eindgebruikers, \
+grootste passie.
+Naast coderen werk ik nauw samen met eindgebruikers, \
 architecten, platform experts en leveranciers om een doeltreffende, \
 betrouwbare en efficiënte oplossing boven tafel te krijgen. Ik heb een scherpe, \
 kritische blik ontwikkeld, gebalanceerd met een pragmatische houding — \
 waardoor ik risico's vroegtijdig identificeer en de impact van veranderingen \
-op de langere termijn inschat. Mijn focus ligt bij Java backend services, met \
+op de langere termijn inschat. 
+Mijn focus ligt bij Java backend services, met \
 daarnaast ervaring met React, Typescript, Elasticsearch, Docker, Kubernetes, \
 Helm en Gitlab CI.
+In mijn vrije tijd knutsel ik aan mijn eigen AI assistant met Kotlin, Spring AI \
+en Langchain4j, en maak ik simpele tooltjes met Java en Go.
 """
 Introduction.en = """
 My greatest challenge as a software developer is keeping complexity manageable, \
@@ -31,13 +35,17 @@ in order to deliver software that can adapt to change. With over 20 years of \
 experience, writing clear, robust code has become basic hygiene. Over 15 years \
 of experience with Java, including 10+ years in complex, mission-critical \
 systems using Spring Boot, REST, Kubernetes, and DevOps. Building software as \
-part of a team is still my greatest passion. Besides coding, I work closely \
+part of a team is still my greatest passion. 
+Besides coding, I work closely \
 with end users, architects, platform experts, and vendors to arrive at an \
 effective, reliable, and efficient solution. I have developed a sharp, \
 critical eye, balanced with a pragmatic attitude — enabling me to identify \
-risks early and assess the long-term impact of changes. My focus is on Java \
+risks early and assess the long-term impact of changes. 
+My focus is on Java \
 backend services, with additional experience in React, TypeScript, \
 Elasticsearch, Docker, Kubernetes, Helm, and Gitlab CI.
+In my spare time I like to work on my own AI assistant using Kotlin, Spring AI \
+and Langchain4j, en I sometimes make simple tools with Java and Go.
 """
 
 [[Links]]
@@ -671,7 +679,7 @@ Institution.en = "Vlietland College Leiden"
 [[Skills]]
 Category.nl = "Programmeertalen"
 Category.en = "Programming Languages"
-Keywords = ["Java21", "Javascript", "Typescript", "Bash"]
+Keywords = ["Java21", "Javascript", "Typescript", "Bash", "Kotlin", "Golang"]
 
 [[Skills]]
 Category = "Tools & Frameworks"
@@ -722,12 +730,20 @@ Keywords = [
   "ReactTestingLibrary",
 ]
 
-# Keywords are normalized and referenced in skills, and can be referenced in
+# Keywords are normalized and can be referenced in skills and 
 # experiences
 
 [Keywords.Java]
 Name = "Java"
 Score = 9
+
+[Keywords.Kotlin]
+Name = "Kotlin"
+Score = 6
+
+[Keywords.Golang]
+Name = "Go"
+Score = 5
 
 [Keywords.Javascript]
 Name = "Javascript"

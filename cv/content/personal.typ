@@ -16,6 +16,7 @@
 #if language == "en" [
 
   - Analytic thinking
+  - Pragmatisch
   - Quality conscious
   - Good communicator
   - Independent
@@ -26,6 +27,7 @@
 ] else [
 
   - Kwaliteitsbewust
+  - Pragmatisch
   - Analytisch denker
   - Goede communicator
   - Zelfstandig
