@@ -260,6 +260,18 @@ mitigation of incidents. Consultation with external maintainability and security
 auditors.
 """
 
+[[Experience.Task.nl]]
+Task = "Automatisering van regressietesten en performance monitoring."
+Action = """
+Automatisering van de test en monitoring processen door scripts te schrijven \
+vatend alle applicaties binnen het project. \
+"""
+Result = """
+Een compleet geautomatiseerd testtraject met JMeter performance testen, \
+waardoor we continu de prestaties van alle componenten monitoren en \
+proactief problemen op kunnen sporen. \
+"""
+
 # === Knooppunt 
 
 [[Experience]]
@@ -730,6 +742,11 @@ Keywords = [
   "ReactTestingLibrary",
 ]
 
+[[Skills]]
+Category.nl = "Methodologieën"
+Category.en = "Methodologies"
+Keywords = ["Scrum", "SAFeAgile", "TDD", "BDD"]
+
 # Keywords are normalized and can be referenced in skills and 
 # experiences
 
@@ -904,6 +921,14 @@ Score = 9
 [Keywords.SAFeAgile]
 Name = "SAFe-Agile"
 Score = 4
+
+[Keywords.TDD]
+Name = "Test-Driven Development"
+Score = 9
+
+[Keywords.BDD]
+Name = "Behavior-Driven Development"
+Score = 8
 
 [Keywords.JUnit]
 Name = "JUnit"
