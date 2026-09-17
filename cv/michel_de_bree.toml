@@ -20,14 +20,9 @@ grootste passie.
 Naast coderen werk ik nauw samen met eindgebruikers, \
 architecten, platform experts en leveranciers om een doeltreffende, \
 betrouwbare en efficiënte oplossing boven tafel te krijgen. Ik heb een scherpe, \
-kritische blik ontwikkeld, gebalanceerd met een pragmatische houding — \
+kritische blik ontwikkeld, gebalanceerd met een pragmatische houding,  \
 waardoor ik risico's vroegtijdig identificeer en de impact van veranderingen \
 op de langere termijn inschat. 
-Mijn focus ligt bij Java backend services, met \
-daarnaast ervaring met React, Typescript, Elasticsearch, Docker, Kubernetes, \
-Helm en Gitlab CI.
-In mijn vrije tijd knutsel ik aan mijn eigen AI assistant met Kotlin, Spring AI \
-en Langchain4j, en maak ik simpele tooltjes met Java en Go.
 """
 Introduction.en = """
 My greatest challenge as a software developer is keeping complexity manageable, \
@@ -39,13 +34,8 @@ part of a team is still my greatest passion.
 Besides coding, I work closely \
 with end users, architects, platform experts, and vendors to arrive at an \
 effective, reliable, and efficient solution. I have developed a sharp, \
-critical eye, balanced with a pragmatic attitude — enabling me to identify \
+critical eye, balanced with a pragmatic attitude, enabling me to identify \
 risks early and assess the long-term impact of changes. 
-My focus is on Java \
-backend services, with additional experience in React, TypeScript, \
-Elasticsearch, Docker, Kubernetes, Helm, and Gitlab CI.
-In my spare time I like to work on my own AI assistant using Kotlin, Spring AI \
-and Langchain4j, and I sometimes make simple tools with Java and Go.
 """
 
 [[Links]]
@@ -118,9 +108,11 @@ Keywords = [
   "HALJSON",
   "OpenAPI",
   "SOAP",
+  "RabbitMQ",
   "OAuth",
   "JWT",
   "Docker",
+  "Podman",
   "Kubernetes",
   "Helm",
   "OpenShift",
@@ -129,6 +121,7 @@ Keywords = [
   "DMN",
   "Scrum",
   "GitlabCI",
+  "Harbor",
   "SAFeAgile",
   "Jira",
   "Confluence",
@@ -146,6 +139,8 @@ Keywords = [
   "Bash",
   "Python",
   "AIAssistedCoding",
+  "ArgoCD",
+  "Istio"
 ]
 
 [[Experience.Task.nl]]
@@ -285,7 +280,7 @@ End = "2018"
 Situation.nl = """
 Binnen het Digitaal Stelsel Omgevingswet worden alle API's aangeboden via het \
 Knooppunt. Ook biedt het Knooppunt authenticatie m.b.v. DigID, eHerkenning, \
-OAuth, API keys en PKIO certificaten. Communicatie tussen componenten binnen en \
+OAuth, API keys en PKIO certificaten (zero-trust mTLS). Communicatie tussen componenten binnen en \
 buiten het stelsel loopt via het Knooppunt, waardoor zaken als routering, \
 logging, foutafhandeling, throttling en beveiliging centraal geregeld zijn. \
 Ook biedt het Knooppunt een open stelsel voor derden waar API's afgenomen \
@@ -297,7 +292,8 @@ bij het Standaard Platform naar volledig aan de slag bij het DSO \
 Situation.en = """
 Within the Digital System for the Environmental Act, all APIs are offered via \
 the Hub. The Hub also provides authentication using DigID, eHerkenning, \
-OAuth, API keys, and PKIO certificates. Communication between components \
+OAuth, API keys, and PKIO certificates (zero-trust mTLS). Communication between \
+components \
 inside and outside the system runs through the Hub, centrally managing \
 routing, logging, error handling, throttling, and security. The Hub also \
 provides an open system for third parties to consume APIs.
@@ -306,7 +302,7 @@ Platform at the time, I gradually transitioned from my role at the Standard \
 Platform to working full-time at the DSO.
 """
 
-Keywords = ["Java", "Spring", "WSO2", "Docker", "Ansible", "OAuth"]
+Keywords = ["Java", "Spring", "WSO2", "Docker", "Ansible", "OAuth", "PKIO", "mTLS"]
 
 [[Experience.Task.nl]]
 Task = "Lead development"
@@ -633,40 +629,15 @@ During my computer science studies in Delft, I worked part-time for LUMC.
 
 [[Experience.Task.nl]]
 Task = "Ontwikkeling van een systeem voor multimedia examens"
-Action = """
-Samen met een andere student en een chirurg met ontwikkelaars aspiraties deed \
-ik het ontwikkelwerk van een nieuw systeem om examens te kunnen samenstellen, \
-en af te nemen bij studenten van het LUMC. \
-"""
-Result = """
-Het systeem ondersteunt foto's, filmpjes en geluidsopnamen als onderdeel van de \
-vraag.
-"""
 
 [[Experience.Task.en]]
 Task = "Development of a multimedia exam system"
-Action = """
-Together with another student and a surgeon with development aspirations, I did \
-the development work on a new system for composing and administering exams to \
-students at LUMC. \
-"""
-Result = """
-The system supports photos, videos and audio recordings as part of the \
-question.
-"""
 
 [[Experience.Task.nl]]
 Task = "Onderhoud van wetenschappelijke software"
-Action = """
-De software ondersteunde het onderzoek naar de biologische klok onder leiding \
-van een hoogleraar. 
-"""
 
 [[Experience.Task.en]]
 Task = "Maintenance of scientific software"
-Action = """
-The software supported research into the biological clock led by a professor.
-"""
 
 # === Education
 
@@ -894,6 +865,10 @@ Score = 6
 Name = "Docker"
 Score = 8
 
+[Keywords.Podman]
+Name = "Podman"
+Score = 6
+
 [Keywords.Helm]
 Name = "Helm"
 Score = 8
@@ -1069,3 +1044,27 @@ Score = 6
 [Keywords.AWS]
 Name = "AWS"
 Score = 5
+
+[Keywords.ArgoCD]
+Name = "ArgoCD"
+Score = 1
+
+[Keywords.Istio]
+Name = "Istio"
+Score = 1
+
+[Keywords.Harbor]
+Name = "Harbor"
+Score = 6
+
+[Keywords.RabbitMQ]
+Name = "RabbitMQ"
+Score = 6
+
+[Keywords.PKIO]
+Name = "PKIO"
+Score = 6
+
+[Keywords.mTLS]
+Name = "mTLS"
+Score = 6

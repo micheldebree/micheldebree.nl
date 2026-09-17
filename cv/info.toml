@@ -7,24 +7,6 @@ include_icons = true
 
 [personal.info]
 address = "Nootdorp, NL"
-telephone = "+31 681 473 884"
-
-[personal.info.email]
-link = "mailto:michel@micheldebree.nl"
-label = "michel@micheldebree.nl"
-
-[personal.info.linkedin]
-link = "https://linkedin.com/in/micheldebree"
-label = "linkedin.com/in/micheldebree"
-
-[personal.info.website]
-link = "https://www.micheldebree.nl"
-label = "www.micheldebree.nl"
-
-# misuse github entry for birth year
-[personal.info.github]
-link = "https://en.wikipedia.org/wiki/1972"
-label = "1972"
 
 [personal.icon]
 address = "house"

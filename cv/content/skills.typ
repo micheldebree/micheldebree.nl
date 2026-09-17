@@ -18,12 +18,14 @@
 
 // scale score (0-10) down to half size (0-5) and render half stars if neccesary
 #let renderStars(score) = {
-  linebreak()
-  for n in range(int(score / 2)) {
-    renderStar("star")
-  }
-  if calc.rem(score, 2) != 0 {
-    renderStar("star-half")
+  if include-icon {
+    linebreak()
+    for n in range(int(score / 2)) {
+      renderStar("star")
+    }
+    if calc.rem(score, 2) != 0 {
+      renderStar("star-half")
+    }
   }
 }
 
@@ -37,9 +39,9 @@
 
 #for skills in data.Skills [
 
-#let cat = skills.Category
-#if type(cat) == dictionary { cat = cat.at(language) }
-== #emph(cat)
+  #let cat = skills.Category
+  #if type(cat) == dictionary { cat = cat.at(language) }
+  == #emph(cat)
 
   #skill-entry(
     fill-color,

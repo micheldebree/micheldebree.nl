@@ -2,7 +2,7 @@
 name: cv-tailor
 description: Optimize the CV for a specific vacancy so it scores exceptionally well on automatic LLM screening. Takes the vacancy text, works on a dedicated git branch, and adapts wording, emphasis and ordering — without fabricating experience.
 metadata:
-  version: "2.2"
+  version: "2.3"
 ---
 
 # CV Tailor for Vacancies
@@ -62,16 +62,21 @@ Two hard constraints shape everything:
 ## 3. Fit Analysis
 
 Read `michel_de_bree.toml` fully. Extract every technology, tool, framework,
-practice, and hard requirement from the vacancy, then classify each:
+practice, and requirement from the vacancy, then classify each:
 
 | Class | Meaning | Action |
 |---|---|---|
 | **Direct** | CV already states it | Verify wording uses the vacancy's exact term; promote if buried |
 | **Terminology** | Same thing, different name (e.g. "Spring Boot" vs "Spring") | Align terminology where truthful |
 | **Adjacent** | CV has a closely related technology | Bridge with similarity (step 4.4) |
-| **Hard gap** | No comparable experience | Downplay it: compare to the closest experience the CV does have (step 4.5). If no comparable experience exists, add a brief self-study note (step 4.5) |
+| **Hard gap** | No comparable experience | Ask the user how to handle it (step 3.1); default: downplay via comparison (step 4.5) |
 
-Present the user a compact analysis:
+### 3.1 Gap analysis: must-have vs nice-to-have
+
+Split every extracted requirement into **must-have** (explicitly required,
+e.g. "X years of Y", "required", listed under requirements) and **nice-to-have**
+("a plus", "preferred", "nice to have", listed under wishes). Then present
+the gaps between the CV and the vacancy, grouped by class and importance:
 
 ```
 ## Fit: <Role> @ <Company>   (language: en)
@@ -79,8 +84,35 @@ Present the user a compact analysis:
 Direct (promote/align):        Spring Boot, REST, Kubernetes, GitLab CI
 Terminology:                   "microservices" (CV says "services")
 Adjacent:                      AWS  ← CV has Azure + cloud-agnostic K8s
-Hard gaps (downplayed):        <...>
+
+Gaps:
+  must-have:    Rust (hard gap), Terraform (hard gap), React (adjacent)
+  nice-to-have: Go (hard gap), GCP (adjacent)
 ```
+
+If the vacancy does not explicitly separate requirements from wishes, infer
+from wording and say so. A must-have gap is a real risk for the application;
+a nice-to-have gap is only worth spending CV space on if there is room.
+
+### 3.2 Ask the user how to handle the gaps
+
+For every gap (never fabricate a decision), ask the user how to handle it —
+one question with the gaps as options, or a compact list with per-gap
+questions when there are few of them. Per-gap options:
+
+- **Bridge** (adjacent gaps): use the similarity move (step 4.4).
+- **Downplay via comparison** (hard gaps): one short clause comparing to the
+  closest real experience (step 4.5, option 1).
+- **Self-study note** (hard gaps, only if true): the person studies it in
+  their own time (step 4.5, option 2). Confirm it is actually true.
+- **Leave alone**: no mention in the body. The term still goes into the PDF
+  metadata keywords (step 4.7).
+
+Must-have gaps: recommend an active treatment (bridge/downplay/self-study) —
+leaving a must-have completely unaddressed is the worst outcome. Nice-to-have
+gaps: recommend **leave alone** unless there is clearly room, so the CV is not
+cluttered with weak claims. Apply the user's decisions when optimizing; a gap
+the user rejects must not appear as experience anywhere in the body.
 
 ---
 
@@ -177,10 +209,12 @@ beyond that.
 
 1. `make` must build both languages cleanly.
 2. **Screening simulation:** re-read the final CV text (extracted from the PDF
-   or the toml) against the vacancy requirement list. For each must-have,
-   confirm it is now covered directly, via an adjacent bridge, or via a hard-gap
-   downplay (comparison or self-study note), and report the coverage table to
-   the user. Anything still uncovered is a hard gap — say so plainly.
+   or the toml) against the vacancy requirement list, split into must-have and
+   nice-to-have. For each must-have, confirm it is now covered directly, via an
+   adjacent bridge, or via a hard-gap downplay (comparison or self-study note),
+   and report the coverage table to the user. Anything still uncovered is a
+   hard gap — say so plainly. Nice-to-haves: report coverage, but an uncovered
+   one is acceptable, not a failure.
 3. Sanity-check the human-readable rule: read the modified sections aloud;
    flag anything that sounds engineered.
 4. Commit the changes on the branch with a message like
