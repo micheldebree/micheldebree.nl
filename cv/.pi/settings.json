@@ -3,9 +3,9 @@
   "defaultModel": "unsloth/Qwen3.8-27B-GGUF:Q3_K_XL",
   "defaultThinkingLevel": "minimal",
   "theme": "light",
-  "compaction": { 
+  "compaction": {
     "enabled": true,
     "reserveTokens": 8192,
-    "keepRecentTokens": 4096
+    "keepRecentTokens": 8192
   }
 }
